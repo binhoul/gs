@@ -8,10 +8,11 @@
 
 import urllib
 import requests
-from bs4 import BeautifulSoup
+from lxml import etree
+from lxml.html import soupparser
 import re
 import random
-import cchardet
+import chardet
 import sys
 
 reload(sys)
@@ -106,6 +107,7 @@ class GoogleSearch(object):
     def get_results(self, query, max_value):
         """get a page of results"""
         self.reset_init()
+        #self.query = self.browser.convert_encoding(query)
         self.query = query
         self._MAX_VALUE = max_value
         while self.eor is not True:
@@ -149,19 +151,23 @@ class GoogleSearch(object):
         except BrowserError, e:
             raise "BrowserError: Failed getting %s: %s" %(e.url, e.error)
 
-        return BeautifulSoup(page)
+        dom = soupparser.fromstring(page)
+        return dom
 
 
     def _extract_results(self, soup):
         """extract the url of one search-page"""
         #get the link-urls of a page
-        preurls = soup.find_all('h3', attrs={'class': 'r'})
+        preurls = soup.xpath('//h3')
+        # for preurl in preurls:
+            # print etree.tostring(preurl)
         seedurls = list()
         for url in preurls:
-            if 'http://' in str(url) or 'https://' in str(url):
-                seedurls.append(re.search('.*(https?://\w+.*?)&', str(url)).group(1))
+            if 'http://' in etree.tostring(url) or 'https://' in etree.tostring(url):
+                seedurls.append(re.search('.*(https?://\w+.*?)&', etree.tostring(url)).group(1))
         #seedurls = [ re.search(u'[/\?]url(\?q)?=(http://\w+\..*)&', seedurl).group(1) 
         #             for seedurl in seedurls ]
+        print seedurls
         ret_res = []
         for seedurl in seedurls:
             eres = self._filter_result(seedurl)
@@ -174,6 +180,7 @@ class GoogleSearch(object):
         filter_meta = dict()
         try:
             page_text = self.browser.get_page(seedurl, proxies=self.proxies)
+            dom = soupparser.fromstring(page_text)
         except BrowserError, e:
             raise SearchError, "Failed getting %s: %s" %(e.url, e.error)
             return None
@@ -181,10 +188,14 @@ class GoogleSearch(object):
             print page_text
             return None
         else:
-            relist = re.findall(self.query, page_text)
-            if len(relist) >= 5:
-                title = BeautifulSoup(page_text).title.text
-                filter_meta['title'] = title
+            title_list = dom.xpath('//title/text()')
+            if len(title_list) == 0:
+                page_title = 'NoTitle'
+            else:
+                page_title = title_list[0].strip('\n')
+            relist = re.findall(self.query, etree.tostring(dom))
+            if len(relist) >= 1:
+                filter_meta['title'] = page_title
                 filter_meta['url'] = seedurl
                 filter_meta['query_word'] = self.query
                 filter_meta['text'] = page_text
@@ -201,7 +212,7 @@ class GoogleSearch(object):
                         '_' + \
                         str(result['match_counts']) + \
                         '_' + \
-                        re.sub('[|<>\.\\\*\?\ ]','' , result['title']) + \
+                        re.sub('[|<>\.\\\*\?\:\ ]','' , str(result['title'])) + \
                         '.txt'
                         
         with open(dest_file, 'a') as f:
@@ -236,7 +247,7 @@ class Browser(object):
             else:
 				response = requests.get(url, headers=self.headers,
 						verify=False, timeout=timeout)
-            return self.convert_encoding(response.text)
+            return self.convert_encoding(response.content)
         except requests.exceptions.Timeout, e:
             return "[Timeout] : open url timeout \n%s\n " %(url)
         except BrowserError as e:
@@ -248,8 +259,8 @@ class Browser(object):
         return user_agent
     
     def convert_encoding(self, data, new_coding = 'UTF-8'):
-        encoding = cchardet.detect(data)['encoding']
-        #print data
+        encoding = chardet.detect(data)['encoding']
+        print encoding
         if new_coding.upper() != encoding.upper():
             data = data.decode(encoding, 'ignore').encode(new_coding)
         return data
