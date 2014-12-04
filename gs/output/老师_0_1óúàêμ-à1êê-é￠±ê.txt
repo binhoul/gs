@@ -1,0 +1,1288 @@
+Match Times: 0 
+Url: http://www.duwenzhang.com/huati/laoshi/index1.html 
+Title: 1?������?��|��?????- ?��??1����?-����????����  
+
+
+<html>
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>¹ØÓÚÀÏÊ¦µÄÎÄÕÂ- ÃÀÎÄ¹ÊÊÂ-É¢ÎÄËæ±Ê </title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;" name="keywords"/>
+<meta content="&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC7;&#xE9;&#xB8;&#xD0;&#xBB;&#xB0;&#xCC;&#xE2;&#xCE;&#xC4;&#xD5;&#xC2;&#xC1;&#xD0;&#xB1;&#xED;&#xA1;&#xA3;" name="description"/>
+<link href="http://www.duwenzhang.com/templets/img/default.css" rel="stylesheet" type="text/css"/>
+<base target="_blank"/>
+</head>
+<body leftmargin="0" onmouseover="window.status='&#xA1;&#xBE;&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;&#xA1;&#xBF;www.duwenzhang.com &#xC8;&#xE7;&#xB9;&#xFB;&#xC4;&#xFA;&#xCF;&#xB2;&#xBB;&#xB6;&#xB1;&#xBE;&#xD5;&#xBE;,&#xB1;&#xF0;&#xCD;&#xFC;&#xC1;&#xCB;&#xB8;&#xF8;&#xCE;&#xD2;&#xC3;&#xC7;&#xBC;&#xD3;&#xB8;&#xF6;&#xD3;&#xD1;&#xC7;&#xE9;&#xC1;&#xB4;&#xBD;&#xD3;,&#xBB;&#xF2;&#xB0;&#xD1;&#xCD;&#xF8;&#xD6;&#xB7;&#xB8;&#xE6;&#xCB;&#xDF;&#xC4;&#xFA;QQ/MSN&#xC9;&#xCF;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;!';return true" topmargin="0">
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td align="center" height="68" width="190"><a href="http://www.duwenzhang.com" target="_blank"><img alt="&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;" border="0" height="53" src="http://www.duwenzhang.com/templets/img/logo_tg.gif" width="178"/></a></td>
+<td align="center" width="20"/>
+<td width="486"><div id="mad1"/></td>
+<td width="190"/>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/redrt.png" width="7"/></td>
+<td class="sprite-redhort"/>
+<td class="sprite-redlt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-redvert0111"/>
+<td class="daohang"><a href="http://www.duwenzhang.com/">Ê×Ò³</a> | <a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/">°®ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/">Ç×ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/youqingwenzhang/">ÓÑÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Éú»îËæ±Ê</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/">Ð£Ô°ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/jingdianwenzhang/">¾­µäÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉúÕÜÀí</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/lizhiwenzhang/">ÀøÖ¾ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/gaoxiaowenzhang/">¸ãÐ¦ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕ¼Ç</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/yingyuwenzhang/">Ó¢ÓïÎÄÕÂ</a> &#13;
+ | <a href="http://bbs.duwenzhang.com/">ÎÄÑ§ÂÛÌ³</a></td>
+<td class="sprite-redvert2"/>
+</tr>
+<tr>
+<td class="sprite-redleftb"/>
+<td class="sprite-redhorit222"/>
+<td><img height="7" src="/img/redrt.png " width="7"/></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/yellowlt.png" width="7"/></td>
+<td class="sprite-yellowhorit" colspan="3" width="150"/>
+<td class="sprite-yellowrt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-yellowlef"/>
+<td valign="bottom" width="60">ÎÄÕÂËÑË÷:</td>
+<td width="420"><form action="http://www.baidu.com/baidu">
+<input name="word" type="text"/> <input type="submit" value="&#xD5;&#xBE;&#xC4;&#xDA;&#xCB;&#xD1;&#xCB;&#xF7;"/>
+<input name="tn" type="hidden" value="bds"/> <input name="cl" type="hidden" value="3"/>
+<input name="ct" type="hidden" value="2097152"/> <input name="si" type="hidden" value="www.duwenzhang.com"/>
+</form></td>
+<td valign="bottom"> </td>
+<td class="sprite-yellowvf"/>
+</tr>
+<tr>
+<td class="sprite-yellowlf"/>
+<td class="sprite-yellowbt" colspan="3"/>
+<td><img height="7" src="/img/yellowrj.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td height="4"/>
+</tr>
+<tr>
+<td height="200" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="25" src="/img/bluel.png" width="7"/></td>
+<td class="sprite-bluec"><h1>¹ØÓÚ/ÓÐ¹ØÀÏÊ¦µÄÎÄÕÂ</h1></td>
+<td width="7"><img height="25" src="/img/bluer.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="8" src="/img/blueleft2.png" width="7"/></td>
+<td class="sprite-bluetop2"/>
+<td class="sprite-bluerigh2" width="7"/>
+</tr>
+<tr>
+<td class="sprite-bluelef2" rowspan="6"/>
+<td valign="top"><div align="left" id="gad2" style="padding-bottom:10px"><script language="JavaScript" src="/a3d3.js" type="text/javascript"/></div><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html">¾ýÉúÎÒÎ´Éú£¬ÎÒÉú¾ýÒÑÀÏ</a></b></td>
+<td width="55%">µã»÷:11437 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294488"><u>ÆÀÂÛ:42</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÄÇÄê¸ß¿¼Ç°£¬ÎÒÃ»ÓÃÊÖ»ú£¬²»ÖªµÀÄãÊÇÔõÃ´ÕÒµ½ÎÒµÄ°àÖ÷ÈÎµÄ£¬ÄãÈÃ°àÖ÷ÈÎ×ª¸æÎÒ£¬»Ý£¬¸ß¿¼Ë³Àû¡£ Ä¾×Ó£¬Õâ¼þÊÂ²ØÔÚÎÒÐÄÀïºÜ¶àÄê£¬ÎÂÅ¯£¬¸Ð¼¤¡£ Ò»Ö±ÒÔÀ´£¬ÎÒ¶¼Ö´Òâ³ÆºôÄãÄ¾×Ó£¬ÊÇÏëÀ­½øÎÒÃÇÖ®¼äµÄ¾àÀë£¬¿ÉÒÔÏñÅóÓÑ£¬ÎÞ»°²»Ì¸ÄØ£¡Ê¦ÉúÖ®¼ä£¬×ÜÊÇÓÐÐ©Êø¸¿£¬²»×ÔÔÚ¡£ ÎÒÌÖÑá<font color="#8F8C89">(2014-06-16)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html">Éú»îÖÐµÄÉúÓë»î</a></b></td>
+<td width="55%">µã»÷:6475 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294147"><u>ÆÀÂÛ:6</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡¡¾Ò»¡£ ÉúÏÂÀ´£¬»îÏÂÈ¥¡¿ ÓÐ²¿µçÊÓ¾çÖÐ£¬ÓÐ¾äÓÐÃûµÄ»°£¬ÊÇÉú»î£¬¾ÍÊÇÄãÂè°ÑÄãÉúÏÂÀ´£¬È»ºó£¬ÄãÒª¿¿×Ô¼º»îÏÂÈ¥¡£ Õâ¾ä»°£¬ËµµÄÓÐÀí£¬ËµµÄÀøÖ¾¡£ Ö®Ç°ÓÖÈ¥ÉÏÁË´Î¿Î£¬<font color="red">ÀÏÊ¦</font>½²µ½£¬Éú»î£¬¾ÍÊÇÒª»îµÃÓÐÉú»ú¡¢ÉúÆø¡£<font color="red">ÀÏÊ¦</font>µã²¦µ½£¬ËµÕâÊÇÎÒËùÈ±·¦µÄ¡£ µ±Ê±ÔÚ³Ô·¹£¬Ö»¹ËÍù×ìÀïÈûÊ³<font color="#8F8C89">(2014-06-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html"><img align="left" height="75" src="http://www.duwenzhang.com/upimg/140519/1_190725_lit.jpg" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html">ÏÂ±²×Ó£¬ÎÒ»¹×öÄãµÄÅ®ÈË£¨Ð¡Ð¡Ëµ£©</a></b></td>
+<td width="55%">µã»÷:26353 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=291476"><u>ÆÀÂÛ:84</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ËûÃÇÁ©×îÖÕ»¹ÊÇ°Ñ»éÀëÁË£¬Àë»éµÄÔ­Òò³ýÁËÉúÓýÊÂ¼þÒÔÍâ£¬×îÖØÒªµÄÊÇÅ®ÈË¾õµÃÄÐÈË²»ÔÙ°®ËýÁË¡£ ÄÐµÄÊÇµ±µØµÄÒ»ÃûÒµÎñÔ±£¬³£ÄêÔÚÍâÅÜÒµÎñ£¬Ã¿Ìì¶¼ÊÇµÈÅ®ÈËÊìË¯Ö®ºó²Å»Øµ½¼Ò¡£Å®ÈËÔòÊÇÒ»Ãû<font color="red">½ÌÊ¦</font>£¬ÏÂ°à»Ø¼Ò£¬Ã¿ÌìÅã°éÅ®ÈËµÄ³ýÁËµçÊÓ¾Í»¹ÊÇµçÊÓ¡£ÄÐÈËÊÇÒ»¸öÏ¸ÐÄÈëÎ¢µÄÈË£¬¼ÒÀï<font color="#8F8C89">(2014-05-18)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html">Í»È» ¾ÍÀÏ´ó²»Ð¡ÁË</a></b></td>
+<td width="55%">µã»÷:22981 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=283996"><u>ÆÀÂÛ:23</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÇàÊ¯±Ìº£Á÷Çå¹æ£¬ ´ºÔ·¸¡»ªÃÎ·²³¾¡£ ºÝÐÄÆ³¿´Â¥ÖÐ¹ë£¬ Í´ÈëºîÃÅ·Ç¾ÉÈË¡£ ÓÐÊ±ºòÉú»îÖÐµÄÊÂÖ»ÒªÎÒ²»È¥Ïë£¬ºÃÏñÒ»ÇÐÒ²¾ÍÄÇÃ´»ØÊÂÁË£¬¾ÍÄÇÃ´²»Öª²»¾õµÄ¹ýÈ¥ÁË£¬ÒÔÖÁÓÚÍ»È»ÏëÆðÀ´µÄÊ±ºò£¬ºÃÏñÒ»Ä»Ä»¶¼·¢ÉúÔÚ×òÌì£¬ÓÖºÃÏñÒ»ÇÐ¶¼²»Ôø¾­Àú¹ýÒ»Ñù£¬»áÏëÉú»î¼ÈÈ»ÄÜÕâÃ´µÄ×ß¹ýÀ´<font color="#8F8C89">(2014-03-02)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html">ÔÙÒ²Ñ°²»µ½µÄËÆË®ÈÝÑÕ</a></b></td>
+<td width="55%">µã»÷:10249 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=282615"><u>ÆÀÂÛ:10</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡º¢×Ó£¬Äã¾ÍÔÚÕâÒ»Ìì³öÉúÁË£¬Äã¿ÞµÃºÜ´óÉù£¬Äã²»¶ÏµØÕõÔú£¬ÒòÎªÄãÖªµÀ£¬Õâ¸öÊÀ½çÄã½«½ÓÊÜºÜ´óµÄÌôÕ½£¬ÄãÒªÓÂ¸ÒµØÔÚÕâ¸öÊÀ½çÉÏ»îÏÂÈ¥£¬ÕâÒ»µã²»ÈÝÒ×£¬ÄãºÜ¿Ö¾å£¬µ«ÊÇÄãµÄ±íÇéÖ»ÓÐÒ»¸ö£¬¾ÍÊÇ¿Þ£¬ÄãºÜµ¥´¿£¬ÒòÎªÄãÖ»ÊÇÒ»¸öº¢×Ó¡£ÄãµÄÊÖ½ô½ôµØÎÕ×Å£¬Ö»ÎÕ×ÅÊôÓÚÄãµÄËÆË®ÈÝÑÕ<font color="#8F8C89">(2014-02-15)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html">ÈËÉúÖØÔÚ¹ý³Ì</a></b></td>
+<td width="55%">µã»÷:10879 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=278460"><u>ÆÀÂÛ:15</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡13.12.22£¨ÈÕ£©Çç£¨344£©ÈËÉúÖØÔÚ¹ý³Ì ÓÖµ½Ò»Äê¶¬ÖÁÈÕ£¬¼´ÈÕÄÏÖÁ£¬ÈÕ¶ÌÖ®ÖÁ£¬ÈÕÓ°³¤Ö®ÖÁ£¬Ò¹³¤Ö®ÖÁ¡£¶¬ÖÁÈÕÌ«ÑôÖ±ÉäÄÏ»Ø¹éÏß£¬Ñô¹â¶Ô±±°ëÇò×îÇãÐ±£¬±±°ëÇò°×Ìì×î¶Ì£¬ºÚÒ¹×î³¤¡£¶¬ÖÁ¹ýºó£¬Ì«ÑôÖ±ÉäµãÓÖÂýÂýµØÏò±±»Ø¹éÏß×ªÒÆ¡£µ±ÈÕ£¬¶¬ÖÁÒ²Ö»ÊÇµØÇòÎ§ÈÆÌ«ÑôÔË×ªÖÐµÄÒ»¸ö¹ý<font color="#8F8C89">(2013-12-22)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html">ÎÒ·Ü¶·ÁËÊ®°ËÄê²ÅºÍÄãÒ»ÆðK¸è</a></b></td>
+<td width="55%">µã»÷:7643 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=270847"><u>ÆÀÂÛ:24</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÎÒµÄÅóÓÑ£¬Ò²ÐíÄã¾õµÄµ½¸èÌüK¸èÊÇÔÚ×ÔÈ»²»¹ýµÄÊÂÇé£¬µ«¶ÔÓÚ´ÓÅ©´å³öÀ´µÄÎÒ£¬¿ÉÎ½ÊÇÒ»¼þ´óÊÂ£¬Ò»¼þÌì·­µØ¸²µÄ´óÊÂ¡£¶ÔÎÒ¶øÑÔ£¬Õâ´ú±íÉú»î·½Ê½µÄ×ª±ä¡£ÊÇ´ÓÎïÖÊÉú»î×ßÏò¾«ÉñÉú»îµÄ×ªÕÛµã£¬¶àÄêÒÔÀ´£¬ÎªÁËÓ¦¸Ã×öµÄÊÂÇé£¬ÎÒÏ²»¶µÄÊÀ½çÒ»Æ¬»ÄÎß£¬³¤ÂúÔÓ²Ý¡£±È½ÏÎÒÃÇµÄ³É³¤Àú<font color="#8F8C89">(2013-10-04)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html">¼ÒÓÐ<font color="red">ÀÏÊ¦</font></a></b></td>
+<td width="55%">µã»÷:5887 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=269759"><u>ÆÀÂÛ:3</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡<font color="red">½ÌÊ¦</font>½Úµ½ÁË£¬ÀÏ¹«ÓÖÊÕµ½ÁË²»ÉÙÏÊ»¨£¬ÊÇÎôÈÕ½Ì¹ýµÄÑ§ÉúËÍÀ´µÄ£¬ÏÖÔÚÒÑ´óÑ§±ÏÒµ£¬ËûµÃÒâÓÚ×Ô¼ºµÄÌÒÀîÂúÌìÏÂ£¬ÎÒÈ´¸Ð¿®ËûÕâÐ©ÄêÀ´²»¼ÆÆäÊýµÄ¸¶³ö¡£ÇüÖ¸ÊýÀ´£¬½á»éÒÑÊ®Îå¸öÄêÍ·£¬±»ÈË³Æ×÷Ê¦Ä¸Ò²ÓÐÊ®ÎåÄêÁË¡£¼ÒÓÐ<font color="red">ÀÏÊ¦</font>£¬ÓÐÀûÓÐ±×£¬ÓÐµÃÓÐÊ§£¬Å®¶ùÉýÈë³õÖÐ£¬<font color="red">ÀÏÊ¦</font>¾ÍÊÇ¸¸Ç×£¬¸¸<font color="#8F8C89">(2013-09-23)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><font color="red">ÀÏÊ¦</font>£¬ÓÀÔ¶¶¨¸ñµÄÊØÍû</a></b></td>
+<td width="55%">µã»÷:40095 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=268624"><u>ÆÀÂÛ:34</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡´º»ªÇïÊµ£¬ÌÒÀîÇßÏã£¬ÓÖÒ»¸ö<font color="red">½ÌÊ¦</font>½ÚÀ´ÁÙ£¬ÈÃÎÒÃÇÖØÊ°¹ýÈ¥µÄ»ØÒä£¬½«×Ô¼º¶Ô<font color="red">ÀÏÊ¦</font>µÄÄÇ·Ý°®ÓëÉîÉîµÄÇ£¹Ò´ÓÐÄÖÐ»½Æð£¬ÖØÎÂ¾«²ÊË²¼ä£¬ÊÍ»³Çé¸Ð£¬ÕÀ·Å÷ÈÁ¦£¬·á¸»ÈËÉúÔÄÀú£¬ÓªÔìºÍÐ³·ÕÎ§£¬ÓÃ×ÔÉíµÄÑÔÐÐ³äÊµºÍ¸ÐÎòÉú»îµÄ·½·½ÃæÃæ¡£<font color="red">ÀÏÊ¦</font>µÄ°®ÓÀÔ¶ÊÇÒ»¼ÁÎ¿½åÐÄÁéµÄÁ¼Ò©£¬Èö²¥ÔÚÃ¿Ò»<font color="#8F8C89">(2013-09-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html">Óë¹Â¶À×öÅóÓÑ</a></b></td>
+<td width="55%">µã»÷:14247 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=264632"><u>ÆÀÂÛ:22</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÏÛÄ½×ÅÃ÷ÐÇÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄ¸èÃÔ£¬ÏÛÄ½×ÅÁìµ¼ÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÏÂÊô£¬ÏÛÄ½×Å<font color="red">ÀÏÊ¦</font>Éí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÑ§×Ó£¬×ÜÖ®ÎÒÃÇÒ»Ö±ÔÚÏÛÄ½×Å±ðÈË¡£ÆäÊµÔÚÉú»îÖÐ£¬Ã¿¸öÈËÔÚÍÊÈ¥¸÷×ÔµÄ¹â»·ºó£¬ÎÒÃÇ¶¼ÊÇÒ»ÑùµÄ£¬ÊÇ¹Â¶ÀµÄº¢×Ó£¬ÊÇ¼ÅÄ¯µÄÆÍÈË¡£ ÎÒÃÇ´Ó³öÉúµ½×îºó£¬Ã»ÓÐÈÎºÎÒ»¸öÈË<font color="#8F8C89">(2013-08-06)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table></td>
+<td class="sprite-blueveru2" rowspan="6"/>
+</tr>
+<tr>
+<td style="padding-bottom:3px;"> ¹²18Ò³/177Æª¶ÌÎÄ  Ê×Ò³   1 <a href="index2.html" target="_self">[2]</a> <a href="index3.html" target="_self">[3]</a> <a href="index4.html" target="_self">[4]</a> <a href="index5.html" target="_self">[5]</a> <a href="index6.html" target="_self">[6]</a> <a href="index7.html" target="_self">[7]</a> <a href="index8.html" target="_self">[8]</a> <a href="index9.html" target="_self">[9]</a> <a href="index10.html" target="_self">[10]</a> <a href="index11.html" target="_self">[11]</a> <a href="index2.html" target="_self">ÏÂÒ»Ò³</a> <a href="index18.html" target="_self">Ä©Ò³</a> </td>
+</tr>
+<tr>
+<td align="left" class="pindao" style="padding-left:20px;padding-bottom:5px;padding-top:7px;border-top:1px dashed #0581E1"><div align="left" id="gad7"><script language="JavaScript" src="/a8d8.js" type="text/javascript"/></div></td>
+</tr>
+<tr>
+<td style="border-top:1px dashed #0581E1"><br/>&#13;
+        ±¾Õ¾»áÔ±¹ØÓÚÀÏÊ¦µÄÈÕÖ¾Ëæ±Ê£º<br/>
+<div class="f2">
+<ul>
+<li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141202/311249.html">Í¯ÄêÊ±µÄµçÓ°</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141202/311234.html">É½ÀïÍÞµÄÃÎÏë</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shige/shuqingshi/20141202/311163.html">¸¸Ç×</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141130/311058.html">ÎÒÔÚ»ØÒäÀï2</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310917.html">ËµÖÐ¹úµÄ¡°×°¡±Óë¡°ÓÂÆø¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310874.html">¼ÇÒäÖÐÀÏÊ¦</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141128/310814.html">Ò»ÖêÜÔÀò»¨¸øÎÒµÄ¾¯ÐÑ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310677.html">Ë¼</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310669.html">ÕëÑÛ´óµÄ¿ìÀÖ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141125/310512.html">Ê®Ò»ËêµÄÎÒÑ§»áÈçºÎ±ä»µ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20141125/310468.html">ÀÏÊ¦Ëµ£º¡°Î¨Ç«ÊÜ¸£¡£¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/20141125/310425.html">ÓÆÓÆÊ¦ÉúÇé</a></li></ul>
+</div></td>
+</tr>
+<tr>
+<td style="border-bottom:1px;padding-left:6px">¸ü¶à<a href="http://www.duwenzhang.com/haowenzhang.html">ºÃÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕÖ¾</a>£¬<a href="http://www.duwenzhang.com">Çé¸Ð¹ÊÊÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉú</a>,<a href="http://www.duwenzhang.com/huoban.html">ºÏ×÷»ï°é</a></td>
+</tr>
+<tr>
+<td align="center"/>
+</tr>
+<tr>
+<td class="sprite-bluelefu2"/>
+<td class="sprite-bluehorj2"/>
+<td><img height="7" src="/img/bluerigi2.png" width="7"/></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td colspan="4" height="10"/>
+</tr>
+<tr>
+<td align="center" bgcolor="#F5F5F5" height="50">Copyright © 2007-2014 <a href="http://www.duwenzhang.com">ÎÄÕÂÔÄ¶ÁÍø</a> °æÈ¨ËùÓÐ.<a href="http://www.duwenzhang.com">Çé¸ÐÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/sanwen.html">É¢ÎÄ</a><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Ëæ±Ê</a>,<a href="http://www.duwenzhang.com/meiwen.html">ÃÀÎÄ</a>¹ÊÊÂ,ÓÅÐã×÷ÎÄÔÚÏßÔÄ¶ÁÐÀÉÍ&#13;
+</td>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5" width="30"><script src="http://cbjs.baidu.com/js/o.js" type="text/javascript"/>
+<script type="text/javascript">&#13;
+BAIDU_CLB_fillSlotAsync('219165','mad1');&#13;
+</script><script language="javascript" src="/foot.js" type="text/javascript"/></td>
+</tr>
+</table>
+</center></body></html>
+Match Times: 0 
+Url: http://www.duwenzhang.com/huati/laoshi/index1.html 
+Title: 1?������?��|��?????- ?��??1����?-����????����  
+
+
+<html>
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>¹ØÓÚÀÏÊ¦µÄÎÄÕÂ- ÃÀÎÄ¹ÊÊÂ-É¢ÎÄËæ±Ê </title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;" name="keywords"/>
+<meta content="&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC7;&#xE9;&#xB8;&#xD0;&#xBB;&#xB0;&#xCC;&#xE2;&#xCE;&#xC4;&#xD5;&#xC2;&#xC1;&#xD0;&#xB1;&#xED;&#xA1;&#xA3;" name="description"/>
+<link href="http://www.duwenzhang.com/templets/img/default.css" rel="stylesheet" type="text/css"/>
+<base target="_blank"/>
+</head>
+<body leftmargin="0" onmouseover="window.status='&#xA1;&#xBE;&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;&#xA1;&#xBF;www.duwenzhang.com &#xC8;&#xE7;&#xB9;&#xFB;&#xC4;&#xFA;&#xCF;&#xB2;&#xBB;&#xB6;&#xB1;&#xBE;&#xD5;&#xBE;,&#xB1;&#xF0;&#xCD;&#xFC;&#xC1;&#xCB;&#xB8;&#xF8;&#xCE;&#xD2;&#xC3;&#xC7;&#xBC;&#xD3;&#xB8;&#xF6;&#xD3;&#xD1;&#xC7;&#xE9;&#xC1;&#xB4;&#xBD;&#xD3;,&#xBB;&#xF2;&#xB0;&#xD1;&#xCD;&#xF8;&#xD6;&#xB7;&#xB8;&#xE6;&#xCB;&#xDF;&#xC4;&#xFA;QQ/MSN&#xC9;&#xCF;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;!';return true" topmargin="0">
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td align="center" height="68" width="190"><a href="http://www.duwenzhang.com" target="_blank"><img alt="&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;" border="0" height="53" src="http://www.duwenzhang.com/templets/img/logo_tg.gif" width="178"/></a></td>
+<td align="center" width="20"/>
+<td width="486"><div id="mad1"/></td>
+<td width="190"/>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/redrt.png" width="7"/></td>
+<td class="sprite-redhort"/>
+<td class="sprite-redlt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-redvert0111"/>
+<td class="daohang"><a href="http://www.duwenzhang.com/">Ê×Ò³</a> | <a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/">°®ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/">Ç×ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/youqingwenzhang/">ÓÑÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Éú»îËæ±Ê</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/">Ð£Ô°ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/jingdianwenzhang/">¾­µäÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉúÕÜÀí</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/lizhiwenzhang/">ÀøÖ¾ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/gaoxiaowenzhang/">¸ãÐ¦ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕ¼Ç</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/yingyuwenzhang/">Ó¢ÓïÎÄÕÂ</a> &#13;
+ | <a href="http://bbs.duwenzhang.com/">ÎÄÑ§ÂÛÌ³</a></td>
+<td class="sprite-redvert2"/>
+</tr>
+<tr>
+<td class="sprite-redleftb"/>
+<td class="sprite-redhorit222"/>
+<td><img height="7" src="/img/redrt.png " width="7"/></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/yellowlt.png" width="7"/></td>
+<td class="sprite-yellowhorit" colspan="3" width="150"/>
+<td class="sprite-yellowrt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-yellowlef"/>
+<td valign="bottom" width="60">ÎÄÕÂËÑË÷:</td>
+<td width="420"><form action="http://www.baidu.com/baidu">
+<input name="word" type="text"/> <input type="submit" value="&#xD5;&#xBE;&#xC4;&#xDA;&#xCB;&#xD1;&#xCB;&#xF7;"/>
+<input name="tn" type="hidden" value="bds"/> <input name="cl" type="hidden" value="3"/>
+<input name="ct" type="hidden" value="2097152"/> <input name="si" type="hidden" value="www.duwenzhang.com"/>
+</form></td>
+<td valign="bottom"> </td>
+<td class="sprite-yellowvf"/>
+</tr>
+<tr>
+<td class="sprite-yellowlf"/>
+<td class="sprite-yellowbt" colspan="3"/>
+<td><img height="7" src="/img/yellowrj.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td height="4"/>
+</tr>
+<tr>
+<td height="200" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="25" src="/img/bluel.png" width="7"/></td>
+<td class="sprite-bluec"><h1>¹ØÓÚ/ÓÐ¹ØÀÏÊ¦µÄÎÄÕÂ</h1></td>
+<td width="7"><img height="25" src="/img/bluer.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="8" src="/img/blueleft2.png" width="7"/></td>
+<td class="sprite-bluetop2"/>
+<td class="sprite-bluerigh2" width="7"/>
+</tr>
+<tr>
+<td class="sprite-bluelef2" rowspan="6"/>
+<td valign="top"><div align="left" id="gad2" style="padding-bottom:10px"><script language="JavaScript" src="/a3d3.js" type="text/javascript"/></div><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html">¾ýÉúÎÒÎ´Éú£¬ÎÒÉú¾ýÒÑÀÏ</a></b></td>
+<td width="55%">µã»÷:11437 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294488"><u>ÆÀÂÛ:42</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÄÇÄê¸ß¿¼Ç°£¬ÎÒÃ»ÓÃÊÖ»ú£¬²»ÖªµÀÄãÊÇÔõÃ´ÕÒµ½ÎÒµÄ°àÖ÷ÈÎµÄ£¬ÄãÈÃ°àÖ÷ÈÎ×ª¸æÎÒ£¬»Ý£¬¸ß¿¼Ë³Àû¡£ Ä¾×Ó£¬Õâ¼þÊÂ²ØÔÚÎÒÐÄÀïºÜ¶àÄê£¬ÎÂÅ¯£¬¸Ð¼¤¡£ Ò»Ö±ÒÔÀ´£¬ÎÒ¶¼Ö´Òâ³ÆºôÄãÄ¾×Ó£¬ÊÇÏëÀ­½øÎÒÃÇÖ®¼äµÄ¾àÀë£¬¿ÉÒÔÏñÅóÓÑ£¬ÎÞ»°²»Ì¸ÄØ£¡Ê¦ÉúÖ®¼ä£¬×ÜÊÇÓÐÐ©Êø¸¿£¬²»×ÔÔÚ¡£ ÎÒÌÖÑá<font color="#8F8C89">(2014-06-16)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html">Éú»îÖÐµÄÉúÓë»î</a></b></td>
+<td width="55%">µã»÷:6475 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294147"><u>ÆÀÂÛ:6</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡¡¾Ò»¡£ ÉúÏÂÀ´£¬»îÏÂÈ¥¡¿ ÓÐ²¿µçÊÓ¾çÖÐ£¬ÓÐ¾äÓÐÃûµÄ»°£¬ÊÇÉú»î£¬¾ÍÊÇÄãÂè°ÑÄãÉúÏÂÀ´£¬È»ºó£¬ÄãÒª¿¿×Ô¼º»îÏÂÈ¥¡£ Õâ¾ä»°£¬ËµµÄÓÐÀí£¬ËµµÄÀøÖ¾¡£ Ö®Ç°ÓÖÈ¥ÉÏÁË´Î¿Î£¬<font color="red">ÀÏÊ¦</font>½²µ½£¬Éú»î£¬¾ÍÊÇÒª»îµÃÓÐÉú»ú¡¢ÉúÆø¡£<font color="red">ÀÏÊ¦</font>µã²¦µ½£¬ËµÕâÊÇÎÒËùÈ±·¦µÄ¡£ µ±Ê±ÔÚ³Ô·¹£¬Ö»¹ËÍù×ìÀïÈûÊ³<font color="#8F8C89">(2014-06-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html"><img align="left" height="75" src="http://www.duwenzhang.com/upimg/140519/1_190725_lit.jpg" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html">ÏÂ±²×Ó£¬ÎÒ»¹×öÄãµÄÅ®ÈË£¨Ð¡Ð¡Ëµ£©</a></b></td>
+<td width="55%">µã»÷:26353 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=291476"><u>ÆÀÂÛ:84</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ËûÃÇÁ©×îÖÕ»¹ÊÇ°Ñ»éÀëÁË£¬Àë»éµÄÔ­Òò³ýÁËÉúÓýÊÂ¼þÒÔÍâ£¬×îÖØÒªµÄÊÇÅ®ÈË¾õµÃÄÐÈË²»ÔÙ°®ËýÁË¡£ ÄÐµÄÊÇµ±µØµÄÒ»ÃûÒµÎñÔ±£¬³£ÄêÔÚÍâÅÜÒµÎñ£¬Ã¿Ìì¶¼ÊÇµÈÅ®ÈËÊìË¯Ö®ºó²Å»Øµ½¼Ò¡£Å®ÈËÔòÊÇÒ»Ãû<font color="red">½ÌÊ¦</font>£¬ÏÂ°à»Ø¼Ò£¬Ã¿ÌìÅã°éÅ®ÈËµÄ³ýÁËµçÊÓ¾Í»¹ÊÇµçÊÓ¡£ÄÐÈËÊÇÒ»¸öÏ¸ÐÄÈëÎ¢µÄÈË£¬¼ÒÀï<font color="#8F8C89">(2014-05-18)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html">Í»È» ¾ÍÀÏ´ó²»Ð¡ÁË</a></b></td>
+<td width="55%">µã»÷:22981 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=283996"><u>ÆÀÂÛ:23</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÇàÊ¯±Ìº£Á÷Çå¹æ£¬ ´ºÔ·¸¡»ªÃÎ·²³¾¡£ ºÝÐÄÆ³¿´Â¥ÖÐ¹ë£¬ Í´ÈëºîÃÅ·Ç¾ÉÈË¡£ ÓÐÊ±ºòÉú»îÖÐµÄÊÂÖ»ÒªÎÒ²»È¥Ïë£¬ºÃÏñÒ»ÇÐÒ²¾ÍÄÇÃ´»ØÊÂÁË£¬¾ÍÄÇÃ´²»Öª²»¾õµÄ¹ýÈ¥ÁË£¬ÒÔÖÁÓÚÍ»È»ÏëÆðÀ´µÄÊ±ºò£¬ºÃÏñÒ»Ä»Ä»¶¼·¢ÉúÔÚ×òÌì£¬ÓÖºÃÏñÒ»ÇÐ¶¼²»Ôø¾­Àú¹ýÒ»Ñù£¬»áÏëÉú»î¼ÈÈ»ÄÜÕâÃ´µÄ×ß¹ýÀ´<font color="#8F8C89">(2014-03-02)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html">ÔÙÒ²Ñ°²»µ½µÄËÆË®ÈÝÑÕ</a></b></td>
+<td width="55%">µã»÷:10249 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=282615"><u>ÆÀÂÛ:10</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡º¢×Ó£¬Äã¾ÍÔÚÕâÒ»Ìì³öÉúÁË£¬Äã¿ÞµÃºÜ´óÉù£¬Äã²»¶ÏµØÕõÔú£¬ÒòÎªÄãÖªµÀ£¬Õâ¸öÊÀ½çÄã½«½ÓÊÜºÜ´óµÄÌôÕ½£¬ÄãÒªÓÂ¸ÒµØÔÚÕâ¸öÊÀ½çÉÏ»îÏÂÈ¥£¬ÕâÒ»µã²»ÈÝÒ×£¬ÄãºÜ¿Ö¾å£¬µ«ÊÇÄãµÄ±íÇéÖ»ÓÐÒ»¸ö£¬¾ÍÊÇ¿Þ£¬ÄãºÜµ¥´¿£¬ÒòÎªÄãÖ»ÊÇÒ»¸öº¢×Ó¡£ÄãµÄÊÖ½ô½ôµØÎÕ×Å£¬Ö»ÎÕ×ÅÊôÓÚÄãµÄËÆË®ÈÝÑÕ<font color="#8F8C89">(2014-02-15)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html">ÈËÉúÖØÔÚ¹ý³Ì</a></b></td>
+<td width="55%">µã»÷:10879 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=278460"><u>ÆÀÂÛ:15</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡13.12.22£¨ÈÕ£©Çç£¨344£©ÈËÉúÖØÔÚ¹ý³Ì ÓÖµ½Ò»Äê¶¬ÖÁÈÕ£¬¼´ÈÕÄÏÖÁ£¬ÈÕ¶ÌÖ®ÖÁ£¬ÈÕÓ°³¤Ö®ÖÁ£¬Ò¹³¤Ö®ÖÁ¡£¶¬ÖÁÈÕÌ«ÑôÖ±ÉäÄÏ»Ø¹éÏß£¬Ñô¹â¶Ô±±°ëÇò×îÇãÐ±£¬±±°ëÇò°×Ìì×î¶Ì£¬ºÚÒ¹×î³¤¡£¶¬ÖÁ¹ýºó£¬Ì«ÑôÖ±ÉäµãÓÖÂýÂýµØÏò±±»Ø¹éÏß×ªÒÆ¡£µ±ÈÕ£¬¶¬ÖÁÒ²Ö»ÊÇµØÇòÎ§ÈÆÌ«ÑôÔË×ªÖÐµÄÒ»¸ö¹ý<font color="#8F8C89">(2013-12-22)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html">ÎÒ·Ü¶·ÁËÊ®°ËÄê²ÅºÍÄãÒ»ÆðK¸è</a></b></td>
+<td width="55%">µã»÷:7643 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=270847"><u>ÆÀÂÛ:24</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÎÒµÄÅóÓÑ£¬Ò²ÐíÄã¾õµÄµ½¸èÌüK¸èÊÇÔÚ×ÔÈ»²»¹ýµÄÊÂÇé£¬µ«¶ÔÓÚ´ÓÅ©´å³öÀ´µÄÎÒ£¬¿ÉÎ½ÊÇÒ»¼þ´óÊÂ£¬Ò»¼þÌì·­µØ¸²µÄ´óÊÂ¡£¶ÔÎÒ¶øÑÔ£¬Õâ´ú±íÉú»î·½Ê½µÄ×ª±ä¡£ÊÇ´ÓÎïÖÊÉú»î×ßÏò¾«ÉñÉú»îµÄ×ªÕÛµã£¬¶àÄêÒÔÀ´£¬ÎªÁËÓ¦¸Ã×öµÄÊÂÇé£¬ÎÒÏ²»¶µÄÊÀ½çÒ»Æ¬»ÄÎß£¬³¤ÂúÔÓ²Ý¡£±È½ÏÎÒÃÇµÄ³É³¤Àú<font color="#8F8C89">(2013-10-04)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html">¼ÒÓÐ<font color="red">ÀÏÊ¦</font></a></b></td>
+<td width="55%">µã»÷:5887 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=269759"><u>ÆÀÂÛ:3</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡<font color="red">½ÌÊ¦</font>½Úµ½ÁË£¬ÀÏ¹«ÓÖÊÕµ½ÁË²»ÉÙÏÊ»¨£¬ÊÇÎôÈÕ½Ì¹ýµÄÑ§ÉúËÍÀ´µÄ£¬ÏÖÔÚÒÑ´óÑ§±ÏÒµ£¬ËûµÃÒâÓÚ×Ô¼ºµÄÌÒÀîÂúÌìÏÂ£¬ÎÒÈ´¸Ð¿®ËûÕâÐ©ÄêÀ´²»¼ÆÆäÊýµÄ¸¶³ö¡£ÇüÖ¸ÊýÀ´£¬½á»éÒÑÊ®Îå¸öÄêÍ·£¬±»ÈË³Æ×÷Ê¦Ä¸Ò²ÓÐÊ®ÎåÄêÁË¡£¼ÒÓÐ<font color="red">ÀÏÊ¦</font>£¬ÓÐÀûÓÐ±×£¬ÓÐµÃÓÐÊ§£¬Å®¶ùÉýÈë³õÖÐ£¬<font color="red">ÀÏÊ¦</font>¾ÍÊÇ¸¸Ç×£¬¸¸<font color="#8F8C89">(2013-09-23)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><font color="red">ÀÏÊ¦</font>£¬ÓÀÔ¶¶¨¸ñµÄÊØÍû</a></b></td>
+<td width="55%">µã»÷:40095 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=268624"><u>ÆÀÂÛ:34</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡´º»ªÇïÊµ£¬ÌÒÀîÇßÏã£¬ÓÖÒ»¸ö<font color="red">½ÌÊ¦</font>½ÚÀ´ÁÙ£¬ÈÃÎÒÃÇÖØÊ°¹ýÈ¥µÄ»ØÒä£¬½«×Ô¼º¶Ô<font color="red">ÀÏÊ¦</font>µÄÄÇ·Ý°®ÓëÉîÉîµÄÇ£¹Ò´ÓÐÄÖÐ»½Æð£¬ÖØÎÂ¾«²ÊË²¼ä£¬ÊÍ»³Çé¸Ð£¬ÕÀ·Å÷ÈÁ¦£¬·á¸»ÈËÉúÔÄÀú£¬ÓªÔìºÍÐ³·ÕÎ§£¬ÓÃ×ÔÉíµÄÑÔÐÐ³äÊµºÍ¸ÐÎòÉú»îµÄ·½·½ÃæÃæ¡£<font color="red">ÀÏÊ¦</font>µÄ°®ÓÀÔ¶ÊÇÒ»¼ÁÎ¿½åÐÄÁéµÄÁ¼Ò©£¬Èö²¥ÔÚÃ¿Ò»<font color="#8F8C89">(2013-09-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html">Óë¹Â¶À×öÅóÓÑ</a></b></td>
+<td width="55%">µã»÷:14247 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=264632"><u>ÆÀÂÛ:22</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÏÛÄ½×ÅÃ÷ÐÇÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄ¸èÃÔ£¬ÏÛÄ½×ÅÁìµ¼ÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÏÂÊô£¬ÏÛÄ½×Å<font color="red">ÀÏÊ¦</font>Éí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÑ§×Ó£¬×ÜÖ®ÎÒÃÇÒ»Ö±ÔÚÏÛÄ½×Å±ðÈË¡£ÆäÊµÔÚÉú»îÖÐ£¬Ã¿¸öÈËÔÚÍÊÈ¥¸÷×ÔµÄ¹â»·ºó£¬ÎÒÃÇ¶¼ÊÇÒ»ÑùµÄ£¬ÊÇ¹Â¶ÀµÄº¢×Ó£¬ÊÇ¼ÅÄ¯µÄÆÍÈË¡£ ÎÒÃÇ´Ó³öÉúµ½×îºó£¬Ã»ÓÐÈÎºÎÒ»¸öÈË<font color="#8F8C89">(2013-08-06)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table></td>
+<td class="sprite-blueveru2" rowspan="6"/>
+</tr>
+<tr>
+<td style="padding-bottom:3px;"> ¹²18Ò³/177Æª¶ÌÎÄ  Ê×Ò³   1 <a href="index2.html" target="_self">[2]</a> <a href="index3.html" target="_self">[3]</a> <a href="index4.html" target="_self">[4]</a> <a href="index5.html" target="_self">[5]</a> <a href="index6.html" target="_self">[6]</a> <a href="index7.html" target="_self">[7]</a> <a href="index8.html" target="_self">[8]</a> <a href="index9.html" target="_self">[9]</a> <a href="index10.html" target="_self">[10]</a> <a href="index11.html" target="_self">[11]</a> <a href="index2.html" target="_self">ÏÂÒ»Ò³</a> <a href="index18.html" target="_self">Ä©Ò³</a> </td>
+</tr>
+<tr>
+<td align="left" class="pindao" style="padding-left:20px;padding-bottom:5px;padding-top:7px;border-top:1px dashed #0581E1"><div align="left" id="gad7"><script language="JavaScript" src="/a8d8.js" type="text/javascript"/></div></td>
+</tr>
+<tr>
+<td style="border-top:1px dashed #0581E1"><br/>&#13;
+        ±¾Õ¾»áÔ±¹ØÓÚÀÏÊ¦µÄÈÕÖ¾Ëæ±Ê£º<br/>
+<div class="f2">
+<ul>
+<li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141202/311249.html">Í¯ÄêÊ±µÄµçÓ°</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141202/311234.html">É½ÀïÍÞµÄÃÎÏë</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shige/shuqingshi/20141202/311163.html">¸¸Ç×</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141130/311058.html">ÎÒÔÚ»ØÒäÀï2</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310917.html">ËµÖÐ¹úµÄ¡°×°¡±Óë¡°ÓÂÆø¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310874.html">¼ÇÒäÖÐÀÏÊ¦</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141128/310814.html">Ò»ÖêÜÔÀò»¨¸øÎÒµÄ¾¯ÐÑ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310677.html">Ë¼</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310669.html">ÕëÑÛ´óµÄ¿ìÀÖ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141125/310512.html">Ê®Ò»ËêµÄÎÒÑ§»áÈçºÎ±ä»µ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20141125/310468.html">ÀÏÊ¦Ëµ£º¡°Î¨Ç«ÊÜ¸£¡£¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/20141125/310425.html">ÓÆÓÆÊ¦ÉúÇé</a></li></ul>
+</div></td>
+</tr>
+<tr>
+<td style="border-bottom:1px;padding-left:6px">¸ü¶à<a href="http://www.duwenzhang.com/haowenzhang.html">ºÃÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕÖ¾</a>£¬<a href="http://www.duwenzhang.com">Çé¸Ð¹ÊÊÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉú</a>,<a href="http://www.duwenzhang.com/huoban.html">ºÏ×÷»ï°é</a></td>
+</tr>
+<tr>
+<td align="center"/>
+</tr>
+<tr>
+<td class="sprite-bluelefu2"/>
+<td class="sprite-bluehorj2"/>
+<td><img height="7" src="/img/bluerigi2.png" width="7"/></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td colspan="4" height="10"/>
+</tr>
+<tr>
+<td align="center" bgcolor="#F5F5F5" height="50">Copyright © 2007-2014 <a href="http://www.duwenzhang.com">ÎÄÕÂÔÄ¶ÁÍø</a> °æÈ¨ËùÓÐ.<a href="http://www.duwenzhang.com">Çé¸ÐÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/sanwen.html">É¢ÎÄ</a><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Ëæ±Ê</a>,<a href="http://www.duwenzhang.com/meiwen.html">ÃÀÎÄ</a>¹ÊÊÂ,ÓÅÐã×÷ÎÄÔÚÏßÔÄ¶ÁÐÀÉÍ&#13;
+</td>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5" width="30"><script src="http://cbjs.baidu.com/js/o.js" type="text/javascript"/>
+<script type="text/javascript">&#13;
+BAIDU_CLB_fillSlotAsync('219165','mad1');&#13;
+</script><script language="javascript" src="/foot.js" type="text/javascript"/></td>
+</tr>
+</table>
+</center></body></html>
+Match Times: 0 
+Url: http://www.duwenzhang.com/huati/laoshi/index1.html 
+Title: 1?������?��|��?????- ?��??1����?-����????����  
+
+
+<html>
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>¹ØÓÚÀÏÊ¦µÄÎÄÕÂ- ÃÀÎÄ¹ÊÊÂ-É¢ÎÄËæ±Ê </title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;" name="keywords"/>
+<meta content="&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC7;&#xE9;&#xB8;&#xD0;&#xBB;&#xB0;&#xCC;&#xE2;&#xCE;&#xC4;&#xD5;&#xC2;&#xC1;&#xD0;&#xB1;&#xED;&#xA1;&#xA3;" name="description"/>
+<link href="http://www.duwenzhang.com/templets/img/default.css" rel="stylesheet" type="text/css"/>
+<base target="_blank"/>
+</head>
+<body leftmargin="0" onmouseover="window.status='&#xA1;&#xBE;&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;&#xA1;&#xBF;www.duwenzhang.com &#xC8;&#xE7;&#xB9;&#xFB;&#xC4;&#xFA;&#xCF;&#xB2;&#xBB;&#xB6;&#xB1;&#xBE;&#xD5;&#xBE;,&#xB1;&#xF0;&#xCD;&#xFC;&#xC1;&#xCB;&#xB8;&#xF8;&#xCE;&#xD2;&#xC3;&#xC7;&#xBC;&#xD3;&#xB8;&#xF6;&#xD3;&#xD1;&#xC7;&#xE9;&#xC1;&#xB4;&#xBD;&#xD3;,&#xBB;&#xF2;&#xB0;&#xD1;&#xCD;&#xF8;&#xD6;&#xB7;&#xB8;&#xE6;&#xCB;&#xDF;&#xC4;&#xFA;QQ/MSN&#xC9;&#xCF;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;!';return true" topmargin="0">
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td align="center" height="68" width="190"><a href="http://www.duwenzhang.com" target="_blank"><img alt="&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;" border="0" height="53" src="http://www.duwenzhang.com/templets/img/logo_tg.gif" width="178"/></a></td>
+<td align="center" width="20"/>
+<td width="486"><div id="mad1"/></td>
+<td width="190"/>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/redrt.png" width="7"/></td>
+<td class="sprite-redhort"/>
+<td class="sprite-redlt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-redvert0111"/>
+<td class="daohang"><a href="http://www.duwenzhang.com/">Ê×Ò³</a> | <a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/">°®ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/">Ç×ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/youqingwenzhang/">ÓÑÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Éú»îËæ±Ê</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/">Ð£Ô°ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/jingdianwenzhang/">¾­µäÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉúÕÜÀí</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/lizhiwenzhang/">ÀøÖ¾ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/gaoxiaowenzhang/">¸ãÐ¦ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕ¼Ç</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/yingyuwenzhang/">Ó¢ÓïÎÄÕÂ</a> &#13;
+ | <a href="http://bbs.duwenzhang.com/">ÎÄÑ§ÂÛÌ³</a></td>
+<td class="sprite-redvert2"/>
+</tr>
+<tr>
+<td class="sprite-redleftb"/>
+<td class="sprite-redhorit222"/>
+<td><img height="7" src="/img/redrt.png " width="7"/></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/yellowlt.png" width="7"/></td>
+<td class="sprite-yellowhorit" colspan="3" width="150"/>
+<td class="sprite-yellowrt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-yellowlef"/>
+<td valign="bottom" width="60">ÎÄÕÂËÑË÷:</td>
+<td width="420"><form action="http://www.baidu.com/baidu">
+<input name="word" type="text"/> <input type="submit" value="&#xD5;&#xBE;&#xC4;&#xDA;&#xCB;&#xD1;&#xCB;&#xF7;"/>
+<input name="tn" type="hidden" value="bds"/> <input name="cl" type="hidden" value="3"/>
+<input name="ct" type="hidden" value="2097152"/> <input name="si" type="hidden" value="www.duwenzhang.com"/>
+</form></td>
+<td valign="bottom"> </td>
+<td class="sprite-yellowvf"/>
+</tr>
+<tr>
+<td class="sprite-yellowlf"/>
+<td class="sprite-yellowbt" colspan="3"/>
+<td><img height="7" src="/img/yellowrj.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td height="4"/>
+</tr>
+<tr>
+<td height="200" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="25" src="/img/bluel.png" width="7"/></td>
+<td class="sprite-bluec"><h1>¹ØÓÚ/ÓÐ¹ØÀÏÊ¦µÄÎÄÕÂ</h1></td>
+<td width="7"><img height="25" src="/img/bluer.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="8" src="/img/blueleft2.png" width="7"/></td>
+<td class="sprite-bluetop2"/>
+<td class="sprite-bluerigh2" width="7"/>
+</tr>
+<tr>
+<td class="sprite-bluelef2" rowspan="6"/>
+<td valign="top"><div align="left" id="gad2" style="padding-bottom:10px"><script language="JavaScript" src="/a3d3.js" type="text/javascript"/></div><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html">¾ýÉúÎÒÎ´Éú£¬ÎÒÉú¾ýÒÑÀÏ</a></b></td>
+<td width="55%">µã»÷:11437 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294488"><u>ÆÀÂÛ:42</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÄÇÄê¸ß¿¼Ç°£¬ÎÒÃ»ÓÃÊÖ»ú£¬²»ÖªµÀÄãÊÇÔõÃ´ÕÒµ½ÎÒµÄ°àÖ÷ÈÎµÄ£¬ÄãÈÃ°àÖ÷ÈÎ×ª¸æÎÒ£¬»Ý£¬¸ß¿¼Ë³Àû¡£ Ä¾×Ó£¬Õâ¼þÊÂ²ØÔÚÎÒÐÄÀïºÜ¶àÄê£¬ÎÂÅ¯£¬¸Ð¼¤¡£ Ò»Ö±ÒÔÀ´£¬ÎÒ¶¼Ö´Òâ³ÆºôÄãÄ¾×Ó£¬ÊÇÏëÀ­½øÎÒÃÇÖ®¼äµÄ¾àÀë£¬¿ÉÒÔÏñÅóÓÑ£¬ÎÞ»°²»Ì¸ÄØ£¡Ê¦ÉúÖ®¼ä£¬×ÜÊÇÓÐÐ©Êø¸¿£¬²»×ÔÔÚ¡£ ÎÒÌÖÑá<font color="#8F8C89">(2014-06-16)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html">Éú»îÖÐµÄÉúÓë»î</a></b></td>
+<td width="55%">µã»÷:6475 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294147"><u>ÆÀÂÛ:6</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡¡¾Ò»¡£ ÉúÏÂÀ´£¬»îÏÂÈ¥¡¿ ÓÐ²¿µçÊÓ¾çÖÐ£¬ÓÐ¾äÓÐÃûµÄ»°£¬ÊÇÉú»î£¬¾ÍÊÇÄãÂè°ÑÄãÉúÏÂÀ´£¬È»ºó£¬ÄãÒª¿¿×Ô¼º»îÏÂÈ¥¡£ Õâ¾ä»°£¬ËµµÄÓÐÀí£¬ËµµÄÀøÖ¾¡£ Ö®Ç°ÓÖÈ¥ÉÏÁË´Î¿Î£¬<font color="red">ÀÏÊ¦</font>½²µ½£¬Éú»î£¬¾ÍÊÇÒª»îµÃÓÐÉú»ú¡¢ÉúÆø¡£<font color="red">ÀÏÊ¦</font>µã²¦µ½£¬ËµÕâÊÇÎÒËùÈ±·¦µÄ¡£ µ±Ê±ÔÚ³Ô·¹£¬Ö»¹ËÍù×ìÀïÈûÊ³<font color="#8F8C89">(2014-06-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html"><img align="left" height="75" src="http://www.duwenzhang.com/upimg/140519/1_190725_lit.jpg" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html">ÏÂ±²×Ó£¬ÎÒ»¹×öÄãµÄÅ®ÈË£¨Ð¡Ð¡Ëµ£©</a></b></td>
+<td width="55%">µã»÷:26353 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=291476"><u>ÆÀÂÛ:84</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ËûÃÇÁ©×îÖÕ»¹ÊÇ°Ñ»éÀëÁË£¬Àë»éµÄÔ­Òò³ýÁËÉúÓýÊÂ¼þÒÔÍâ£¬×îÖØÒªµÄÊÇÅ®ÈË¾õµÃÄÐÈË²»ÔÙ°®ËýÁË¡£ ÄÐµÄÊÇµ±µØµÄÒ»ÃûÒµÎñÔ±£¬³£ÄêÔÚÍâÅÜÒµÎñ£¬Ã¿Ìì¶¼ÊÇµÈÅ®ÈËÊìË¯Ö®ºó²Å»Øµ½¼Ò¡£Å®ÈËÔòÊÇÒ»Ãû<font color="red">½ÌÊ¦</font>£¬ÏÂ°à»Ø¼Ò£¬Ã¿ÌìÅã°éÅ®ÈËµÄ³ýÁËµçÊÓ¾Í»¹ÊÇµçÊÓ¡£ÄÐÈËÊÇÒ»¸öÏ¸ÐÄÈëÎ¢µÄÈË£¬¼ÒÀï<font color="#8F8C89">(2014-05-18)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html">Í»È» ¾ÍÀÏ´ó²»Ð¡ÁË</a></b></td>
+<td width="55%">µã»÷:22981 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=283996"><u>ÆÀÂÛ:23</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÇàÊ¯±Ìº£Á÷Çå¹æ£¬ ´ºÔ·¸¡»ªÃÎ·²³¾¡£ ºÝÐÄÆ³¿´Â¥ÖÐ¹ë£¬ Í´ÈëºîÃÅ·Ç¾ÉÈË¡£ ÓÐÊ±ºòÉú»îÖÐµÄÊÂÖ»ÒªÎÒ²»È¥Ïë£¬ºÃÏñÒ»ÇÐÒ²¾ÍÄÇÃ´»ØÊÂÁË£¬¾ÍÄÇÃ´²»Öª²»¾õµÄ¹ýÈ¥ÁË£¬ÒÔÖÁÓÚÍ»È»ÏëÆðÀ´µÄÊ±ºò£¬ºÃÏñÒ»Ä»Ä»¶¼·¢ÉúÔÚ×òÌì£¬ÓÖºÃÏñÒ»ÇÐ¶¼²»Ôø¾­Àú¹ýÒ»Ñù£¬»áÏëÉú»î¼ÈÈ»ÄÜÕâÃ´µÄ×ß¹ýÀ´<font color="#8F8C89">(2014-03-02)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html">ÔÙÒ²Ñ°²»µ½µÄËÆË®ÈÝÑÕ</a></b></td>
+<td width="55%">µã»÷:10249 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=282615"><u>ÆÀÂÛ:10</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡º¢×Ó£¬Äã¾ÍÔÚÕâÒ»Ìì³öÉúÁË£¬Äã¿ÞµÃºÜ´óÉù£¬Äã²»¶ÏµØÕõÔú£¬ÒòÎªÄãÖªµÀ£¬Õâ¸öÊÀ½çÄã½«½ÓÊÜºÜ´óµÄÌôÕ½£¬ÄãÒªÓÂ¸ÒµØÔÚÕâ¸öÊÀ½çÉÏ»îÏÂÈ¥£¬ÕâÒ»µã²»ÈÝÒ×£¬ÄãºÜ¿Ö¾å£¬µ«ÊÇÄãµÄ±íÇéÖ»ÓÐÒ»¸ö£¬¾ÍÊÇ¿Þ£¬ÄãºÜµ¥´¿£¬ÒòÎªÄãÖ»ÊÇÒ»¸öº¢×Ó¡£ÄãµÄÊÖ½ô½ôµØÎÕ×Å£¬Ö»ÎÕ×ÅÊôÓÚÄãµÄËÆË®ÈÝÑÕ<font color="#8F8C89">(2014-02-15)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html">ÈËÉúÖØÔÚ¹ý³Ì</a></b></td>
+<td width="55%">µã»÷:10879 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=278460"><u>ÆÀÂÛ:15</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡13.12.22£¨ÈÕ£©Çç£¨344£©ÈËÉúÖØÔÚ¹ý³Ì ÓÖµ½Ò»Äê¶¬ÖÁÈÕ£¬¼´ÈÕÄÏÖÁ£¬ÈÕ¶ÌÖ®ÖÁ£¬ÈÕÓ°³¤Ö®ÖÁ£¬Ò¹³¤Ö®ÖÁ¡£¶¬ÖÁÈÕÌ«ÑôÖ±ÉäÄÏ»Ø¹éÏß£¬Ñô¹â¶Ô±±°ëÇò×îÇãÐ±£¬±±°ëÇò°×Ìì×î¶Ì£¬ºÚÒ¹×î³¤¡£¶¬ÖÁ¹ýºó£¬Ì«ÑôÖ±ÉäµãÓÖÂýÂýµØÏò±±»Ø¹éÏß×ªÒÆ¡£µ±ÈÕ£¬¶¬ÖÁÒ²Ö»ÊÇµØÇòÎ§ÈÆÌ«ÑôÔË×ªÖÐµÄÒ»¸ö¹ý<font color="#8F8C89">(2013-12-22)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html">ÎÒ·Ü¶·ÁËÊ®°ËÄê²ÅºÍÄãÒ»ÆðK¸è</a></b></td>
+<td width="55%">µã»÷:7643 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=270847"><u>ÆÀÂÛ:24</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÎÒµÄÅóÓÑ£¬Ò²ÐíÄã¾õµÄµ½¸èÌüK¸èÊÇÔÚ×ÔÈ»²»¹ýµÄÊÂÇé£¬µ«¶ÔÓÚ´ÓÅ©´å³öÀ´µÄÎÒ£¬¿ÉÎ½ÊÇÒ»¼þ´óÊÂ£¬Ò»¼þÌì·­µØ¸²µÄ´óÊÂ¡£¶ÔÎÒ¶øÑÔ£¬Õâ´ú±íÉú»î·½Ê½µÄ×ª±ä¡£ÊÇ´ÓÎïÖÊÉú»î×ßÏò¾«ÉñÉú»îµÄ×ªÕÛµã£¬¶àÄêÒÔÀ´£¬ÎªÁËÓ¦¸Ã×öµÄÊÂÇé£¬ÎÒÏ²»¶µÄÊÀ½çÒ»Æ¬»ÄÎß£¬³¤ÂúÔÓ²Ý¡£±È½ÏÎÒÃÇµÄ³É³¤Àú<font color="#8F8C89">(2013-10-04)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html">¼ÒÓÐ<font color="red">ÀÏÊ¦</font></a></b></td>
+<td width="55%">µã»÷:5887 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=269759"><u>ÆÀÂÛ:3</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡<font color="red">½ÌÊ¦</font>½Úµ½ÁË£¬ÀÏ¹«ÓÖÊÕµ½ÁË²»ÉÙÏÊ»¨£¬ÊÇÎôÈÕ½Ì¹ýµÄÑ§ÉúËÍÀ´µÄ£¬ÏÖÔÚÒÑ´óÑ§±ÏÒµ£¬ËûµÃÒâÓÚ×Ô¼ºµÄÌÒÀîÂúÌìÏÂ£¬ÎÒÈ´¸Ð¿®ËûÕâÐ©ÄêÀ´²»¼ÆÆäÊýµÄ¸¶³ö¡£ÇüÖ¸ÊýÀ´£¬½á»éÒÑÊ®Îå¸öÄêÍ·£¬±»ÈË³Æ×÷Ê¦Ä¸Ò²ÓÐÊ®ÎåÄêÁË¡£¼ÒÓÐ<font color="red">ÀÏÊ¦</font>£¬ÓÐÀûÓÐ±×£¬ÓÐµÃÓÐÊ§£¬Å®¶ùÉýÈë³õÖÐ£¬<font color="red">ÀÏÊ¦</font>¾ÍÊÇ¸¸Ç×£¬¸¸<font color="#8F8C89">(2013-09-23)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><font color="red">ÀÏÊ¦</font>£¬ÓÀÔ¶¶¨¸ñµÄÊØÍû</a></b></td>
+<td width="55%">µã»÷:40095 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=268624"><u>ÆÀÂÛ:34</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡´º»ªÇïÊµ£¬ÌÒÀîÇßÏã£¬ÓÖÒ»¸ö<font color="red">½ÌÊ¦</font>½ÚÀ´ÁÙ£¬ÈÃÎÒÃÇÖØÊ°¹ýÈ¥µÄ»ØÒä£¬½«×Ô¼º¶Ô<font color="red">ÀÏÊ¦</font>µÄÄÇ·Ý°®ÓëÉîÉîµÄÇ£¹Ò´ÓÐÄÖÐ»½Æð£¬ÖØÎÂ¾«²ÊË²¼ä£¬ÊÍ»³Çé¸Ð£¬ÕÀ·Å÷ÈÁ¦£¬·á¸»ÈËÉúÔÄÀú£¬ÓªÔìºÍÐ³·ÕÎ§£¬ÓÃ×ÔÉíµÄÑÔÐÐ³äÊµºÍ¸ÐÎòÉú»îµÄ·½·½ÃæÃæ¡£<font color="red">ÀÏÊ¦</font>µÄ°®ÓÀÔ¶ÊÇÒ»¼ÁÎ¿½åÐÄÁéµÄÁ¼Ò©£¬Èö²¥ÔÚÃ¿Ò»<font color="#8F8C89">(2013-09-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html">Óë¹Â¶À×öÅóÓÑ</a></b></td>
+<td width="55%">µã»÷:14247 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=264632"><u>ÆÀÂÛ:22</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÏÛÄ½×ÅÃ÷ÐÇÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄ¸èÃÔ£¬ÏÛÄ½×ÅÁìµ¼ÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÏÂÊô£¬ÏÛÄ½×Å<font color="red">ÀÏÊ¦</font>Éí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÑ§×Ó£¬×ÜÖ®ÎÒÃÇÒ»Ö±ÔÚÏÛÄ½×Å±ðÈË¡£ÆäÊµÔÚÉú»îÖÐ£¬Ã¿¸öÈËÔÚÍÊÈ¥¸÷×ÔµÄ¹â»·ºó£¬ÎÒÃÇ¶¼ÊÇÒ»ÑùµÄ£¬ÊÇ¹Â¶ÀµÄº¢×Ó£¬ÊÇ¼ÅÄ¯µÄÆÍÈË¡£ ÎÒÃÇ´Ó³öÉúµ½×îºó£¬Ã»ÓÐÈÎºÎÒ»¸öÈË<font color="#8F8C89">(2013-08-06)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table></td>
+<td class="sprite-blueveru2" rowspan="6"/>
+</tr>
+<tr>
+<td style="padding-bottom:3px;"> ¹²18Ò³/177Æª¶ÌÎÄ  Ê×Ò³   1 <a href="index2.html" target="_self">[2]</a> <a href="index3.html" target="_self">[3]</a> <a href="index4.html" target="_self">[4]</a> <a href="index5.html" target="_self">[5]</a> <a href="index6.html" target="_self">[6]</a> <a href="index7.html" target="_self">[7]</a> <a href="index8.html" target="_self">[8]</a> <a href="index9.html" target="_self">[9]</a> <a href="index10.html" target="_self">[10]</a> <a href="index11.html" target="_self">[11]</a> <a href="index2.html" target="_self">ÏÂÒ»Ò³</a> <a href="index18.html" target="_self">Ä©Ò³</a> </td>
+</tr>
+<tr>
+<td align="left" class="pindao" style="padding-left:20px;padding-bottom:5px;padding-top:7px;border-top:1px dashed #0581E1"><div align="left" id="gad7"><script language="JavaScript" src="/a8d8.js" type="text/javascript"/></div></td>
+</tr>
+<tr>
+<td style="border-top:1px dashed #0581E1"><br/>&#13;
+        ±¾Õ¾»áÔ±¹ØÓÚÀÏÊ¦µÄÈÕÖ¾Ëæ±Ê£º<br/>
+<div class="f2">
+<ul>
+<li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141202/311249.html">Í¯ÄêÊ±µÄµçÓ°</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141202/311234.html">É½ÀïÍÞµÄÃÎÏë</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shige/shuqingshi/20141202/311163.html">¸¸Ç×</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141130/311058.html">ÎÒÔÚ»ØÒäÀï2</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310917.html">ËµÖÐ¹úµÄ¡°×°¡±Óë¡°ÓÂÆø¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310874.html">¼ÇÒäÖÐÀÏÊ¦</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141128/310814.html">Ò»ÖêÜÔÀò»¨¸øÎÒµÄ¾¯ÐÑ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310677.html">Ë¼</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310669.html">ÕëÑÛ´óµÄ¿ìÀÖ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141125/310512.html">Ê®Ò»ËêµÄÎÒÑ§»áÈçºÎ±ä»µ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20141125/310468.html">ÀÏÊ¦Ëµ£º¡°Î¨Ç«ÊÜ¸£¡£¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/20141125/310425.html">ÓÆÓÆÊ¦ÉúÇé</a></li></ul>
+</div></td>
+</tr>
+<tr>
+<td style="border-bottom:1px;padding-left:6px">¸ü¶à<a href="http://www.duwenzhang.com/haowenzhang.html">ºÃÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕÖ¾</a>£¬<a href="http://www.duwenzhang.com">Çé¸Ð¹ÊÊÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉú</a>,<a href="http://www.duwenzhang.com/huoban.html">ºÏ×÷»ï°é</a></td>
+</tr>
+<tr>
+<td align="center"/>
+</tr>
+<tr>
+<td class="sprite-bluelefu2"/>
+<td class="sprite-bluehorj2"/>
+<td><img height="7" src="/img/bluerigi2.png" width="7"/></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td colspan="4" height="10"/>
+</tr>
+<tr>
+<td align="center" bgcolor="#F5F5F5" height="50">Copyright © 2007-2014 <a href="http://www.duwenzhang.com">ÎÄÕÂÔÄ¶ÁÍø</a> °æÈ¨ËùÓÐ.<a href="http://www.duwenzhang.com">Çé¸ÐÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/sanwen.html">É¢ÎÄ</a><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Ëæ±Ê</a>,<a href="http://www.duwenzhang.com/meiwen.html">ÃÀÎÄ</a>¹ÊÊÂ,ÓÅÐã×÷ÎÄÔÚÏßÔÄ¶ÁÐÀÉÍ&#13;
+</td>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5" width="30"><script src="http://cbjs.baidu.com/js/o.js" type="text/javascript"/>
+<script type="text/javascript">&#13;
+BAIDU_CLB_fillSlotAsync('219165','mad1');&#13;
+</script><script language="javascript" src="/foot.js" type="text/javascript"/></td>
+</tr>
+</table>
+</center></body></html>
+Match Times: 0 
+Url: http://www.duwenzhang.com/huati/laoshi/index1.html 
+Title: 1?������?��|��?????- ?��??1����?-����????����  
+
+
+<html>
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>¹ØÓÚÀÏÊ¦µÄÎÄÕÂ- ÃÀÎÄ¹ÊÊÂ-É¢ÎÄËæ±Ê </title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;" name="keywords"/>
+<meta content="&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC7;&#xE9;&#xB8;&#xD0;&#xBB;&#xB0;&#xCC;&#xE2;&#xCE;&#xC4;&#xD5;&#xC2;&#xC1;&#xD0;&#xB1;&#xED;&#xA1;&#xA3;" name="description"/>
+<link href="http://www.duwenzhang.com/templets/img/default.css" rel="stylesheet" type="text/css"/>
+<base target="_blank"/>
+</head>
+<body leftmargin="0" onmouseover="window.status='&#xA1;&#xBE;&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;&#xA1;&#xBF;www.duwenzhang.com &#xC8;&#xE7;&#xB9;&#xFB;&#xC4;&#xFA;&#xCF;&#xB2;&#xBB;&#xB6;&#xB1;&#xBE;&#xD5;&#xBE;,&#xB1;&#xF0;&#xCD;&#xFC;&#xC1;&#xCB;&#xB8;&#xF8;&#xCE;&#xD2;&#xC3;&#xC7;&#xBC;&#xD3;&#xB8;&#xF6;&#xD3;&#xD1;&#xC7;&#xE9;&#xC1;&#xB4;&#xBD;&#xD3;,&#xBB;&#xF2;&#xB0;&#xD1;&#xCD;&#xF8;&#xD6;&#xB7;&#xB8;&#xE6;&#xCB;&#xDF;&#xC4;&#xFA;QQ/MSN&#xC9;&#xCF;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;!';return true" topmargin="0">
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td align="center" height="68" width="190"><a href="http://www.duwenzhang.com" target="_blank"><img alt="&#xCE;&#xC4;&#xD5;&#xC2;&#xD4;&#xC4;&#xB6;&#xC1;&#xCD;&#xF8;" border="0" height="53" src="http://www.duwenzhang.com/templets/img/logo_tg.gif" width="178"/></a></td>
+<td align="center" width="20"/>
+<td width="486"><div id="mad1"/></td>
+<td width="190"/>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbspan" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/redrt.png" width="7"/></td>
+<td class="sprite-redhort"/>
+<td class="sprite-redlt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-redvert0111"/>
+<td class="daohang"><a href="http://www.duwenzhang.com/">Ê×Ò³</a> | <a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/">°®ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/">Ç×ÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/youqingwenzhang/">ÓÑÇéÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Éú»îËæ±Ê</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/">Ð£Ô°ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/jingdianwenzhang/">¾­µäÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉúÕÜÀí</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/lizhiwenzhang/">ÀøÖ¾ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/gaoxiaowenzhang/">¸ãÐ¦ÎÄÕÂ</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕ¼Ç</a> &#13;
+ | <a href="http://www.duwenzhang.com/wenzhang/yingyuwenzhang/">Ó¢ÓïÎÄÕÂ</a> &#13;
+ | <a href="http://bbs.duwenzhang.com/">ÎÄÑ§ÂÛÌ³</a></td>
+<td class="sprite-redvert2"/>
+</tr>
+<tr>
+<td class="sprite-redleftb"/>
+<td class="sprite-redhorit222"/>
+<td><img height="7" src="/img/redrt.png " width="7"/></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td width="7"><img height="7" src="/img/yellowlt.png" width="7"/></td>
+<td class="sprite-yellowhorit" colspan="3" width="150"/>
+<td class="sprite-yellowrt" width="7"/>
+</tr>
+<tr>
+<td class="sprite-yellowlef"/>
+<td valign="bottom" width="60">ÎÄÕÂËÑË÷:</td>
+<td width="420"><form action="http://www.baidu.com/baidu">
+<input name="word" type="text"/> <input type="submit" value="&#xD5;&#xBE;&#xC4;&#xDA;&#xCB;&#xD1;&#xCB;&#xF7;"/>
+<input name="tn" type="hidden" value="bds"/> <input name="cl" type="hidden" value="3"/>
+<input name="ct" type="hidden" value="2097152"/> <input name="si" type="hidden" value="www.duwenzhang.com"/>
+</form></td>
+<td valign="bottom"> </td>
+<td class="sprite-yellowvf"/>
+</tr>
+<tr>
+<td class="sprite-yellowlf"/>
+<td class="sprite-yellowbt" colspan="3"/>
+<td><img height="7" src="/img/yellowrj.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td height="4"/>
+</tr>
+<tr>
+<td height="200" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="25" src="/img/bluel.png" width="7"/></td>
+<td class="sprite-bluec"><h1>¹ØÓÚ/ÓÐ¹ØÀÏÊ¦µÄÎÄÕÂ</h1></td>
+<td width="7"><img height="25" src="/img/bluer.png" width="7"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="7"><img height="8" src="/img/blueleft2.png" width="7"/></td>
+<td class="sprite-bluetop2"/>
+<td class="sprite-bluerigh2" width="7"/>
+</tr>
+<tr>
+<td class="sprite-bluelef2" rowspan="6"/>
+<td valign="top"><div align="left" id="gad2" style="padding-bottom:10px"><script language="JavaScript" src="/a3d3.js" type="text/javascript"/></div><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/aiqing/20140616/294488.html">¾ýÉúÎÒÎ´Éú£¬ÎÒÉú¾ýÒÑÀÏ</a></b></td>
+<td width="55%">µã»÷:11437 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294488"><u>ÆÀÂÛ:42</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÄÇÄê¸ß¿¼Ç°£¬ÎÒÃ»ÓÃÊÖ»ú£¬²»ÖªµÀÄãÊÇÔõÃ´ÕÒµ½ÎÒµÄ°àÖ÷ÈÎµÄ£¬ÄãÈÃ°àÖ÷ÈÎ×ª¸æÎÒ£¬»Ý£¬¸ß¿¼Ë³Àû¡£ Ä¾×Ó£¬Õâ¼þÊÂ²ØÔÚÎÒÐÄÀïºÜ¶àÄê£¬ÎÂÅ¯£¬¸Ð¼¤¡£ Ò»Ö±ÒÔÀ´£¬ÎÒ¶¼Ö´Òâ³ÆºôÄãÄ¾×Ó£¬ÊÇÏëÀ­½øÎÒÃÇÖ®¼äµÄ¾àÀë£¬¿ÉÒÔÏñÅóÓÑ£¬ÎÞ»°²»Ì¸ÄØ£¡Ê¦ÉúÖ®¼ä£¬×ÜÊÇÓÐÐ©Êø¸¿£¬²»×ÔÔÚ¡£ ÎÒÌÖÑá<font color="#8F8C89">(2014-06-16)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20140612/294147.html">Éú»îÖÐµÄÉúÓë»î</a></b></td>
+<td width="55%">µã»÷:6475 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=294147"><u>ÆÀÂÛ:6</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡¡¾Ò»¡£ ÉúÏÂÀ´£¬»îÏÂÈ¥¡¿ ÓÐ²¿µçÊÓ¾çÖÐ£¬ÓÐ¾äÓÐÃûµÄ»°£¬ÊÇÉú»î£¬¾ÍÊÇÄãÂè°ÑÄãÉúÏÂÀ´£¬È»ºó£¬ÄãÒª¿¿×Ô¼º»îÏÂÈ¥¡£ Õâ¾ä»°£¬ËµµÄÓÐÀí£¬ËµµÄÀøÖ¾¡£ Ö®Ç°ÓÖÈ¥ÉÏÁË´Î¿Î£¬<font color="red">ÀÏÊ¦</font>½²µ½£¬Éú»î£¬¾ÍÊÇÒª»îµÃÓÐÉú»ú¡¢ÉúÆø¡£<font color="red">ÀÏÊ¦</font>µã²¦µ½£¬ËµÕâÊÇÎÒËùÈ±·¦µÄ¡£ µ±Ê±ÔÚ³Ô·¹£¬Ö»¹ËÍù×ìÀïÈûÊ³<font color="#8F8C89">(2014-06-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html"><img align="left" height="75" src="http://www.duwenzhang.com/upimg/140519/1_190725_lit.jpg" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/aiqingwenzhang/shanggan/20140518/291476.html">ÏÂ±²×Ó£¬ÎÒ»¹×öÄãµÄÅ®ÈË£¨Ð¡Ð¡Ëµ£©</a></b></td>
+<td width="55%">µã»÷:26353 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=291476"><u>ÆÀÂÛ:84</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ËûÃÇÁ©×îÖÕ»¹ÊÇ°Ñ»éÀëÁË£¬Àë»éµÄÔ­Òò³ýÁËÉúÓýÊÂ¼þÒÔÍâ£¬×îÖØÒªµÄÊÇÅ®ÈË¾õµÃÄÐÈË²»ÔÙ°®ËýÁË¡£ ÄÐµÄÊÇµ±µØµÄÒ»ÃûÒµÎñÔ±£¬³£ÄêÔÚÍâÅÜÒµÎñ£¬Ã¿Ìì¶¼ÊÇµÈÅ®ÈËÊìË¯Ö®ºó²Å»Øµ½¼Ò¡£Å®ÈËÔòÊÇÒ»Ãû<font color="red">½ÌÊ¦</font>£¬ÏÂ°à»Ø¼Ò£¬Ã¿ÌìÅã°éÅ®ÈËµÄ³ýÁËµçÊÓ¾Í»¹ÊÇµçÊÓ¡£ÄÐÈËÊÇÒ»¸öÏ¸ÐÄÈëÎ¢µÄÈË£¬¼ÒÀï<font color="#8F8C89">(2014-05-18)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/chengzhang/20140302/283996.html">Í»È» ¾ÍÀÏ´ó²»Ð¡ÁË</a></b></td>
+<td width="55%">µã»÷:22981 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=283996"><u>ÆÀÂÛ:23</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÇàÊ¯±Ìº£Á÷Çå¹æ£¬ ´ºÔ·¸¡»ªÃÎ·²³¾¡£ ºÝÐÄÆ³¿´Â¥ÖÐ¹ë£¬ Í´ÈëºîÃÅ·Ç¾ÉÈË¡£ ÓÐÊ±ºòÉú»îÖÐµÄÊÂÖ»ÒªÎÒ²»È¥Ïë£¬ºÃÏñÒ»ÇÐÒ²¾ÍÄÇÃ´»ØÊÂÁË£¬¾ÍÄÇÃ´²»Öª²»¾õµÄ¹ýÈ¥ÁË£¬ÒÔÖÁÓÚÍ»È»ÏëÆðÀ´µÄÊ±ºò£¬ºÃÏñÒ»Ä»Ä»¶¼·¢ÉúÔÚ×òÌì£¬ÓÖºÃÏñÒ»ÇÐ¶¼²»Ôø¾­Àú¹ýÒ»Ñù£¬»áÏëÉú»î¼ÈÈ»ÄÜÕâÃ´µÄ×ß¹ýÀ´<font color="#8F8C89">(2014-03-02)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20140215/282615.html">ÔÙÒ²Ñ°²»µ½µÄËÆË®ÈÝÑÕ</a></b></td>
+<td width="55%">µã»÷:10249 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=282615"><u>ÆÀÂÛ:10</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡º¢×Ó£¬Äã¾ÍÔÚÕâÒ»Ìì³öÉúÁË£¬Äã¿ÞµÃºÜ´óÉù£¬Äã²»¶ÏµØÕõÔú£¬ÒòÎªÄãÖªµÀ£¬Õâ¸öÊÀ½çÄã½«½ÓÊÜºÜ´óµÄÌôÕ½£¬ÄãÒªÓÂ¸ÒµØÔÚÕâ¸öÊÀ½çÉÏ»îÏÂÈ¥£¬ÕâÒ»µã²»ÈÝÒ×£¬ÄãºÜ¿Ö¾å£¬µ«ÊÇÄãµÄ±íÇéÖ»ÓÐÒ»¸ö£¬¾ÍÊÇ¿Þ£¬ÄãºÜµ¥´¿£¬ÒòÎªÄãÖ»ÊÇÒ»¸öº¢×Ó¡£ÄãµÄÊÖ½ô½ôµØÎÕ×Å£¬Ö»ÎÕ×ÅÊôÓÚÄãµÄËÆË®ÈÝÑÕ<font color="#8F8C89">(2014-02-15)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131222/278460.html">ÈËÉúÖØÔÚ¹ý³Ì</a></b></td>
+<td width="55%">µã»÷:10879 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=278460"><u>ÆÀÂÛ:15</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡13.12.22£¨ÈÕ£©Çç£¨344£©ÈËÉúÖØÔÚ¹ý³Ì ÓÖµ½Ò»Äê¶¬ÖÁÈÕ£¬¼´ÈÕÄÏÖÁ£¬ÈÕ¶ÌÖ®ÖÁ£¬ÈÕÓ°³¤Ö®ÖÁ£¬Ò¹³¤Ö®ÖÁ¡£¶¬ÖÁÈÕÌ«ÑôÖ±ÉäÄÏ»Ø¹éÏß£¬Ñô¹â¶Ô±±°ëÇò×îÇãÐ±£¬±±°ëÇò°×Ìì×î¶Ì£¬ºÚÒ¹×î³¤¡£¶¬ÖÁ¹ýºó£¬Ì«ÑôÖ±ÉäµãÓÖÂýÂýµØÏò±±»Ø¹éÏß×ªÒÆ¡£µ±ÈÕ£¬¶¬ÖÁÒ²Ö»ÊÇµØÇòÎ§ÈÆÌ«ÑôÔË×ªÖÐµÄÒ»¸ö¹ý<font color="#8F8C89">(2013-12-22)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20131004/270847.html">ÎÒ·Ü¶·ÁËÊ®°ËÄê²ÅºÍÄãÒ»ÆðK¸è</a></b></td>
+<td width="55%">µã»÷:7643 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=270847"><u>ÆÀÂÛ:24</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÎÒµÄÅóÓÑ£¬Ò²ÐíÄã¾õµÄµ½¸èÌüK¸èÊÇÔÚ×ÔÈ»²»¹ýµÄÊÂÇé£¬µ«¶ÔÓÚ´ÓÅ©´å³öÀ´µÄÎÒ£¬¿ÉÎ½ÊÇÒ»¼þ´óÊÂ£¬Ò»¼þÌì·­µØ¸²µÄ´óÊÂ¡£¶ÔÎÒ¶øÑÔ£¬Õâ´ú±íÉú»î·½Ê½µÄ×ª±ä¡£ÊÇ´ÓÎïÖÊÉú»î×ßÏò¾«ÉñÉú»îµÄ×ªÕÛµã£¬¶àÄêÒÔÀ´£¬ÎªÁËÓ¦¸Ã×öµÄÊÂÇé£¬ÎÒÏ²»¶µÄÊÀ½çÒ»Æ¬»ÄÎß£¬³¤ÂúÔÓ²Ý¡£±È½ÏÎÒÃÇµÄ³É³¤Àú<font color="#8F8C89">(2013-10-04)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20130923/269759.html">¼ÒÓÐ<font color="red">ÀÏÊ¦</font></a></b></td>
+<td width="55%">µã»÷:5887 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=269759"><u>ÆÀÂÛ:3</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡<font color="red">½ÌÊ¦</font>½Úµ½ÁË£¬ÀÏ¹«ÓÖÊÕµ½ÁË²»ÉÙÏÊ»¨£¬ÊÇÎôÈÕ½Ì¹ýµÄÑ§ÉúËÍÀ´µÄ£¬ÏÖÔÚÒÑ´óÑ§±ÏÒµ£¬ËûµÃÒâÓÚ×Ô¼ºµÄÌÒÀîÂúÌìÏÂ£¬ÎÒÈ´¸Ð¿®ËûÕâÐ©ÄêÀ´²»¼ÆÆäÊýµÄ¸¶³ö¡£ÇüÖ¸ÊýÀ´£¬½á»éÒÑÊ®Îå¸öÄêÍ·£¬±»ÈË³Æ×÷Ê¦Ä¸Ò²ÓÐÊ®ÎåÄêÁË¡£¼ÒÓÐ<font color="red">ÀÏÊ¦</font>£¬ÓÐÀûÓÐ±×£¬ÓÐµÃÓÐÊ§£¬Å®¶ùÉýÈë³õÖÐ£¬<font color="red">ÀÏÊ¦</font>¾ÍÊÇ¸¸Ç×£¬¸¸<font color="#8F8C89">(2013-09-23)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20130912/268624.html"><font color="red">ÀÏÊ¦</font>£¬ÓÀÔ¶¶¨¸ñµÄÊØÍû</a></b></td>
+<td width="55%">µã»÷:40095 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=268624"><u>ÆÀÂÛ:34</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡´º»ªÇïÊµ£¬ÌÒÀîÇßÏã£¬ÓÖÒ»¸ö<font color="red">½ÌÊ¦</font>½ÚÀ´ÁÙ£¬ÈÃÎÒÃÇÖØÊ°¹ýÈ¥µÄ»ØÒä£¬½«×Ô¼º¶Ô<font color="red">ÀÏÊ¦</font>µÄÄÇ·Ý°®ÓëÉîÉîµÄÇ£¹Ò´ÓÐÄÖÐ»½Æð£¬ÖØÎÂ¾«²ÊË²¼ä£¬ÊÍ»³Çé¸Ð£¬ÕÀ·Å÷ÈÁ¦£¬·á¸»ÈËÉúÔÄÀú£¬ÓªÔìºÍÐ³·ÕÎ§£¬ÓÃ×ÔÉíµÄÑÔÐÐ³äÊµºÍ¸ÐÎòÉú»îµÄ·½·½ÃæÃæ¡£<font color="red">ÀÏÊ¦</font>µÄ°®ÓÀÔ¶ÊÇÒ»¼ÁÎ¿½åÐÄÁéµÄÁ¼Ò©£¬Èö²¥ÔÚÃ¿Ò»<font color="#8F8C89">(2013-09-12)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table><table border="0" width="100%">
+<tr height="24">
+<td rowspan="2" width="15%">
+<table bgcolor="#E6EAE3" border="0" cellpadding="1" cellspacing="1" height="75" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html"><img align="left" height="75" src="http://www.duwenzhang.com/images/defaultpic.gif" width="100"/></a></td>
+</tr>
+</table></td>
+<td align="center" width="6%"><img height="17" src="/plus/img/file.gif" width="18"/></td>
+<td class="pindao" width="25%"><b><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20130806/264632.html">Óë¹Â¶À×öÅóÓÑ</a></b></td>
+<td width="55%">µã»÷:14247 <a href="http://www.duwenzhang.com/plus/feedback.php?arcID=264632"><u>ÆÀÂÛ:22</u></a></td>
+</tr>
+<tr>
+<td colspan="3" height="56"> ¡¡¡¡ÏÛÄ½×ÅÃ÷ÐÇÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄ¸èÃÔ£¬ÏÛÄ½×ÅÁìµ¼ÃÇÉí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÏÂÊô£¬ÏÛÄ½×Å<font color="red">ÀÏÊ¦</font>Éí±ß×ÜÊÇÓÐÄÇÃ´¶àµÄÑ§×Ó£¬×ÜÖ®ÎÒÃÇÒ»Ö±ÔÚÏÛÄ½×Å±ðÈË¡£ÆäÊµÔÚÉú»îÖÐ£¬Ã¿¸öÈËÔÚÍÊÈ¥¸÷×ÔµÄ¹â»·ºó£¬ÎÒÃÇ¶¼ÊÇÒ»ÑùµÄ£¬ÊÇ¹Â¶ÀµÄº¢×Ó£¬ÊÇ¼ÅÄ¯µÄÆÍÈË¡£ ÎÒÃÇ´Ó³öÉúµ½×îºó£¬Ã»ÓÐÈÎºÎÒ»¸öÈË<font color="#8F8C89">(2013-08-06)</font></td>
+</tr>
+<tr>
+<td background="http://www.duwenzhang.com/templets/img/bluetop2.gif" colspan="4" height="8"/>
+</tr>
+</table></td>
+<td class="sprite-blueveru2" rowspan="6"/>
+</tr>
+<tr>
+<td style="padding-bottom:3px;"> ¹²18Ò³/177Æª¶ÌÎÄ  Ê×Ò³   1 <a href="index2.html" target="_self">[2]</a> <a href="index3.html" target="_self">[3]</a> <a href="index4.html" target="_self">[4]</a> <a href="index5.html" target="_self">[5]</a> <a href="index6.html" target="_self">[6]</a> <a href="index7.html" target="_self">[7]</a> <a href="index8.html" target="_self">[8]</a> <a href="index9.html" target="_self">[9]</a> <a href="index10.html" target="_self">[10]</a> <a href="index11.html" target="_self">[11]</a> <a href="index2.html" target="_self">ÏÂÒ»Ò³</a> <a href="index18.html" target="_self">Ä©Ò³</a> </td>
+</tr>
+<tr>
+<td align="left" class="pindao" style="padding-left:20px;padding-bottom:5px;padding-top:7px;border-top:1px dashed #0581E1"><div align="left" id="gad7"><script language="JavaScript" src="/a8d8.js" type="text/javascript"/></div></td>
+</tr>
+<tr>
+<td style="border-top:1px dashed #0581E1"><br/>&#13;
+        ±¾Õ¾»áÔ±¹ØÓÚÀÏÊ¦µÄÈÕÖ¾Ëæ±Ê£º<br/>
+<div class="f2">
+<ul>
+<li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141202/311249.html">Í¯ÄêÊ±µÄµçÓ°</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141202/311234.html">É½ÀïÍÞµÄÃÎÏë</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shige/shuqingshi/20141202/311163.html">¸¸Ç×</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141130/311058.html">ÎÒÔÚ»ØÒäÀï2</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310917.html">ËµÖÐ¹úµÄ¡°×°¡±Óë¡°ÓÂÆø¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/xiaoyuanwenzhang/20141129/310874.html">¼ÇÒäÖÐÀÏÊ¦</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141128/310814.html">Ò»ÖêÜÔÀò»¨¸øÎÒµÄ¾¯ÐÑ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310677.html">Ë¼</a></li><li><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/20141127/310669.html">ÕëÑÛ´óµÄ¿ìÀÖ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/yuanchuang/20141125/310512.html">Ê®Ò»ËêµÄÎÒÑ§»áÈçºÎ±ä»µ</a></li><li><a href="http://www.duwenzhang.com/wenzhang/renshengzheli/20141125/310468.html">ÀÏÊ¦Ëµ£º¡°Î¨Ç«ÊÜ¸£¡£¡±</a></li><li><a href="http://www.duwenzhang.com/wenzhang/qinqingwenzhang/20141125/310425.html">ÓÆÓÆÊ¦ÉúÇé</a></li></ul>
+</div></td>
+</tr>
+<tr>
+<td style="border-bottom:1px;padding-left:6px">¸ü¶à<a href="http://www.duwenzhang.com/haowenzhang.html">ºÃÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/xinqingriji/">ÐÄÇéÈÕÖ¾</a>£¬<a href="http://www.duwenzhang.com">Çé¸Ð¹ÊÊÂ</a>,<a href="http://www.duwenzhang.com/wenzhang/renshengzheli/">ÈËÉú</a>,<a href="http://www.duwenzhang.com/huoban.html">ºÏ×÷»ï°é</a></td>
+</tr>
+<tr>
+<td align="center"/>
+</tr>
+<tr>
+<td class="sprite-bluelefu2"/>
+<td class="sprite-bluehorj2"/>
+<td><img height="7" src="/img/bluerigi2.png" width="7"/></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="900">
+<tr>
+<td colspan="4" height="10"/>
+</tr>
+<tr>
+<td align="center" bgcolor="#F5F5F5" height="50">Copyright © 2007-2014 <a href="http://www.duwenzhang.com">ÎÄÕÂÔÄ¶ÁÍø</a> °æÈ¨ËùÓÐ.<a href="http://www.duwenzhang.com">Çé¸ÐÎÄÕÂ</a>,<a href="http://www.duwenzhang.com/sanwen.html">É¢ÎÄ</a><a href="http://www.duwenzhang.com/wenzhang/shenghuosuibi/">Ëæ±Ê</a>,<a href="http://www.duwenzhang.com/meiwen.html">ÃÀÎÄ</a>¹ÊÊÂ,ÓÅÐã×÷ÎÄÔÚÏßÔÄ¶ÁÐÀÉÍ&#13;
+</td>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5"/>
+<td bgcolor="#F5F5F5" width="30"><script src="http://cbjs.baidu.com/js/o.js" type="text/javascript"/>
+<script type="text/javascript">&#13;
+BAIDU_CLB_fillSlotAsync('219165','mad1');&#13;
+</script><script language="javascript" src="/foot.js" type="text/javascript"/></td>
+</tr>
+</table>
+</center></body></html>

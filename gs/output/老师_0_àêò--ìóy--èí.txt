@@ -1,0 +1,412 @@
+Match Times: 0 
+Url: http://edu.people.com.cn/GB/8216/64401/ 
+Title: ��?��|???��--?����y--��???��? 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html;charset=%SOUP-ENCODING%" http-equiv="content-type"/>
+<meta content="all" name="robots"/>
+<meta content="&#xBD;&#xCC;&#xD3;&#xFD;&#xB7;&#xBD;&#xB7;&#xA8;,&#xB3;&#xCD;&#xB7;&#xA3;&#xBD;&#xCC;&#xD3;&#xFD;,&#xB1;&#xB8;&#xBF;&#xCE;,&#xCA;&#xDA;&#xBF;&#xCE;&#xD7;&#xCA;&#xD4;&#xB4;;&#xD0;&#xA1;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xA2;&#xD6;&#xD0;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xA2;&#xB4;&#xF3;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xBB;&#xBF;&#xCE;&#xBC;&#xFE;&#xA1;&#xA2;&#xBD;&#xCC;&#xD3;&#xFD;&#xC2;&#xDB;&#xCE;&#xC4;&#xA1;&#xA2;&#xBD;&#xCC;&#xB8;&#xC4;&#xA1;&#xA2;&#xBF;&#xCE;&#xB8;&#xC4;&#xA1;&#xA2;&#xBD;&#xCC;&#xB0;&#xB8;&#xA3;&#xAC;&#xBD;&#xCC;&#xD1;&#xA7;&#xD7;&#xCA;&#xD4;&#xB4;&#xA3;&#xBB;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD0;&#xA3;&#xB3;&#xA4;&#xA3;&#xBB;&#xD3;&#xEF;&#xCE;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCA;&#xFD;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xB4;&#xFA;&#xCA;&#xFD;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xBC;&#xB8;&#xBA;&#xCE;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD3;&#xA2;&#xD3;&#xEF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD5;&#xFE;&#xD6;&#xCE;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCB;&#xBC;&#xCF;&#xEB;&#xC6;&#xB7;&#xB5;&#xC2;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCE;&#xEF;&#xC0;&#xED;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xBB;&#xAF;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC9;&#xFA;&#xCE;&#xEF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xB5;&#xD8;&#xC0;&#xED;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC0;&#xFA;&#xCA;&#xB7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC3;&#xC0;&#xCA;&#xF5;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCC;&#xE5;&#xD3;&#xFD;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD2;&#xF4;&#xC0;&#xD6;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCE;&#xE8;&#xB5;&#xB8;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xBB;&#xBD;&#xCC;&#xD1;&#xA7;&#xD1;&#xD0;&#xBE;&#xBF;&#xA3;&#xAC;&#xCA;&#xDA;&#xBF;&#xCE;&#xA3;&#xBB;&#xD0;&#xA1;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;&#xA1;&#xA2;&#xD6;&#xD0;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;&#xA1;&#xA2;&#xB4;&#xF3;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;" name="description"/>
+<meta content="&#xBD;&#xCC;&#xD3;&#xFD;&#xB7;&#xBD;&#xB7;&#xA8;,&#xB3;&#xCD;&#xB7;&#xA3;&#xBD;&#xCC;&#xD3;&#xFD;,&#xB1;&#xB8;&#xBF;&#xCE;,&#xCA;&#xDA;&#xBF;&#xCE;&#xD7;&#xCA;&#xD4;&#xB4;;&#xD0;&#xA1;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xA2;&#xD6;&#xD0;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xA2;&#xB4;&#xF3;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xBB;&#xBF;&#xCE;&#xBC;&#xFE;&#xA1;&#xA2;&#xBD;&#xCC;&#xD3;&#xFD;&#xC2;&#xDB;&#xCE;&#xC4;&#xA1;&#xA2;&#xBD;&#xCC;&#xB8;&#xC4;&#xA1;&#xA2;&#xBF;&#xCE;&#xB8;&#xC4;&#xA1;&#xA2;&#xBD;&#xCC;&#xB0;&#xB8;&#xA3;&#xAC;&#xBD;&#xCC;&#xD1;&#xA7;&#xD7;&#xCA;&#xD4;&#xB4;&#xA3;&#xBB;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD0;&#xA3;&#xB3;&#xA4;&#xA3;&#xBB;&#xD3;&#xEF;&#xCE;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCA;&#xFD;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xB4;&#xFA;&#xCA;&#xFD;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xBC;&#xB8;&#xBA;&#xCE;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD3;&#xA2;&#xD3;&#xEF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD5;&#xFE;&#xD6;&#xCE;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCB;&#xBC;&#xCF;&#xEB;&#xC6;&#xB7;&#xB5;&#xC2;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCE;&#xEF;&#xC0;&#xED;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xBB;&#xAF;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC9;&#xFA;&#xCE;&#xEF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xB5;&#xD8;&#xC0;&#xED;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC0;&#xFA;&#xCA;&#xB7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC3;&#xC0;&#xCA;&#xF5;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCC;&#xE5;&#xD3;&#xFD;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD2;&#xF4;&#xC0;&#xD6;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xCE;&#xE8;&#xB5;&#xB8;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xBB;&#xBD;&#xCC;&#xD1;&#xA7;&#xD1;&#xD0;&#xBE;&#xBF;&#xA3;&#xAC;&#xCA;&#xDA;&#xBF;&#xCE;&#xA3;&#xBB;&#xD0;&#xA1;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;&#xA1;&#xA2;&#xD6;&#xD0;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;&#xA1;&#xA2;&#xB4;&#xF3;&#xD1;&#xA7;&#xBD;&#xCC;&#xD3;&#xFD;" name="keywords"/>
+<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible"/>
+<title>ÀÏÊ¦Ö®¼Ò--½ÌÓý--ÈËÃñÍø</title>
+<link href="/css/edu2007_teacher/page.css" rel="stylesheet" type="text/css"/>
+</head>
+<body leftmargin="0" topmargin="0">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="770">
+<tr>
+<td width="770"><img border="0" src="/mediafile/200705/09/F200705091127062569135041.jpg" width="770"/></td>
+</tr>
+</table>
+
+<!--<table width="770" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="770"><img src="/img/edu2007_teacher/images/top2.jpg" width="770" height="35"  /></td>
+  </tr>
+</table>
+<table width="770" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="239"><img src="/img/edu2007_teacher/images/top3.jpg" width="239" height="66"  /></td>
+    <td width="260"><img src="/img/edu2007_teacher/images/top4.jpg" width="260" height="66"  /></td>
+      <td width="271"><a href="sss"><img src="/img/edu2007_teacher/images/top5.jpg" width="271" height="66" border="0" usemap="#Map"  /></a></td>
+  </tr>
+</table>--><table border="0" cellpadding="0" cellspacing="0" width="770">
+<tr>
+<td width="45"><img height="33" src="/img/edu2007_teacher/images/lmenu-bg.jpg" width="45"/></td>
+<td align="center" background="/img/edu2007_teacher/images/menu-bg.jpg" width="688"><table border="0" cellpadding="0" cellspacing="0" width="98%">
+<tr><td align="center"><a class="awht" href="/GB/8216/64401/64402/index.html" target="_blank"><b>ÐÂÎÅ</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/64401/69181/index.html" target="_blank"><b>ÆØ¹âÌ¨</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/181450/index.html" target="_blank"><b>¼¨Ð§¹¤×Ê</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/64401/64405/index.html" target="_blank"><b>ÀÏÊ¦¹ÊÊÂ</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/64401/64403/index.html" target="_blank"><b>ÀÏÊ¦ÂÛÌ³</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/64401/68341/index.html" target="_blank"><b>Ð£³¤ÔÚÏß</b></a></td>
+<td align="center"><a class="awht" href="/GB/8216/36635/index.html" target="_blank"><b>½ÌÓý²¿</b></a></td>
+<td align="center"><a class="awht" href="/GB/153736/index.html" target="_blank"><b>´óÑ§Ð£³¤ÁôÑÔ°æ</b></a></td>
+<td align="center"><a class="awht" href="/GB/155176/index.html" target="_blank"><b>´óÑ§µãÆÀÍø</b></a></td>
+</tr>
+</table></td>
+<td width="37"><img height="33" src="/img/edu2007_teacher/images/rmenu-bg.jpg" width="37"/></td>
+</tr>
+</table>
+<table border="0" cellpadding="3" cellspacing="0" width="770">
+<tr>
+<td align="center" bgcolor="#E4F4DB"/>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="770">
+<tr>
+<td valign="top" width="263"><table border="0" cellpadding="0" cellspacing="0" style="margin:3px 3px  0 0" width="260">
+<tr>
+<td width="11"><img height="25" src="/img/edu2007_teacher/images/title1-lbg.jpg" width="11"/></td>
+<td align="center" bgcolor="#6CBF3B" class="twhtb" width="61"><a class="awht" href="/GB/8216/64401/64402/index.html" target="_blank">ÒªÎÅËÙ¶Á</a></td>
+<td width="188"><img height="25" src="/img/edu2007_teacher/images/title1-rbg.jpg" width="188"/></td>
+</tr>
+</table>
+<table bgcolor="#E3F1DC" border="0" cellpadding="5" cellspacing="1" style="margin:3px 3px  0 0" width="260">
+<tr>
+<td align="center" bgcolor="#FFFFFF" valign="top">
+</td>
+</tr>
+</table></td>
+<td align="center" bgcolor="#E6F6CA" valign="top" width="270"><table bgcolor="#000000" border="0" cellpadding="0" cellspacing="1" height="170" width="264">
+<tr>
+<td align="center" bgcolor="#E9F3FF">
+
+<!--FLASHÍ¼Æ¬×é --><script type="text/javascript">&#13;
+&#13;
+&lt;!--&#13;
+&#13;
+var _width = 260&#13;
+&#13;
+var _height = 170&#13;
+&#13;
+var text_height = 20 &#13;
+&#13;
+var flash_height = _height + text_height &#13;
+&#13;
+&#13;
+var pic_arr = new Array(); &#13;
+&#13;
+var link_arr = new Array(); &#13;
+&#13;
+var text_arr = new Array(); &#13;
+&#13;
+&#13;
+var i = 0;&#13;
+&#13;
+pic_arr[0] = "/mediafile/201104/13/F201104131030002114629528.jpg";&#13;
+pic_arr[1] = "/mediafile/201101/20/F201101201415462914924220.jpg";&#13;
+&#13;
+link_arr[0] = "http://edu.people.com.cn/GB/14327648.html";&#13;
+link_arr[1] = "http://edu.people.com.cn/GB/13729229.html";&#13;
+&#13;
+text_arr[0] = '½ÌÊ¦23Äê¡°ÎÏ¾Ó¡±É½Çø Çã¾¡ËùÓÐÖúÆ¶À§Éú';&#13;
+text_arr[1] = '¡°ÃÅ¼÷Ð£³¤¡± ÀûÓÃÑ¡µ÷½ÌÊ¦Ð¦ÄÉ14Íò»ßÂ¸±»ÅÐ5Äê';&#13;
+&#13;
+&#13;
+//&#13;
+&#13;
+var p = pic_arr.join("|");&#13;
+&#13;
+var l = link_arr.join("|");&#13;
+&#13;
+var t = text_arr.join("|");&#13;
+&#13;
+var f = "/img/edu2007_teacher/focus.swf";&#13;
+document.write('&lt;object ID="focus_flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ _width +'" height="'+ flash_height +'"&gt;');&#13;
+document.write('&lt;param name="allowScriptAccess" value="sameDomain"&gt;&lt;param name="movie" value="'+f+'"&gt;&lt;param name="quality" value="high"&gt;&lt;param name="bgcolor"&gt;');&#13;
+document.write('&lt;param name="menu" value="false"&gt;&lt;param name=wmode value="transparent"&gt;');&#13;
+document.write('&lt;param name="FlashVars" value="pics='+p+'&amp;links='+l+'&amp;texts='+t+'&amp;borderwidth='+_width+'&amp;borderheight='+_height+'&amp;textheight='+text_height+'"&gt;');&#13;
+document.write('&lt;embed ID="focus_flash" src="'+f+'" wmode="opaque" FlashVars="pics='+p+'&amp;links='+l+'&amp;texts='+t+'&amp;borderwidth='+_width+'&amp;borderheight='+_height+'&amp;textheight='+text_height+'" menu="false" quality="high" width="'+ _width +'" height="'+ flash_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"  /&gt;');&#13;
+&#13;
+document.write('&lt;/object&gt;');&#13;
+//--&gt;&#13;
+            </script>
+
+<!--FLASHÍ¼Æ¬×é --></td>
+</tr>
+</table>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="5" width="270">
+<tr>
+<td align="center" class="t14orangeb" width="260"><a class="agreen1" href="/GB/14318475.html" target="_blank"><font color="#ff0000">ÉòÑôÊ¦´ó³öÐÂ¹æ:½ÌÊ¦½úÖ°²»¿¿ÂÛÎÄ¿¿½ÌÑ§</font></a></td></tr>
+<tr>
+<td align="center" class="t14orangeb" width="260"><a class="agreen1" href="/GB/14355637.html" target="_blank"><font color="#ff0000">Ì¨Å®×Ó10ÓàÄêÖ§½ÌÂé·ç´å×·×Ù:ÔøÔâÒÉÊÇÌØÎñ</font></a></td>
+</tr>
+<tr>
+<td align="left" class="t12blu1" valign="top">    10ÓàÄêÀ´£¬ÕÅÆ½ÒËÔÚÕâ¸öÍâ½çÔø¾­ÎÅÖ®É«±äµÄÂé·ç´å£¬Ä¬Ä¬¸ûÔÅ£¬°ïÖúÖÚ¶àº¢×Ó½ÓÊÜ½ÌÓý¡¢×ßÈëÉç»á¡£</td></tr>
+<tr>
+<td align="left" valign="top">
+</td>
+</tr>
+</table></td><td align="center" style="padding:5px 0 0 5px" valign="top" width="237">
+<table bgcolor="#E3F1DC" border="0" cellpadding="2" cellspacing="1" width="100%">
+<tr>
+<td align="center" bgcolor="#ffffff" valign="top"><a href="http://comments.people.com.cn/bbs_new/app/src/main/?action=list&amp;nid=64401" target="_blank"><img border="1" class="imgbrown" height="22" hspace="3" src="/mediafile/200704/27/F200704271513582498273661.jpg" vspace="3" width="94"/></a>
+<a href="http://blog.people.com.cn/blog/c/Education" target="_blank"><img border="1" class="imgbrown" height="22" hspace="3" src="/mediafile/200704/27/F200704271513575820194202.jpg" vspace="3" width="94"/></a>
+<a href="mailto:jypd@peopledaily.com.cn" target="_blank"><img border="1" class="imgbrown" height="22" hspace="3" src="/mediafile/200704/27/F200704271513565633742522.jpg" vspace="3" width="94"/></a>
+<a href="http://dxdp.people.com.cn/" target="_blank"><img border="1" class="imgbrown" height="22" hspace="3" src="/mediafile/200704/27/F200704271513551314316217.jpg" vspace="3" width="94"/></a>
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-bottom:5px" width="770">
+<tr>
+<td width="770"><img height="16" src="/img/edu2007_teacher/images/form2-top.jpg" width="770"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#F4F1DB" style="border:1px solid #E3F1DC;border-top:none" valign="top"><table border="0" cellpadding="0" cellspacing="4" width="767">
+<tr>
+<td bgcolor="#FFFFFF" valign="top" width="250">
+</td>
+<td align="center" bgcolor="#FFFFFF" valign="top" width="250"/>
+<td align="center" bgcolor="#FFFFFF" valign="top" width="251"/>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!--
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="254" align="center" valign="top" style="border:1px solid #E3F1DC;padding:3px">
+      
+    <a href="http://edu.people.com.cn/GB/8216/79407/index.html" target=_blank><img src="/mediafile/200704/27/F200704271528192155474751.jpg" width="160" height="50" border="0" /></a>
+</td>
+	<td width="516" align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="52%" align="center" valign="top" bgcolor="#F4F1DB" style="padding: 5px"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:5px 0">
+            <tr>
+              <td width="3%"><img src="/img/edu2007_teacher/images/title4-lbg.jpg" width="10" height="22"  /></td>
+              <td width="93%" bgcolor="#6CBF3B" class="twhtb"><a class="awht"  href=/GB/8216/64401/64405/index.html target=_blank>ÀÏÊ¦¹ÊÊÂ</a></td>
+              <td width="4%"><img src="/img/edu2007_teacher/images/title4-rbg.jpg" width="10" height="22"  /></td>
+            </tr>
+          </table>
+            <table width="100%" border="0" cellpadding="0" cellspacing="8" bgcolor="#FFFFFF" style="margin-bottom:5px"><tr>
+                  <td width="15%" valign="top"><a href="http://edu.people.com.cn/GB/9053158.html" target=_blank><img src="/mediafile/200904/15/F200904151442222652074433.jpg" width="70" height="70" border="0" /></a></tr>
+</td>
+                <td width="85%" align="left" valign="top"><a href='/GB/9053158.html' target=_blank class="agreen1">²Ð¼²½ÌÊ¦¼áÊØÏç´å14Äê</a><br  />
+                    <span class="t12green"><a href='/GB/9053158.html' target=_blank class="agreen2">&nbsp;&nbsp;&nbsp;&nbsp;ËùÓÐµÄ¸¶³ö¶¼ÊÇÖµµÃµÄ£¬ÒòÎªÎÒ¶ÔÉú»î³äÂúã¿ã½¡­¡­</a></span></td>
+</table>
+          <table width="100%" border="0" cellpadding="7" cellspacing="0" bgcolor="#FFFFFF">
+              <tr>
+                <td align="left" valign="top"></td>
+              </tr>
+          </table></td>
+        <td width="48%" align="center" valign="top" bgcolor="#FFEAB2" style="padding:5px"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:5px 0">
+            <tr>
+              <td width="6%"><img src="/img/edu2007_teacher/images/title5-lbg.jpg" width="14" height="22"  /></td>
+              <td width="88%" align="left" bgcolor="#FFFFFF" class="t14orange1b"><a class="aorangeb" href=/GB/8216/64401/68341/index.html target=_blank>Ð£³¤ÔÚÏß</font></a></td>
+              <td width="6%"><img src="/img/edu2007_teacher/images/title5-rbg.jpg" width="13" height="22"  /></td>
+            </tr>
+          </table>
+            <table width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+              <tr>
+                <td align="left" valign="top"></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><a href="http://edu.people.com.cn/GB/153736/index.html" target=_blank><img src="/mediafile/200912/10/F200912101638532975660621.jpg" alt="12" width="168" height="100" vspace="4" border="0" /></a><br  /><a href="http://edu.people.com.cn/GB/153736/index.html" target=_blank>ÖÐ¹ú´óÑ§Ð£³¤ÁôÑÔ°å</a></td>
+              </tr>
+</table></td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#E3F1DC" style="margin-top:3px">
+      <tr>
+        <td align="center" valign="top" bgcolor="#ffffff" style="border-top:3px solid #FFEDA3"><table width="100%" border="0" cellspacing="3" cellpadding="0">
+          <tr>
+            <td align="left"  class="t14orangeb"><a class="aorangeb" href=http://edu.people.com.cn/GB/8216/47717/51646/index.html target=_blank>&gt;&gt;¡¡È¤Î¶ÐÄÀí²âÊÔ</a></td><td align="left"  class="t14orangeb"><a class="aorangeb" href=http://edu.people.com.cn/GB/8216/47717/47726/index.html target=_blank>&gt;&gt;¡¡ÇáËÉÒ»¿Ì</a></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">¡¤<a href='/GB/8216/64401/12682787.html' target=_blank class="agreen1">ÐÄÀí²âÊÔ£º°ì¹«×À·ç¸ñ¿´¸öÐÔ</a><br>
+¡¤<a href='/GB/8216/64401/12682743.html' target=_blank class="agreen1">ÐÄÀí²âÊÔ£ºÊ±¼ä¸Ð</a><br>
+¡¤<a href='/GB/8216/64401/12682739.html' target=_blank class="agreen1">ÐÄÀí²âÊÔ£ºÄãÏëÂäÔÚÄÄ¶ù</a><br>
+¡¤<a href='/GB/8216/64401/12682735.html' target=_blank class="agreen1">ÐÄÀí²âÊÔ£º´òÕÐºô·½Ê½¿´ÐÔ¸ñ</a><br>
+¡¤<a href='/GB/8216/64401/12682715.html' target=_blank class="agreen1">ÐÄÀí²âÊÔ£ºÏ´ÔèÊ±¼ä¿´¸öÐÔ</a><br>
+</td>
+            <td align="left" valign="top">¡¤<a href='/GB/8216/64401/12682675.html' target=_blank class="agreen1">¿ªÐÄÒ»¿Ì£ººÃºÃ¸ÉµÈ</a><br>
+¡¤<a href='/GB/8216/64401/12682668.html' target=_blank class="agreen1">±¬Ð¦£º½Ð×ÓÓÐ·½</a><br>
+¡¤<a href='/GB/8216/64401/12682661.html' target=_blank class="agreen1">Ð¦»°£º"×ß´íÂ·ÁË"µÈ</a><br>
+¡¤<a href='/GB/8216/64401/12682625.html' target=_blank class="agreen1">¿ªÐÄÒ»¿Ì£º¡°°×Ö½ÄãÒªÂð£¿¡±µÈ</a><br>
+¡¤<a href='/GB/8216/64401/12682610.html' target=_blank class="agreen1">ÓÄÄ¬±¬ÁÏ£ºÎÄÑÔËµ»°</a><br>
+</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="255" align="center" valign="top" style="border:1px solid #E3F1DC;padding:3px">
+    </td>
+    <td width="509" align="center" valign="top"><table width="100%" border="0" cellspacing="1" cellpadding="0" style="margin-bottom:4px">
+      <tr>
+        <td align="center" valign="top" style="border-top:2px solid #E3F1DC;border-bottom:1px solid #E3F1DC;border-left:1px solid #E3F1DC;border-right:1px solid #E3F1DC"><table width="100%" border="0" cellspacing="3" cellpadding="0">
+            <tr>
+              <td width="17%" align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="/img/edu2007_teacher/images/title4-lbg.jpg" width="10" height="22"  /></td>
+                        <td align="center" bgcolor="#6CBF3B" class="twhtb"></td>
+                    <td><img src="/img/edu2007_teacher/images/title4-rbg.jpg" width="10" height="22"  /></td>
+                  </tr>
+              </table></td>
+              <td width="83%" align="center"><table width="409" height="22" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="420" align="right" background="/img/edu2007_teacher/images/title6-bg.jpg" style="padding-right:15px"></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td align="center" valign="top"><table border="0" cellspacing="1" cellpadding="3" bgcolor="#D6EACC">
+                  <tr>
+                    <td align="center" valign="top" bgcolor="#ffffff"></td>
+                  </tr>
+              </table></td>
+              <td align="center" valign="top"></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="1" cellpadding="0" style="margin-bottom:4px">
+        <tr>
+          <td align="center" valign="top" style="border-top:2px solid #E3F1DC;border-bottom:1px solid #E3F1DC;border-left:1px solid #E3F1DC;border-right:1px solid #E3F1DC"><table width="100%" border="0" cellspacing="3" cellpadding="0">
+              <tr>
+                <td width="17%" align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><img src="/img/edu2007_teacher/images/title4-lbg.jpg" width="10" height="22"  /></td>
+                      <td align="center" bgcolor="#6CBF3B" class="twhtb"></td>
+                      <td><img src="/img/edu2007_teacher/images/title4-rbg.jpg" width="10" height="22"  /></td>
+                    </tr>
+                </table></td>
+                <td width="83%" align="center"><table width="409" height="22" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="420" align="right" background="/img/edu2007_teacher/images/title6-bg.jpg" style="padding-right:15px"></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><table border="0" cellspacing="1" cellpadding="3" bgcolor="#D6EACC">
+                    <tr>
+                      <td align="center" valign="top" bgcolor="#ffffff"></td>
+                    </tr>
+                </table></td>
+                <td align="center" valign="top"></td>
+              </tr>
+          </table></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="1" cellpadding="0" >
+        <tr>
+          <td align="center" valign="top" style="border-top:2px solid #E3F1DC;border-bottom:1px solid #E3F1DC;border-left:1px solid #E3F1DC;border-right:1px solid #E3F1DC"><table width="100%" border="0" cellspacing="3" cellpadding="0">
+              <tr>
+                <td width="17%" align="center" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><img src="/img/edu2007_teacher/images/title4-lbg.jpg" width="10" height="22"  /></td>
+                      <td align="center" bgcolor="#6CBF3B" class="twhtb"></td>
+                      <td><img src="/img/edu2007_teacher/images/title4-rbg.jpg" width="10" height="22"  /></td>
+                    </tr>
+                </table></td>
+                <td width="83%" align="center"><table width="409" height="22" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="420" align="right" background="/img/edu2007_teacher/images/title6-bg.jpg" style="padding-right:15px"></td>
+                    </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><table border="0" cellspacing="1" cellpadding="3" bgcolor="#D6EACC">
+                    <tr>
+                      <td align="center" valign="top" bgcolor="#ffffff"></td>
+
+                    </tr>
+                </table></td>
+                <td align="center" valign="top"></td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+--><table bgcolor="#E3F1DC" border="0" cellpadding="0" cellspacing="1" style="margin:5px 0 5px 0" width="770">
+<tr>
+<td align="center" bgcolor="#ffffff" valign="top"><table border="0" cellpadding="0" cellspacing="5" width="100%">
+<tr>
+<td align="center" valign="top" width="38%"><table border="0" cellpadding="0" cellspacing="0" style="margin-bottom:5px" width="486">
+<tr>
+<td width="10"><img height="22" src="/img/edu2007_teacher/images/title4-lbg.jpg" width="10"/></td>
+<td align="center" bgcolor="#6BBC3B" class="twhtb" width="109">½ÌÓýÍ¼ÊéÔÚÏß</td>
+<td width="10"><img height="22" src="/img/edu2007_teacher/images/title4-rbg.jpg" width="10"/></td>
+<td background="/img/edu2007_teacher/images/title7-bg.jpg" width="357"> </td>
+</tr>
+</table>
+<table bgcolor="#8FAA81" border="0" cellpadding="0" cellspacing="5" width="100%"><tr>
+<td align="center" valign="top"><a class="awht" href="/GB/8216/102455/index.html" target="_blank"><img border="0" height="77" src="/mediafile/200709/13/F200709131038301575913971.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="/GB/8216/102455/index.html" target="_blank">ÎªÊ²Ã´Ñ¡Ëûµ±Áìµ¼</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/8216/82147/index.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271343535992279218.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/8216/82147/index.html" target="_blank">¸ß¿¼×´ÔªÑ§Ï°·½·¨</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/8216/76358/index.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271340443327647430.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/8216/76358/index.html" target="_blank">Óëº¢×Ó¹µÍ¨µÄ36ÖÖºÃ·½·¨</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/5663762.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271340421754611452.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/5663762.html" target="_blank">´óÑ§×¨Òµ È«ÐÂÆÀµã</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/8216/81869/index.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271340428593777252.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/8216/81869/index.html" target="_blank">´òÆÆÑ§Ï°µÄ³£¹æ</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/8216/63326/index.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271336083397123321.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/8216/63326/index.html" target="_blank">ÈçºÎÌî±¨¸ß¿¼Ö¾Ô¸</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/8216/71397/4839862.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271336073244120573.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/8216/71397/4839862.html" target="_blank">¿ÉÒÔÆ½·² ²»ÄÜÆ½Ó¹</a>
+</td>
+<td align="center" valign="top"><a class="awht" href="http://edu.people.com.cn/GB/4660951.html" target="_blank"><img border="0" height="77" src="/mediafile/200704/27/F200704271336053199411881.jpg" vspace="3" width="55"/></a><br/><a class="awht" href="http://edu.people.com.cn/GB/4660951.html" target="_blank">·¢¾òº¢×Ó´óÄÔÇ±ÄÜ</a>
+</td>
+</tr>
+</table></td>
+<td align="center" bgcolor="#FFF5DB" style="padding:5px" valign="top" width="62%"/>
+</tr>
+</table></td>
+</tr>
+</table>
+<table bgcolor="#E3F1DC" border="0" cellpadding="5" cellspacing="1" width="770">
+<tr>
+<td align="center" bgcolor="#ffffff" valign="top" width="758"><table border="0" cellpadding="0" cellspacing="5" width="100%">
+<tr>
+<td width="44%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td background="/img/edu2007_teacher/images/line2.jpg" height="8"/>
+</tr>
+</table></td>
+<td align="center" class="t14orangeb" width="12%">ºÏ×÷»ï°é</td>
+<td width="44%"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td background="/img/edu2007_teacher/images/line2.jpg" height="8"/>
+</tr>
+</table></td>
+</tr>
+</table>
+<a href="mailto:jypd@peopledaily.com.cn" target="_blank"><img border="0" height="29" src="/mediafile/200712/25/F200712251518503198723547.jpg" width="86"/></a> <br/><a href="http://www.basicedu.moe.edu.cn/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200712/07/F200712071002231922328610.jpg" vspace="5" width="86"/></a><a href="http://dmt.cnki.net/index.jsp" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200704/30/F200704301408041017519491.gif" vspace="5" width="86"/></a><a href="http://www.zgxzw.com/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200704/30/F200704301408011956180121.gif" vspace="5" width="86"/></a><a href="http://edu.people.com.cn/GB/8216/4803362.html" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="http://edu.people.com.cn/mediafile/200607/13/F200607131807263229432219.jpg" vspace="5" width="86"/></a><a href="http://www.cen114.com/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200704/30/F200704301418591870824534.gif" vspace="5" width="86"/></a><br/><a href="http://www.chinateacher.com.cn/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200712/28/F200712281442109436202311.jpg" vspace="5" width="86"/></a><a href="http://www.job910.com/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200711/12/F200711121430559019227164.jpg" vspace="5" width="86"/></a><a href="http://www.ewteacher.com/index.shtml" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="/mediafile/200711/13/F200711131026101431025490.jpg" vspace="5" width="86"/></a><a href="http://www.edulife.com.cn/" target="_blank"><img alt="12" border="1" class="imggreen" height="29" hspace="5" src="http://www.edulife.com.cn/images/mlogo.gif" vspace="5" width="86"/></a>
+<table border="0" cellpadding="0" cellspacing="0" width="98%">
+<tr>
+<td align="left"><center><a href="http://www.ccf.edu.cn/" target="_blank">ÖÐ¹ú¸ßµÈÑ§Ð£½ÌÊ¦Íø</a> <a href="http://www.e-chinaedu.cn/" target="_blank">ÖÐ¹ú½ÌÓýÐÅÏ¢»¯Íø</a> <a href="http://www.pupiltown.com/" target="_blank">ÐÂÑ§ÌÃ</a> <a href="http://www.cen114.com/" target="_blank">½ÌÓýÍøÖ·</a> <a href="http://teacher.eol.cn/" target="_blank">ÖÐ¹ú½ÌÓýÔÚÏß½ÌÊ¦ÕÐÆ¸</a><a href="mailto:jypd@peopledaily.com.cn" target="_blank"><marquee align="middle" border="0" scrolldelay="120"><font color="red"><b>ÈËÃñÍø½ÌÊ¦ÆµµÀ³ÏÕ÷ºÏ×÷»ï°é£¬»¶Ó­ÖÂµç010-65363626</b></font></marquee></a></center></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:5px" width="770">
+<tr>
+<td bgcolor="#FFEEB2" height="3"/>
+</tr>
+</table>
+<table border="0" cellpadding="5" cellspacing="0" width="770">
+<tr>
+<td align="center"><font color="#016AAC">ÈË Ãñ Íø °æ È¨ Ëù ÓÐ £¬Î´ ¾­ Êé Ãæ ÊÚ È¨ ½û Ö¹ Ê¹ ÓÃ<br/>&#13;
+Copyright &amp;copy; 1997-2006 by www.people.com.cn. all rights reserved</font></td>
+</tr>
+</table>
+</div>
+<map id="Map" name="Map">
+<area coords="95,8,262,62" href="http://edu.people.com.cn/" shape="rect" target="_blank">
+</area></map>
+</body>
+</html>

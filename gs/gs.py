@@ -14,6 +14,7 @@ import re
 import random
 import chardet
 import sys
+import chardet
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -74,6 +75,7 @@ class GoogleSearch(object):
 
     def __init__(self, results_per_page):
         self.query = None
+        self.query_unicode = None
         self.results_per_page = results_per_page
         self.browser = Browser(use_random_agent=True)
         self.results_info = None
@@ -107,8 +109,10 @@ class GoogleSearch(object):
     def get_results(self, query, max_value):
         """get a page of results"""
         self.reset_init()
+        predecoding = chardet.detect(query)['encoding']
         #self.query = self.browser.convert_encoding(query)
-        self.query = query
+        self.query = self.browser.convert_encoding(query)
+        self.query_unicode = self.query.decode(predecoding)
         self._MAX_VALUE = max_value
         while self.eor is not True:
             page = self._get_results_page()
@@ -158,16 +162,16 @@ class GoogleSearch(object):
     def _extract_results(self, soup):
         """extract the url of one search-page"""
         #get the link-urls of a page
-        preurls = soup.xpath('//h3')
+        preurls = soup.xpath("//h3[@class='r']/a")
         # for preurl in preurls:
             # print etree.tostring(preurl)
         seedurls = list()
         for url in preurls:
             if 'http://' in etree.tostring(url) or 'https://' in etree.tostring(url):
-                seedurls.append(re.search('.*(https?://\w+.*?)&', etree.tostring(url)).group(1))
+                seedurls.append(re.search('.*(https?://.*?(?!google)\w+.*?)&', etree.tostring(url)).group(1))
         #seedurls = [ re.search(u'[/\?]url(\?q)?=(http://\w+\..*)&', seedurl).group(1) 
         #             for seedurl in seedurls ]
-        print seedurls
+        #print seedurls
         ret_res = []
         for seedurl in seedurls:
             eres = self._filter_result(seedurl)
@@ -178,8 +182,11 @@ class GoogleSearch(object):
     def _filter_result(self, seedurl):
         """open the urls returned by _extract_results() and return the content"""
         filter_meta = dict()
+        fs_encode = sys.getfilesystemencoding()
         try:
             page_text = self.browser.get_page(seedurl, proxies=self.proxies)
+            #print type(page_text)
+            #print chardet.detect(page_text)
             dom = soupparser.fromstring(page_text)
         except BrowserError, e:
             raise SearchError, "Failed getting %s: %s" %(e.url, e.error)
@@ -193,12 +200,13 @@ class GoogleSearch(object):
                 page_title = 'NoTitle'
             else:
                 page_title = title_list[0].strip('\n')
-            relist = re.findall(self.query, etree.tostring(dom))
-            if len(relist) >= 1:
+                page_title = page_title.encode(fs_encode)
+            relist = re.findall(self.query, etree.tostring(dom, encoding='UTF-8'))
+            if len(relist) >= 0:
                 filter_meta['title'] = page_title
                 filter_meta['url'] = seedurl
-                filter_meta['query_word'] = self.query
-                filter_meta['text'] = page_text
+                filter_meta['query_word'] = self.query_unicode.encode(fs_encode)
+                filter_meta['text'] = etree.tostring(dom, encoding= fs_encode)
                 filter_meta['match_counts'] = len(relist)
             #return filter_meta
                 self.write_content(filter_meta)
@@ -212,7 +220,7 @@ class GoogleSearch(object):
                         '_' + \
                         str(result['match_counts']) + \
                         '_' + \
-                        re.sub('[|<>\.\\\*\?\:\ ]','' , str(result['title'])) + \
+                        re.sub('[|<>\.\\\*\?\:\ \r\n/]','' , result['title']) + \
                         '.txt'
                         
         with open(dest_file, 'a') as f:
@@ -247,7 +255,7 @@ class Browser(object):
             else:
 				response = requests.get(url, headers=self.headers,
 						verify=False, timeout=timeout)
-            return self.convert_encoding(response.content)
+            return self.convert_encoding(response.text)
         except requests.exceptions.Timeout, e:
             return "[Timeout] : open url timeout \n%s\n " %(url)
         except BrowserError as e:
@@ -259,8 +267,11 @@ class Browser(object):
         return user_agent
     
     def convert_encoding(self, data, new_coding = 'UTF-8'):
-        encoding = chardet.detect(data)['encoding']
-        print encoding
-        if new_coding.upper() != encoding.upper():
-            data = data.decode(encoding, 'ignore').encode(new_coding)
-        return data
+        if isinstance(data, unicode):
+            return data.encode(new_coding)
+        else:
+            encoding = chardet.detect(data)['encoding']
+            #print encoding
+            if new_coding.upper() != encoding.upper():
+                data = data.decode(encoding, 'ignore').encode(new_coding)
+            return data

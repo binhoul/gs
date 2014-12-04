@@ -1,0 +1,1171 @@
+Match Times: 0 
+Url: http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/ 
+Title: 
+???����?��?��|����????1?����?D?�¨�?��|��?����??_��?��|?��???????��_��????��?��������? 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>&#13;
+¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¹ØÓÚ¸Ð¶÷ÀÏÊ¦µÄ×÷ÎÄ_ÀÏÊ¦ÎÒÏë¶ÔÄãËµ_Ì«Æ½ÑóÇ××ÓÍø&#13;
+</title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xD0;&#xB4;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xD4;&#xDE;&#xC3;&#xC0;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xBD;&#xCC;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;" name="keywords"/>
+<meta content="&#xCF;&#xEB;&#xD0;&#xB4;&#xBA;&#xC3;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xC2;&#xF0;&#xA3;&#xBF;&#xD5;&#xE2;&#xC0;&#xEF;&#xCC;&#xE1;&#xB9;&#xA9;&#xC1;&#xCB;&#xB4;&#xF3;&#xC1;&#xBF;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB5;&#xC4;&#xB6;&#xCE;&#xC2;&#xE4;&#xA3;&#xAC;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB5;&#xC4;&#xBA;&#xC3;&#xB4;&#xCA;&#xBA;&#xC3;&#xBE;&#xE4;&#xB5;&#xC8;&#xA1;&#xA3;&#xD3;&#xD0;&#xC1;&#xCB;&#xD5;&#xE2;&#xD0;&#xA9;&#xCB;&#xD8;&#xB2;&#xC4;&#xA3;&#xAC;&#xD0;&#xB4;&#xBA;&#xC3;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xD4;&#xD9;&#xD2;&#xB2;&#xB2;&#xBB;&#xD3;&#xC3;&#xB7;&#xA2;&#xB3;&#xEE;&#xC1;&#xCB;&#xA1;&#xA3;" name="description"/>
+<meta content="wenyuqi_gz huangyingxin_gz" name="Author"/>
+<link href="http://js.3conline.com/pcbaby/2011/zt2011.css" rel="stylesheet" type="text/css"/>
+<link href="http://www1.pcbaby.com.cn/zt/scbdq/list/g20120903/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="ivy_div" style="display: none;"/>
+<script type="text/javascript">&#13;
+var deviceJumpUrl = {"main":"http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/"};&#13;
+(function() {&#13;
+if (typeof(deviceJumpUrl) != "undefined" &amp;&amp; typeof(deviceJumpUrl.wap_3g) != "undefined") {&#13;
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){&#13;
+try{&#13;
+if(/Android|Windows Phone|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){&#13;
+document.domain = "pcbaby.com.cn";&#13;
+var iframe = document.createElement("iframe");&#13;
+iframe.src = "http://www1.pcbaby.com.cn/zt/20140418/jump/index.html";&#13;
+iframe.setAttribute("style", "display:none;width:100%;height:100%;border:none;padding:0;margin:0;background:#fff;position:absolute;top:0;left:0;z-index:99999;");&#13;
+iframe.style.width = document.body.clientWidth + 50 + "px";&#13;
+iframe.id = "JiframeDeviceJump";&#13;
+document.body.appendChild(iframe);&#13;
+window.addEventListener("load",function(){&#13;
+document.getElementById("JiframeDeviceJump").style.height = document.body.clientHeight + "px"&#13;
+},false);&#13;
+}&#13;
+}catch(e){}&#13;
+}&#13;
+};&#13;
+})();&#13;
+</script>
+<script class=" defer" src="http://www.pconline.com.cn/_hux_/baby/edu/index.js"/>
+<script>document.write("&lt;img style=display:none src=http://count.pcbaby.com.cn/count.php?channel=466&amp;screen="+screen.width+"*"+screen.height+"&amp;refer="+encodeURIComponent(document.referrer)+"&amp;anticache="+new Date().getTime()+"&amp;url="+encodeURIComponent(location.href)+"&amp;from=cms &gt;");</script>
+<script>&#13;
+document.write('&lt;span class="spanclass"&gt;&lt;img src="http://acount.pcbaby.com.cn/wzcount/artbrowse.php?groupname=Ç××ÓÍø&amp;subgroupname=&amp;id=1171947&amp;title=&amp;response=1" border="0" width="0" height="0"  /&gt;&lt;/span&gt;');&#13;
+</script>
+<script src="http://www.pcbaby.com.cn/global/navibar/index.html"/>
+<style>&#13;
+.doc{background:url(http://img0.pcbaby.com.cn/pcbaby/edu/resource/000035040/000035207/1301/86.jpg) no-repeat top center;}&#13;
+html,body{background:#fff5cc;}&#13;
+h1{height:136px;}&#13;
+.dmenu li{width:100px; }&#13;
+.boxF .th { height: 30px; background: #ff944d url(http://www1.pcbaby.com.cn/zt/scbdq/sy/g20120829/images/main.png) no-repeat 11px -206px; line-height: 30px; }&#13;
+.boxF .tb { width: 232px; padding: 8px 0 8px 15px; overflow: hidden; border: 1px solid #f2e8cd; border-top: none; }&#13;
+.picTxt .oh{zoom:1;}&#13;
+.picTxt .oh p{padding-left:25px;}&#13;
+.picTxt .oh .pTit{background: url(http://www1.pcbaby.com.cn/zt/scbdq/sy/g20120829/images/main.png) no-repeat 15px -501px;}&#13;
+.dwrapperC .tb li.noback{background:none;padding:10px 10px 10px 8px;}&#13;
+</style>
+<div class="doc">
+<div class="container">
+<h1>ÎÒµÄÀÏÊ¦×÷ÎÄ</h1>
+<div class="dmenu">
+<ul class="clearfix">
+<li><a href="http://edu.pcbaby.com.cn/zuowen/" target="_blank" title="&#xD7;&#xF7;&#xCE;&#xC4;&#xB4;&#xF3;&#xC8;&#xAB;">×÷ÎÄ´óÈ«</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xxzw/" target="_blank" title="&#xD0;&#xA1;&#xD1;&#xA7;&#xD7;&#xF7;&#xCE;&#xC4;">Ð¡Ñ§×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/czzw/" target="_blank" title="&#xB3;&#xF5;&#xD6;&#xD0;&#xD7;&#xF7;&#xCE;&#xC4;">³õÖÐ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/gzzw/" target="_blank" title="&#xB8;&#xDF;&#xD6;&#xD0;&#xD7;&#xF7;&#xCE;&#xC4;">¸ßÖÐ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xsczw/" target="_blank" title="&#xD0;&#xA1;&#xC9;&#xFD;&#xB3;&#xF5;&#xD7;&#xF7;&#xCE;&#xC4;">Ð¡Éý³õ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/zkzw/" target="_blank" title="&#xD6;&#xD0;&#xBF;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">ÖÐ¿¼×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/gkzw/" target="_blank" title="&#xB8;&#xDF;&#xBF;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">¸ß¿¼×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/jrzw/" target="_blank" title="&#xBD;&#xDA;&#xC8;&#xD5;&#xD7;&#xF7;&#xCE;&#xC4;">½ÚÈÕ×÷ÎÄ</a></li>
+<li class="las"><a href="http://edu.pcbaby.com.cn/zuowen/htzw/" target="_blank" title="&#xBB;&#xB0;&#xCC;&#xE2;&#xD7;&#xF7;&#xCE;&#xC4;">»°Ìâ×÷ÎÄ</a></li>
+</ul>
+</div>
+<div class="dwrap clearfix">
+<div class="dwrap-l">
+<div class="dwrapperA clearfix pb14">
+<div class="A-la fl">
+<div class="tab" id="slide01">
+<ul>
+<li>
+<a href="http://edu.pcbaby.com.cn/zuowen/1212/1164261.html" target="_blank"><img alt="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xBE;&#xF8;&#xBB;&#xEE;&#xC0;&#xCF;&#xCA;&#xA6;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/zuowen/1301/111_1.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/2013/0807/zt1212191.html" target="_blank"><img alt="&#xA1;&#xB6;&#xC5;&#xE3;&#xBA;&#xA2;&#xD7;&#xD3;&#xD2;&#xBB;&#xC6;&#xF0;&#xC9;&#xCF;&#xD3;&#xD7;&#xB6;&#xF9;&#xD4;&#xB0;&#xA1;&#xB7;&#xCA;&#xE9;&#xBC;&#xAE;&#xC1;&#xAC;&#xD4;&#xD8;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/resource/zjyd/lianzai/1308/147.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/118/1188450.html" target="_blank"><img alt="&#xB1;&#xA6;&#xB1;&#xA6;&#xB5;&#xDA;1&#xB4;&#xCE;&#xD7;&#xF6;&#xBC;&#xD2;&#xCE;&#xF1;&#xC4;&#xE3;&#xB8;&#xC3;&#xD4;&#xF5;&#xC3;&#xB4;&#xB0;&#xB2;&#xC5;&#xC5;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/brain/action/1304/0426-2.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://www.pcbaby.com.cn/" target="_blank"><img alt="&#xC7;&#xD7;&#xD7;&#xD3;&#xCD;&#xF8;&#xCA;&#xD7;&#xD2;&#xB3;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/zhuanjia/fczj/yusong/1312/seo.jpg" width="350"/></a>
+</li>
+</ul>
+</div>
+<div class="control">
+<ul class="clearfix" id="slide01_control">
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+</ul>
+</div>
+</div>
+<div class="A-lb fl">
+<div class="bigTit">
+<p class="pTit">
+<a href="http://bbs.pcbaby.com.cn/photo.do?tid=1981981&amp;seq=1&amp;pid=21852253" target="_blank">¹ØÓÚÃèÐ´ÀÏÊ¦µÄ×÷ÎÄ´óÈ«</a>
+</p>
+<p class="pCon">&#13;
+Ë×»°Ëµ£º¡°ÑÛ¾¦ÊÇÐÄÁéµÄ´°»§¡±¡£ÎÒÃÇ°àµÄÓïÎÄÀÏÊ¦²ÜÀÏÊ¦ÓÐ×ÅÒ»Ë«ÃÀÀöÃ÷ÁÁµÄ´óÑÛ¾¦¡£Í¸¹ýÕâÉÈ¡­ <a class="more" href="http://bbs.pcbaby.com.cn/photo.do?tid=1981981&amp;seq=1&amp;pid=21852253" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xC3;&#xE8;&#xD0;&#xB4;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB4;&#xF3;&#xC8;&#xAB;">[²é¿´È«ÎÄ]</a> </p>
+</div>
+<div class="bigTit">
+<p class="pTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1212/1164259.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒ×îÏ²»¶µÄÒ»Î»ÀÏÊ¦</a>
+</p>
+<p class="pCon">&#13;
+»ÆÀÏÊ¦»¹ÓµÓÐÒ»¸±ÏÀ¸ÎÒåµ¨£¬ÓÐÒ»´Î£¬Ò»¸ö±È»ÆÀÏÊ¦¸ßÒ»Í·µÄÐ£ÍâÄÐº¢Áï½øÐ£Ô°ÀïÆÛ¸ºÒ»¸öÐ¡Í¬Ñ§¡­ <a class="more" href="http://edu.pcbaby.com.cn/zuowen/1212/1164259.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD7;&#xEE;&#xCF;&#xB2;&#xBB;&#xB6;&#xB5;&#xC4;&#xD2;&#xBB;&#xCE;&#xBB;&#xC0;&#xCF;&#xCA;&#xA6;600&#xD7;&#xD6;">[²é¿´È«ÎÄ]</a> </p>
+</div>
+<div class="sTitlist" id="sTitlist">
+<ul>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153494.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÁíÀàÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+11-28&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153495.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ºÍ°ªµÄÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+11-23&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153496.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÎÒÔÞÃÀÄú</a>
+</i> <span class="sDate">[&#13;
+11-12&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153493.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÈçÊé</a>
+</i> <span class="sDate">[&#13;
+11-28&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146061.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¾´°®µÄÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+10-18&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146059.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄ°àÖ÷ÈÎÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+10-31&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146062.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¸øÀÏÊ¦µÄ¸Ð¶÷ÐÅ</a>
+</i> <span class="sDate">[&#13;
+10-26&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146060.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÄúÐÁ¿àÁË</a>
+</i> <span class="sDate">[&#13;
+10-31&#13;
+]</span> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="dwrapperC">
+<div class="th">
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;">¸ü¶à¹ØÓÚÀÏÊ¦µÄ×÷ÎÄ</a>
+</div>
+<div class="tb">
+<ul>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/189/1899094.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷µÄÐÄ£¬ÎÒµÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-11-23&#13;
+</span> </p>
+<p class="pCon">&#13;
+µÚÈýÌì£¬Ò²¾ÍÊÇ¿¼ÊÔºóµÄÄÇÌìÉÏÎç£¬ÎâÀÏÊ¦ÄÃÀ´ÁËÊÔ¾í¡£ÒòÎª¿¼ÂÇµ½ÎÒµÄÑÛ¾¦²»ÄÜÌ«ÀÍÀÛ£¬ËùÒÔÒÔÎÊ´ðÐÎÊ½ÈÃÎÒ´ðÌâ¡£Õæ°ô!ÎÒÒ»¿ÚÆø´ðÍêÁËËùÓÐÌâÄ¿£¬ÎâÀÏÊ¦¸ßÐËµØÎªÎÒ¹ÄÕÆÇìºØ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/189/1899094.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xB5;&#xC4;&#xD0;&#xC4;&#xA3;&#xAC;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/192/1927224.html" target="_blank">¡¾¹ØÓÚÒÕÊõµÄ×÷ÎÄ¡¿ÍõÀÏÊ¦µÄÂîÈËÒÕÊõ</a>
+</i> <span class="sDate">&#13;
+2014-11-18&#13;
+</span> </p>
+<p class="pCon">&#13;
+×Ö²»¹»£¬¸½ÈÕ¼ÇÒ»Æª£º£ºÎÒ×Ü½ÐËû´óÒ¯Ò¯£¬ÉÏ´Î£¬Ëû¼ñÁËÒ»Ë«Å®ÈËµÄÁ¹Ð¬»ØÀ´£¬·ÅÔÚÇ½¸ùÏÂ¡£Ò»´Î£¬ÎÒ¿´¼ûËûÔÚÎÒ¼ÒÑ¹Ë®»ú±ßÏ´Ôè£¬ËûÄÃ×ÅÃ«½í²ÁÔè£¬Ï´ºÃÖ®ºó£¬¾ÍÈ¥´©ÄÇË«Å®ÈËµÄÁ¹Ð¬¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/192/1927224.html" target="_blank" title="&#xA1;&#xBE;&#xB9;&#xD8;&#xD3;&#xDA;&#xD2;&#xD5;&#xCA;&#xF5;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCD;&#xF5;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC2;&#xEE;&#xC8;&#xCB;&#xD2;&#xD5;&#xCA;&#xF5;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1833045.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷Ï×¸øÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-11-01&#13;
+</span> </p>
+<p class="pCon">&#13;
+¡°¶£ÁåÁå~~'¡±ÏÂ¿ÎÁË£¬ÎÒÐÄÀï¸ü¼Óìþìý²»°².¹ýÁËÒ»»á¶ù£¬ÎÒÖÕÓÚÌá¸ßÓÂÆø£¬À´µ½ÁËÀÏÊ¦µÄ°ì¹«ÊÒ.¡°ÀÏÊ¦~~ÎÒ......¡±ÎÒµÍ×ÅÍ·£¬²»¸ÒÍû×ÅÀÏÊ¦ÄÇÑÏËàµÄÑÛÉñ£¬ÉúÅÂÀÏÊ¦ÇÃÎÒÊÖÐÄ.ÒòÎªÎÒÖªµÀÄÇÖÖ×ÌÎ¶£¬ºÜÍ´ºÜÍ´......&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1833045.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xCF;&#xD7;&#xB8;&#xF8;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875931.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÓÄÄ¬µÄÊýÑ§ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+¿ÉÊÇ¼¸ÌìÏÂÀ´£¬ÎÒ·¢¾õÎâÀÏÊ¦ËäÈ»ÑÏÀ÷£¬¿ÉÉÏËûµÄ¿Î·Ç³£ÇáËÉ¡£ÄãÌýÎâÀÏÊ¦ÔÚ½²Ó¦ÓÃÌâµÄÊ±ºò£¬Ëû¾ÍÓÃºì¾üºÍµÐÈË´ò±ÈÓ÷£¬ºì¾üÏÈÃþÇåµÐÈËµÄµØÐÎ£¬ÕÒ³öÍ»ÆÆ¿Ú£¬ÄÇ¾Í¿ÉÒÔÒ»¾Ù°ÑµÐÈËÄÃÏÂ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875931.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD3;&#xC4;&#xC4;&#xAC;&#xB5;&#xC4;&#xCA;&#xFD;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875950.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄÀÏÊ¦¡ª¡ªÔøÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-28&#13;
+</span> </p>
+<p class="pCon">&#13;
+Ò»ÈÕÎªÊ¦£¬ÖÕÉíÎª¸¸¡£ÎÒÃÇÑ§ÉúÒ»ÌìÔÚÑ§Ð£µÄÊ±¼ä´ó¸ÅÕ¼È«ÌìµÄ3/2¡£ÔÚÑ§Ð££¬ÀÏÊ¦ÈÃÎÞÖªµÄÎÒ³äÂúÖªÊ¶£¬ÈÃÎÒ¶®µÃÈËÉúÇ°½øµÄµÀÂ·£¬......ÔÚÑ§Ð££¬ÀÏÊ¦Ï×³öÁË¹Ø°®£¬Ï×³öÁË±¦¹óµÄÊ±¼ä£¬Ï×³öÁË¾«Éñ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875950.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xAA;&#xA1;&#xAA;&#xD4;&#xF8;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875949.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄ¡°ºÃ½ÌÁ·¡±</a>
+</i> <span class="sDate">&#13;
+2014-10-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÄÇÒ»Ìì£¬ÎÒÃÇ¸Õ¿ªÊ¼·Ö°à£¬ÄãºÍÕÅÀÏÊ¦ÕâÒ»´ó°àÔÝÊ±ÔÚÒ»ÆðÑµÁ·£¬ÔÚÕâÒ»°àÀï£¬ºÃ½ÌÁ·ÌôÑ¡Ö÷Á¦Óë¾«Ó¢£¬ÎÒÒ²±»¹âÈÙµÄÑ¡ÁË¹ýÈ¥£¬´Ó´ËÎÒÃÇ±ä³ÉÁËÇ×ÃÜÎÞ¼äµÄºÃÅóÓÑ£¬²¢ÇÒ×é³ÉÁË¶þ°à£¬¶øÕâÑùÒ²ÐÎ³ÉÁËÈý°à¾ºÕùµÄ³¡Ãæ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875949.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xB5;&#xC4;&#xA1;&#xB0;&#xBA;&#xC3;&#xBD;&#xCC;&#xC1;&#xB7;&#xA1;&#xB1;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875930.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿×îÏ²»¶µÄÀÏÊ¦¡ª¡ªÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+×îÄÑÍüµÄ¾ÍÊÇÄã×îÏ²»¶´©µÄÆìÅÛ¡ª¡ª¸÷ÖÖÑÕÉ«µÄÆìÅÛÊ±³£»»£¬»¹²»Íü´îÅäÉÏºÃ¿´µÄ¶ú»·£¬ÅÌÔÚºóÉÔµÄÍ··¢ÉÏÒ»¶¨²å×ÅÒ»¸ùÐ¡ô¢×Ó£¬¹ÅÉ«¹ÅÏã£¬»ëÉíÉÏÏÂ¶¼É¢×ÅÉÏÊÀ¼Í40¡¢50Äê´úÉÏº£Ì²Å®×ÓµÄÔÏÎ¶¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875930.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD7;&#xEE;&#xCF;&#xB2;&#xBB;&#xB6;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xAA;&#xA1;&#xAA;&#xD3;&#xEF;&#xCE;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1832945.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿ÀÏÊ¦£¬Ð»Ð»Äú!</a>
+</i> <span class="sDate">&#13;
+2014-10-17&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÄúÈÃÎÒ¸ºÔðÔç¶Á£¬Õâ²»½ö´ø¶¯ÁË´ó¼Ò£¬Ò²¶ÍÁ¶ÁËÎÒ×Ô¼º;ÄúÈÃÎÒÓÐ»ú»á³ÉÎªÐ£ÖµÈÕÉú£¬Ê¹ÎÒÓÐÁËÐÅÐÄ£¬ÄÜ¹»×öµÃ¸üºÃ;Äú¹ÄÀøÎÒ²Î¼Ó×÷ÎÄ¾ºÈü£¬ÈÃÎÒ·¢ÏÖ£¬ÎÒ²¢Ã»ÓÐÊä¸ø±ðÈË¡­¡­&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1832945.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD0;&#xBB;&#xD0;&#xBB;&#xC4;&#xFA;!">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1832950.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-09&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÀÏÊ¦ÄúÊÇÒ»Î»ÖªÊ¶µÄÊ¹Õß£¬ÎÒÃÇÔÚÖªÊ¶µÄº£ÑóÖÐÒ»ÌìÌì³É³¤£¬Ò»ÌìÌìÎüÔÊ×ÅÄúµÄÖªÊ¶¡£ÀÏÊ¦Äú´òÎÒÃÇ£¬ÂîÎÒÃÇ£¬ÎÒÃÇÖªµÀÄúÊÇÎªÁËÎÒÃÇºÃ£¬ÎÒÃÇÒ»¶¨ºÃºÃÑ§Ï°£¬Ò»¶¨²»¹¼¸ºÄú¶ÔÎÒÃÇµÄÆÚÍû¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1832950.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1833304.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷Äú£¬ÎÒµÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-08&#13;
+</span> </p>
+<p class="pCon">&#13;
+¿´!ÇÅ±ß»¹ÓÐÎÒÃÇÕÒ´ºÌìµÄ×ã¼£¡°ÎÒÕÒµ½´ºÌìÁË£¬´ºÌì¾ÍÔÚÄÇÊ÷Ö¦ÉÏ£¬´ºÌì¾ÍÔÚÄÇ»¨·ìÀï£¬Ò»´ÎÓÖÒ»´Î¶ú±ßÏëÆðÊ©ÀÏÊ¦ÄúÄÇ¶¯ÌýµÄÉùÒô£¬Ò»´ÎÓÖÒ»´Î¡£Ê©ÀÏÊ¦×ì½Ç¹Ò×ÅÒ»Ë¿Î¢Ð¦¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1833304.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC4;&#xFA;&#xA3;&#xAC;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816892.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒÓëÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+ËäÈ»£¬ÀÏÊ¦Ö»½ÌÁËÎÒÃÇÈýÄê£¬µ«ÔÚÕâÈýÄêÀ´¶¼ÊÇÀÏÊ¦½ÌÎÒÃÇ×öÈËµÄµÀÀí£¬°Ñ·á¸»µÄÖªÊ¶´«µÝ¸øÎÒÃÇ¡£Ëý¸øÓèÁËÎÒÃÇºÃ¶à¿éÃæ°ü£¬ºÃ¼¸¹É¿ÕÆø¡£ÀÏÊ¦Ò²ÔÔÅàÁËÎÒ²»ÉÙ!´ÓÎÒÊÇÒ»ÃûÆ½·²µÄÐ¡Ñ§Éú±ä³ÉÁËÑ§Ð£ÈËÈË½ÔÖªµÄ´óºìÈË&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816892.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD3;&#xEB;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816851.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦°¡ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+¾´°®µÄÀÏÊ¦£¬ÄúµÄ½Ì»åÈç´º·ç£¬ËÆÈðÓê£¬ÓÀÃúÎÒÐÄ¡£ÎÒò¯³ÏµØ×£¸£Äú:°²¿µ£¬ÈçÒâ!Äú¸øÁËÎÒ²Ó²ÓÈç½ðµÄÉú»îÕæÚÐ£¬¾­¹ýËêÔÂµÄÄ¥Ï´£¬ÃÖ¾Ã¶øÓúÃ÷!¿ÌÔÚÄ¾°åÉÏµÄÃû×ÖÎ´±Ø²»Ðà£¬¿ÌÔÚÊ¯Í·ÉÏµÄÃû×ÖÒàÎ´±ØÓÀ´¹Ç§¹Å¡­¡­&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816851.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xC0;&#xCF;&#xCA;&#xA6;&#xB0;&#xA1;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/176/1767512.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷ÀÏÊ¦£¬ÈÃ°®Á÷ÌÊ</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+¼ÇµÃÓÐÒ»Î»ÀÏÊ¦ÔøËµ¹ý£º¡°ÎÒ²»ÐèÒªÌ«¶àÈÙÓþºÍÔÞÃÀÎÒÖ»Ï²»¶¡®ÀÏÊ¦¡¯ÕâÁ½¸ö×Ö¡°ÕâÐ©ÖÊÆÓµÄµÄÓïÑÔÎÞÒÉÊÇËùÓÐÀÏÊ¦µÄÐÄÉù£¬ÎÒ¸ÐÐ»ÀÏÊ¦ÃÇ¶ÔÎÒµÄ×»×»½Ìµ¼£¬È»¶øÔÙ¶àÔÙÃÀµÄÓïÑÔ£¬Ò²±È²»ÉÏÓÃÐÐ¶¯À´¸Ð¶÷ÀÏÊ¦¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/176/1767512.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC8;&#xC3;&#xB0;&#xAE;&#xC1;&#xF7;&#xCC;&#xCA;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816893.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÐÂÀÏÊ¦À´ÁË</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÎÒµÄÄ¿¹â²»Í£µÄ´òÁ¿×ÅÕâÎ»Å®ÀÏÊ¦£ºËý³¤µÃÊÝ¸ßÊÝ¸ßµÄ£¬Áô×ÅÒ»Í·ÎÚºÚµÄ¾í·¢£¬Å¨Å¨µÄÃ¼Ã«ÏÂÓÐÒ»Ë«Ã÷ÁÁµÄÑÛ¾¦£¬¾¼¾¼ÓÐÉñ£¬ÎÒ¾õµÃÕâÎ»Å®ÀÏÊ¦²¢²»ÔõÃ´À÷º¦£¬ÎÒÏëÒÔºó¿ÉÒÔÔÚ½ÌÊÒÀïËÁÎÞ¼Éµ¬µÄºú×÷·ÇÎªÁË¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816893.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD0;&#xC2;&#xC0;&#xCF;&#xCA;&#xA6;&#xC0;&#xB4;&#xC1;&#xCB;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816871.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒÐÀÉÍÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+Ð¡Ê±ºî£¬ÎÒÒÔÎªÄãºÜÉñÆø£¬ËµÉÏÒ»¾ä»°Ò²¾ªÌì¶¯µØ;³¤´óºó£¬²ÅÖªµÀÄÇ¿éºÚ°åÐ´ÏÂµÄÊÇÕæÀí£¬²ÁÈ¥µÄÊÇ¹¦Àû¡£Ð¡Ê±ºî£¬ÎÒÒÔÎªÄãºÜÉñÃØ£¬ÈÃËùÓÐµÄÄÑÌâ¶¼±ä³ÉÁËÀÖÈ¤;³¤´óºó£¬²ÅÖªµÀÄÇÖ§·Û±Ê»­³öµÄÊÇ²Êºç£¬È÷ÏÂµÄÊÇÀáµÎ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816871.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD0;&#xC0;&#xC9;&#xCD;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+</ul>
+<div class="pcbaby_page">
+<span>1</span><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_1.html">2</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_2.html">3</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_3.html">4</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_4.html">5</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_5.html">6</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_6.html">7</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_7.html">8</a>...<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_23.html">24</a><a class="next" href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_1.html">ÏÂÒ»Ò³</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dwrap-r">
+<div class="boxA pb14">
+<div class="th clearfix">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¹ØÓÚÀÏÊ¦µÄ×÷ÎÄ</span>
+</div>
+<div class="tb">
+<p>ÏëÐ´ºÃ¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÂð£¿Ì«Æ½ÑóÇ××ÓÍø×÷ÎÄ´óÈ«Ìá¹©ÁË´óÁ¿¹ØÓÚÀÏÊ¦µÄ×÷ÎÄµÄ¶ÎÂä£¬¹ØÓÚÀÏÊ¦µÄ×÷ÎÄµÄºÃ´ÊºÃ¾äµÈ¡£ÓÐÁËÕâÐ©ËØ²Ä£¬Ð´ºÃ¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÔÙÒ²²»ÓÃ·¢³îÁË¡£<a class="more" href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank">[ÏêÇé]</a></p>
+</div>
+</div>
+<script class=" defer" src="http://www.pcbaby.com.cn/ssi/art/zjzy/1310/intf2722.js" type="text/javascript"/>
+<div class="tuiguang">
+<script src="http://edu.pcbaby.com.cn/resource/scb/1209/intf2042.js"/>
+</div>
+<div class="boxB pb14">
+<div class="th">
+<i class="thl"/>
+<i class="thr"/>
+<ul class="control clearfix" id="slide02_control">
+<li>Ð´ÈË×÷ÎÄ</li>
+<li>Ìå²Ã×÷ÎÄ</li>
+</ul>
+</div>
+<div class="tb">
+<div class="tab" id="slide02">
+<ul>
+<li class="clearfix">
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/oxzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC5;&#xBC;&#xCF;&#xF1;&#xD7;&#xF7;&#xCE;&#xC4;">Å¼Ïñ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wozw/" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xCE;&#xD2;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">ÎÒ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/bbzw/" target="_blank" title="&#xD0;&#xB4;&#xB8;&#xB8;&#xC7;&#xD7;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">¸¸Ç×</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/mmzw/" target="_blank" title="&#xD0;&#xB4;&#xC4;&#xB8;&#xC7;&#xD7;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">Ä¸Ç×</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;">ÀÏÊ¦</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/pyzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;&#xD7;&#xF7;&#xCE;&#xC4;">ÅóÓÑ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/jczw/" target="_blank" title="&#xD0;&#xB4;&#xBE;&#xAF;&#xB2;&#xEC;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">¾¯²ì</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/yeyezw/" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xD2;&#xAF;&#xD2;&#xAF;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">Ò¯Ò¯</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/nnzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC4;&#xCC;&#xC4;&#xCC;&#xD7;&#xF7;&#xCE;&#xC4;">ÄÌÄÌ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/ggzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xB8;&#xE7;&#xB8;&#xE7;&#xD7;&#xF7;&#xCE;&#xC4;">¸ç¸ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/jjzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xBD;&#xE3;&#xBD;&#xE3;&#xD7;&#xF7;&#xCE;&#xC4;">½ã½ã</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/ddzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xB5;&#xDC;&#xB5;&#xDC;&#xD7;&#xF7;&#xCE;&#xC4;">µÜµÜ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/meimeizw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC3;&#xC3;&#xC3;&#xC3;&#xD7;&#xF7;&#xCE;&#xC4;">ÃÃÃÃ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wgzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xE2;&#xB9;&#xAB;&#xD7;&#xF7;&#xCE;&#xC4;">Íâ¹«</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wpzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xE2;&#xC6;&#xC5;&#xD7;&#xF7;&#xCE;&#xC4;">ÍâÆÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/sszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCA;&#xE5;&#xCA;&#xE5;&#xD7;&#xF7;&#xCE;&#xC4;">ÊåÊå</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/tzzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xAC;&#xD7;&#xC0;&#xD7;&#xF7;&#xCE;&#xC4;">Í¬×À</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/qjgzw/" target="_blank" title="&#xC7;&#xE5;&#xBD;&#xE0;&#xB9;&#xA4;&#xD7;&#xF7;&#xCE;&#xC4;">Çå½à¹¤</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/yxzw/" target="_blank" title="&#xD3;&#xA2;&#xD0;&#xDB;&#xCA;&#xC2;&#xBC;&#xA3;&#xD7;&#xF7;&#xCE;&#xC4;">Ó¢ÐÛ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lfzw/" target="_blank" title="&#xD1;&#xA7;&#xC0;&#xD7;&#xB7;&#xE6;&#xD7;&#xF7;&#xCE;&#xC4;">À×·æ</a>
+</li>
+<li class="clearfix">
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/jxw/" target="_blank" title="&#xBC;&#xC7;&#xD0;&#xF0;&#xCE;&#xC4;">¼ÇÐðÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/smw/" target="_blank" title="&#xCB;&#xB5;&#xC3;&#xF7;&#xCE;&#xC4;">ËµÃ÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/ylw/" target="_blank" title="&#xD2;&#xE9;&#xC2;&#xDB;&#xCE;&#xC4;">ÒéÂÛÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/dhg/" target="_blank" title="&#xB6;&#xC1;&#xBA;&#xF3;&#xB8;&#xD0;">¶Áºó¸Ð</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sw/" target="_blank" title="&#xC9;&#xA2;&#xCE;&#xC4;">É¢ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sg/" target="_blank" title="&#xCA;&#xAB;&#xB8;&#xE8;">Ê«¸è</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/xs/" target="_blank" title="&#xD0;&#xA1;&#xCB;&#xB5;">Ð¡Ëµ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/rj/" target="_blank" title="&#xC8;&#xD5;&#xBC;&#xC7;">ÈÕ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/zj/" target="_blank" title="&#xD6;&#xDC;&#xBC;&#xC7;">ÖÜ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/gxx/" target="_blank" title="&#xB8;&#xD0;&#xD0;&#xBB;&#xD0;&#xC5;">¸ÐÐ»ÐÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yj/" target="_blank" title="&#xD3;&#xCE;&#xBC;&#xC7;">ÓÎ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yyzw/" target="_blank" title="&#xD3;&#xA2;&#xD3;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">Ó¢Óï×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/xxzw/" target="_blank" title="&#xCF;&#xEB;&#xCF;&#xF3;&#xD7;&#xF7;&#xCE;&#xC4;">ÏëÏó×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/ktzw/" target="_blank" title="&#xBF;&#xB4;&#xCD;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">¿´Í¼×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/resource/zt/zqjscb/" target="_blank" title="&#xD6;&#xD0;&#xC7;&#xEF;&#xBD;&#xDA;&#xCA;&#xD6;&#xB3;&#xAD;&#xB1;&#xA8;">ÖÐÇï½Ú</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yyw/" target="_blank" title="&#xD3;&#xA6;&#xD3;&#xC3;&#xCE;&#xC4;">Ó¦ÓÃÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/khzw/" target="_blank" title="&#xBF;&#xC6;&#xBB;&#xC3;&#xD7;&#xF7;&#xCE;&#xC4;">¿Æ»Ã×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sqzw/" target="_blank" title="&#xCA;&#xE3;&#xC7;&#xE9;&#xD7;&#xF7;&#xCE;&#xC4;">ÊãÇé×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/thzw/" target="_blank" title="&#xCD;&#xAF;&#xBB;&#xB0;&#xD7;&#xF7;&#xCE;&#xC4;">Í¯»°×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sx/" target="_blank" title="&#xCA;&#xE9;&#xD0;&#xC5;">ÊéÐÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/dsbj/" target="_blank" title="&#xB6;&#xC1;&#xCA;&#xE9;&#xB1;&#xCA;&#xBC;&#xC7;">¶ÁÊé±Ê¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/zwzw/" target="_blank" title="&#xD7;&#xB4;&#xCE;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">×´Îï×÷ÎÄ</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="boxC pb14">
+<div class="th clearfix"> <i class="thl"/> <i class="thr"/> <span class="thc">&#13;
+¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÅÅÐÐ°ñ&#13;
+</span> </div>
+<div class="tb">
+<ul>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216731.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÀÏÊ¦ÊÇÐÁÇÚ</a>
+</i> <span>&#13;
+458&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216727.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ¾´ÅåµÄÀÏ</a>
+</i> <span>&#13;
+250&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1211213.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿¶àÎ¶¡°ÒûÁÏ</a>
+</i> <span>&#13;
+90&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/169/1695165.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÈÃÀÏÊ¦¹ýÒ»</a>
+</i> <span>&#13;
+1936&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1215516.html" target="_blank">¡¾·îÏ×µÄ×÷ÎÄ¡¿ÖÂ¸øÎÞË½·î</a>
+</i> <span>&#13;
+147&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/174/1747553.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿½ÌÊ¦½Ú£¬Ïò</a>
+</i> <span>&#13;
+1576&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/128/1289036.html" target="_blank">¡¾¹ØÓÚ¸Ð¶÷µÄ×÷ÎÄ¡¿¸Ð¶÷ÀÏ</a>
+</i> <span>&#13;
+605&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216725.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ°®ÎÒµÄÀÏ</a>
+</i> <span>&#13;
+131&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216729.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ×î¿É¾´µÄ</a>
+</i> <span>&#13;
+159&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216726.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿Ò»¸öÕâÑùµÄ</a>
+</i> <span>&#13;
+105&#13;
+</span> </li>
+</ul>
+</div>
+</div>
+<div class="boxD pb14">
+<div class="th clearfix">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¸ü¶à×÷ÎÄÄÚÈÝ</span>
+</div>
+<div class="tb">
+<ul id="bDlist">
+<li><a href="http://edu.pcbaby.com.cn/zuowen/jrzw/" target="_blank" title="&#xBD;&#xDA;&#xC8;&#xD5;&#xD7;&#xF7;&#xCE;&#xC4;">½ÚÈÕ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xjzw/" target="_blank" title="&#xD0;&#xB4;&#xBE;&#xB0;&#xD7;&#xF7;&#xCE;&#xC4;">Ð´¾°×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/lzzw/" target="_blank" title="&#xC0;&#xF8;&#xD6;&#xBE;&#xD7;&#xF7;&#xCE;&#xC4;">ÀøÖ¾×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/htzw/" target="_blank" title="&#xBB;&#xB0;&#xCC;&#xE2;&#xD7;&#xF7;&#xCE;&#xC4;">»°Ìâ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xszw/" target="_blank" title="&#xD0;&#xB4;&#xCA;&#xC2;&#xD7;&#xF7;&#xCE;&#xC4;">Ð´ÊÂ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/zwzw/" target="_blank" title="&#xD6;&#xB2;&#xCE;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">Ö²Îï×÷ÎÄ</a></li>
+</ul>
+</div>
+</div>
+<div class="boxE pb14">
+<div class="th">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¾«²ÊÍÆ¼ö</span>
+</div>
+<div class="tb">
+<ul class="clearfix">
+<li>
+<a href="http://edu.pcbaby.com.cn/book/zt/zzdq/" target="_blank" title="&#xD5;&#xDB;&#xD6;&#xBD;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1131775_116255265.jpg" width="96"/></i>
+</a><p class="pTit">ÕÛÖ½´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/zuowen/" target="_blank" title="&#xD7;&#xF7;&#xCE;&#xC4;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_1269606474977_2561_b.jpg" width="96"/></i>
+</a><p class="pTit">×÷ÎÄ´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/game/" target="_blank" title="&#xC7;&#xD7;&#xD7;&#xD3;&#xD3;&#xCE;&#xCF;&#xB7;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1131775_qzyx.jpg" width="96"/></i>
+</a><p class="pTit">Ç××ÓÓÎÏ·</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/erge/" target="_blank" title="&#xB6;&#xF9;&#xB8;&#xE8;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_dlm-200.jpg" width="96"/></i>
+</a><p class="pTit">¶ù¸è´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/dengmi/" target="_blank" title="&#xB5;&#xC6;&#xC3;&#xD5;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_306.jpg" width="96"/></i>
+</a><p class="pTit">µÆÃÕ´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zjyd/hblz/" target="_blank" title="&#xBB;&#xE6;&#xB1;&#xBE;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_7232165_020304111149_2.jpg" width="96"/></i>
+</a><p class="pTit">»æ±¾Á¬ÔØ</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/rkl/" target="_blank" title="&#xC8;&#xC6;&#xBF;&#xDA;&#xC1;&#xEE;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_7021475.jpg" width="96"/></i>
+</a><p class="pTit">ÈÆ¿ÚÁî</p>
+
+</li>
+<li>
+<a href="http://special.pcbaby.com.cn/zhuowen/ertongshi/" target="_blank" title="&#xB6;&#xF9;&#xCD;&#xAF;&#xCA;&#xAB;&#xB8;&#xE8;&#xB4;&#xF3;&#xC8;&#xAB;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_20110509090411329.jpg" width="96"/></i>
+</a><p class="pTit">¶ùÍ¯Ê«¸è´óÈ«</p>
+
+</li>
+</ul>
+</div>
+</div>
+<div class="boxF pb14">
+<div class="th"><i class="thl"/><i class="thr"/><span class="thc">ÁªÏµ±à¼­</span></div>
+<div class="tb">
+<p>ÁªÏµ±à¼­£ºÎâ¼Ñ×Ó<br/>&#13;
+ÁªÏµÓÊÏä£ºwujiazi@pcbaby.com.cn<br/>&#13;
+ÁªÏµµç»°£º020-38178288-4198</p>
+</div>
+</div>
+</div>
+<div class="clear"/>
+</div>
+</div>
+</div>
+<script src="http://js.3conline.com/min/temp/v2/core-pc_v1,dpl-tab_v2.js"/>
+<script>&#13;
+new pc.tab({   &#13;
+target: pc.getElems('#slide01 li'),&#13;
+control: pc.getElems('#slide01_control li'),&#13;
+effect: 'fade',&#13;
+autoPlay:true&#13;
+});&#13;
+new pc.tab({   &#13;
+target: pc.getElems('#slide02 li'),&#13;
+control: pc.getElems('#slide02_control li')&#13;
+});  &#13;
+function lihover(obj){&#13;
+var obj=document.getElementById(obj).getElementsByTagName("li");&#13;
+if(obj){  &#13;
+for(var i =obj.length-1;i&gt;=0;i--){&#13;
+obj[i].onmouseover=function(){&#13;
+this.className="current";&#13;
+}&#13;
+obj[i].onmouseout=function(){&#13;
+this.className="";  &#13;
+}&#13;
+}}&#13;
+}&#13;
+lihover("bDlist");&#13;
+lihover("sTitlist");&#13;
+</script>
+<script class=" defer" src="http://www.pcbaby.com.cn/global/footer/index.html"/>
+<script>_submitIvyID();</script>
+</body>
+</html>Match Times: 0 
+Url: http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/ 
+Title: 
+???����?��?��|����????1?����?D?�¨�?��|��?����??_��?��|?��???????��_��????��?��������? 
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=%SOUP-ENCODING%" http-equiv="Content-Type"/>
+<title>&#13;
+¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¹ØÓÚ¸Ð¶÷ÀÏÊ¦µÄ×÷ÎÄ_ÀÏÊ¦ÎÒÏë¶ÔÄãËµ_Ì«Æ½ÑóÇ××ÓÍø&#13;
+</title>
+<meta content="&#xC0;&#xCF;&#xCA;&#xA6;;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xD0;&#xB4;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xD4;&#xDE;&#xC3;&#xC0;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;;&#xB9;&#xD8;&#xD3;&#xDA;&#xBD;&#xCC;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;" name="keywords"/>
+<meta content="&#xCF;&#xEB;&#xD0;&#xB4;&#xBA;&#xC3;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xC2;&#xF0;&#xA3;&#xBF;&#xD5;&#xE2;&#xC0;&#xEF;&#xCC;&#xE1;&#xB9;&#xA9;&#xC1;&#xCB;&#xB4;&#xF3;&#xC1;&#xBF;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB5;&#xC4;&#xB6;&#xCE;&#xC2;&#xE4;&#xA3;&#xAC;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB5;&#xC4;&#xBA;&#xC3;&#xB4;&#xCA;&#xBA;&#xC3;&#xBE;&#xE4;&#xB5;&#xC8;&#xA1;&#xA3;&#xD3;&#xD0;&#xC1;&#xCB;&#xD5;&#xE2;&#xD0;&#xA9;&#xCB;&#xD8;&#xB2;&#xC4;&#xA3;&#xAC;&#xD0;&#xB4;&#xBA;&#xC3;&#xB9;&#xD8;&#xD3;&#xDA;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xD4;&#xD9;&#xD2;&#xB2;&#xB2;&#xBB;&#xD3;&#xC3;&#xB7;&#xA2;&#xB3;&#xEE;&#xC1;&#xCB;&#xA1;&#xA3;" name="description"/>
+<meta content="wenyuqi_gz huangyingxin_gz" name="Author"/>
+<link href="http://js.3conline.com/pcbaby/2011/zt2011.css" rel="stylesheet" type="text/css"/>
+<link href="http://www1.pcbaby.com.cn/zt/scbdq/list/g20120903/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="ivy_div" style="display: none;"/>
+<script type="text/javascript">&#13;
+var deviceJumpUrl = {"main":"http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/"};&#13;
+(function() {&#13;
+if (typeof(deviceJumpUrl) != "undefined" &amp;&amp; typeof(deviceJumpUrl.wap_3g) != "undefined") {&#13;
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){&#13;
+try{&#13;
+if(/Android|Windows Phone|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent)){&#13;
+document.domain = "pcbaby.com.cn";&#13;
+var iframe = document.createElement("iframe");&#13;
+iframe.src = "http://www1.pcbaby.com.cn/zt/20140418/jump/index.html";&#13;
+iframe.setAttribute("style", "display:none;width:100%;height:100%;border:none;padding:0;margin:0;background:#fff;position:absolute;top:0;left:0;z-index:99999;");&#13;
+iframe.style.width = document.body.clientWidth + 50 + "px";&#13;
+iframe.id = "JiframeDeviceJump";&#13;
+document.body.appendChild(iframe);&#13;
+window.addEventListener("load",function(){&#13;
+document.getElementById("JiframeDeviceJump").style.height = document.body.clientHeight + "px"&#13;
+},false);&#13;
+}&#13;
+}catch(e){}&#13;
+}&#13;
+};&#13;
+})();&#13;
+</script>
+<script class=" defer" src="http://www.pconline.com.cn/_hux_/baby/edu/index.js"/>
+<script>document.write("&lt;img style=display:none src=http://count.pcbaby.com.cn/count.php?channel=466&amp;screen="+screen.width+"*"+screen.height+"&amp;refer="+encodeURIComponent(document.referrer)+"&amp;anticache="+new Date().getTime()+"&amp;url="+encodeURIComponent(location.href)+"&amp;from=cms &gt;");</script>
+<script>&#13;
+document.write('&lt;span class="spanclass"&gt;&lt;img src="http://acount.pcbaby.com.cn/wzcount/artbrowse.php?groupname=Ç××ÓÍø&amp;subgroupname=&amp;id=1171947&amp;title=&amp;response=1" border="0" width="0" height="0"  /&gt;&lt;/span&gt;');&#13;
+</script>
+<script src="http://www.pcbaby.com.cn/global/navibar/index.html"/>
+<style>&#13;
+.doc{background:url(http://img0.pcbaby.com.cn/pcbaby/edu/resource/000035040/000035207/1301/86.jpg) no-repeat top center;}&#13;
+html,body{background:#fff5cc;}&#13;
+h1{height:136px;}&#13;
+.dmenu li{width:100px; }&#13;
+.boxF .th { height: 30px; background: #ff944d url(http://www1.pcbaby.com.cn/zt/scbdq/sy/g20120829/images/main.png) no-repeat 11px -206px; line-height: 30px; }&#13;
+.boxF .tb { width: 232px; padding: 8px 0 8px 15px; overflow: hidden; border: 1px solid #f2e8cd; border-top: none; }&#13;
+.picTxt .oh{zoom:1;}&#13;
+.picTxt .oh p{padding-left:25px;}&#13;
+.picTxt .oh .pTit{background: url(http://www1.pcbaby.com.cn/zt/scbdq/sy/g20120829/images/main.png) no-repeat 15px -501px;}&#13;
+.dwrapperC .tb li.noback{background:none;padding:10px 10px 10px 8px;}&#13;
+</style>
+<div class="doc">
+<div class="container">
+<h1>ÎÒµÄÀÏÊ¦×÷ÎÄ</h1>
+<div class="dmenu">
+<ul class="clearfix">
+<li><a href="http://edu.pcbaby.com.cn/zuowen/" target="_blank" title="&#xD7;&#xF7;&#xCE;&#xC4;&#xB4;&#xF3;&#xC8;&#xAB;">×÷ÎÄ´óÈ«</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xxzw/" target="_blank" title="&#xD0;&#xA1;&#xD1;&#xA7;&#xD7;&#xF7;&#xCE;&#xC4;">Ð¡Ñ§×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/czzw/" target="_blank" title="&#xB3;&#xF5;&#xD6;&#xD0;&#xD7;&#xF7;&#xCE;&#xC4;">³õÖÐ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/gzzw/" target="_blank" title="&#xB8;&#xDF;&#xD6;&#xD0;&#xD7;&#xF7;&#xCE;&#xC4;">¸ßÖÐ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xsczw/" target="_blank" title="&#xD0;&#xA1;&#xC9;&#xFD;&#xB3;&#xF5;&#xD7;&#xF7;&#xCE;&#xC4;">Ð¡Éý³õ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/zkzw/" target="_blank" title="&#xD6;&#xD0;&#xBF;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">ÖÐ¿¼×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/gkzw/" target="_blank" title="&#xB8;&#xDF;&#xBF;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">¸ß¿¼×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/jrzw/" target="_blank" title="&#xBD;&#xDA;&#xC8;&#xD5;&#xD7;&#xF7;&#xCE;&#xC4;">½ÚÈÕ×÷ÎÄ</a></li>
+<li class="las"><a href="http://edu.pcbaby.com.cn/zuowen/htzw/" target="_blank" title="&#xBB;&#xB0;&#xCC;&#xE2;&#xD7;&#xF7;&#xCE;&#xC4;">»°Ìâ×÷ÎÄ</a></li>
+</ul>
+</div>
+<div class="dwrap clearfix">
+<div class="dwrap-l">
+<div class="dwrapperA clearfix pb14">
+<div class="A-la fl">
+<div class="tab" id="slide01">
+<ul>
+<li>
+<a href="http://edu.pcbaby.com.cn/zuowen/1212/1164261.html" target="_blank"><img alt="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xBE;&#xF8;&#xBB;&#xEE;&#xC0;&#xCF;&#xCA;&#xA6;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/zuowen/1301/111_1.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/2013/0807/zt1212191.html" target="_blank"><img alt="&#xA1;&#xB6;&#xC5;&#xE3;&#xBA;&#xA2;&#xD7;&#xD3;&#xD2;&#xBB;&#xC6;&#xF0;&#xC9;&#xCF;&#xD3;&#xD7;&#xB6;&#xF9;&#xD4;&#xB0;&#xA1;&#xB7;&#xCA;&#xE9;&#xBC;&#xAE;&#xC1;&#xAC;&#xD4;&#xD8;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/resource/zjyd/lianzai/1308/147.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/118/1188450.html" target="_blank"><img alt="&#xB1;&#xA6;&#xB1;&#xA6;&#xB5;&#xDA;1&#xB4;&#xCE;&#xD7;&#xF6;&#xBC;&#xD2;&#xCE;&#xF1;&#xC4;&#xE3;&#xB8;&#xC3;&#xD4;&#xF5;&#xC3;&#xB4;&#xB0;&#xB2;&#xC5;&#xC5;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/edu/brain/action/1304/0426-2.jpg" width="350"/></a>
+</li>
+<li>
+<a href="http://www.pcbaby.com.cn/" target="_blank"><img alt="&#xC7;&#xD7;&#xD7;&#xD3;&#xCD;&#xF8;&#xCA;&#xD7;&#xD2;&#xB3;" height="450" src="http://img0.pcbaby.com.cn/pcbaby/zhuanjia/fczj/yusong/1312/seo.jpg" width="350"/></a>
+</li>
+</ul>
+</div>
+<div class="control">
+<ul class="clearfix" id="slide01_control">
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+</ul>
+</div>
+</div>
+<div class="A-lb fl">
+<div class="bigTit">
+<p class="pTit">
+<a href="http://bbs.pcbaby.com.cn/photo.do?tid=1981981&amp;seq=1&amp;pid=21852253" target="_blank">¹ØÓÚÃèÐ´ÀÏÊ¦µÄ×÷ÎÄ´óÈ«</a>
+</p>
+<p class="pCon">&#13;
+Ë×»°Ëµ£º¡°ÑÛ¾¦ÊÇÐÄÁéµÄ´°»§¡±¡£ÎÒÃÇ°àµÄÓïÎÄÀÏÊ¦²ÜÀÏÊ¦ÓÐ×ÅÒ»Ë«ÃÀÀöÃ÷ÁÁµÄ´óÑÛ¾¦¡£Í¸¹ýÕâÉÈ¡­ <a class="more" href="http://bbs.pcbaby.com.cn/photo.do?tid=1981981&amp;seq=1&amp;pid=21852253" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xC3;&#xE8;&#xD0;&#xB4;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xB4;&#xF3;&#xC8;&#xAB;">[²é¿´È«ÎÄ]</a> </p>
+</div>
+<div class="bigTit">
+<p class="pTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1212/1164259.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒ×îÏ²»¶µÄÒ»Î»ÀÏÊ¦</a>
+</p>
+<p class="pCon">&#13;
+»ÆÀÏÊ¦»¹ÓµÓÐÒ»¸±ÏÀ¸ÎÒåµ¨£¬ÓÐÒ»´Î£¬Ò»¸ö±È»ÆÀÏÊ¦¸ßÒ»Í·µÄÐ£ÍâÄÐº¢Áï½øÐ£Ô°ÀïÆÛ¸ºÒ»¸öÐ¡Í¬Ñ§¡­ <a class="more" href="http://edu.pcbaby.com.cn/zuowen/1212/1164259.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD7;&#xEE;&#xCF;&#xB2;&#xBB;&#xB6;&#xB5;&#xC4;&#xD2;&#xBB;&#xCE;&#xBB;&#xC0;&#xCF;&#xCA;&#xA6;600&#xD7;&#xD6;">[²é¿´È«ÎÄ]</a> </p>
+</div>
+<div class="sTitlist" id="sTitlist">
+<ul>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153494.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÁíÀàÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+11-28&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153495.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ºÍ°ªµÄÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+11-23&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153496.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÎÒÔÞÃÀÄú</a>
+</i> <span class="sDate">[&#13;
+11-12&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1211/1153493.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÈçÊé</a>
+</i> <span class="sDate">[&#13;
+11-28&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146061.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¾´°®µÄÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+10-18&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146059.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄ°àÖ÷ÈÎÀÏÊ¦</a>
+</i> <span class="sDate">[&#13;
+10-31&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146062.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿¸øÀÏÊ¦µÄ¸Ð¶÷ÐÅ</a>
+</i> <span class="sDate">[&#13;
+10-26&#13;
+]</span> </li>
+<li> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/zuowen/1210/1146060.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦ÄúÐÁ¿àÁË</a>
+</i> <span class="sDate">[&#13;
+10-31&#13;
+]</span> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="dwrapperC">
+<div class="th">
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;">¸ü¶à¹ØÓÚÀÏÊ¦µÄ×÷ÎÄ</a>
+</div>
+<div class="tb">
+<ul>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/189/1899094.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷µÄÐÄ£¬ÎÒµÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-11-23&#13;
+</span> </p>
+<p class="pCon">&#13;
+µÚÈýÌì£¬Ò²¾ÍÊÇ¿¼ÊÔºóµÄÄÇÌìÉÏÎç£¬ÎâÀÏÊ¦ÄÃÀ´ÁËÊÔ¾í¡£ÒòÎª¿¼ÂÇµ½ÎÒµÄÑÛ¾¦²»ÄÜÌ«ÀÍÀÛ£¬ËùÒÔÒÔÎÊ´ðÐÎÊ½ÈÃÎÒ´ðÌâ¡£Õæ°ô!ÎÒÒ»¿ÚÆø´ðÍêÁËËùÓÐÌâÄ¿£¬ÎâÀÏÊ¦¸ßÐËµØÎªÎÒ¹ÄÕÆÇìºØ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/189/1899094.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xB5;&#xC4;&#xD0;&#xC4;&#xA3;&#xAC;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/192/1927224.html" target="_blank">¡¾¹ØÓÚÒÕÊõµÄ×÷ÎÄ¡¿ÍõÀÏÊ¦µÄÂîÈËÒÕÊõ</a>
+</i> <span class="sDate">&#13;
+2014-11-18&#13;
+</span> </p>
+<p class="pCon">&#13;
+×Ö²»¹»£¬¸½ÈÕ¼ÇÒ»Æª£º£ºÎÒ×Ü½ÐËû´óÒ¯Ò¯£¬ÉÏ´Î£¬Ëû¼ñÁËÒ»Ë«Å®ÈËµÄÁ¹Ð¬»ØÀ´£¬·ÅÔÚÇ½¸ùÏÂ¡£Ò»´Î£¬ÎÒ¿´¼ûËûÔÚÎÒ¼ÒÑ¹Ë®»ú±ßÏ´Ôè£¬ËûÄÃ×ÅÃ«½í²ÁÔè£¬Ï´ºÃÖ®ºó£¬¾ÍÈ¥´©ÄÇË«Å®ÈËµÄÁ¹Ð¬¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/192/1927224.html" target="_blank" title="&#xA1;&#xBE;&#xB9;&#xD8;&#xD3;&#xDA;&#xD2;&#xD5;&#xCA;&#xF5;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCD;&#xF5;&#xC0;&#xCF;&#xCA;&#xA6;&#xB5;&#xC4;&#xC2;&#xEE;&#xC8;&#xCB;&#xD2;&#xD5;&#xCA;&#xF5;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1833045.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷Ï×¸øÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-11-01&#13;
+</span> </p>
+<p class="pCon">&#13;
+¡°¶£ÁåÁå~~'¡±ÏÂ¿ÎÁË£¬ÎÒÐÄÀï¸ü¼Óìþìý²»°².¹ýÁËÒ»»á¶ù£¬ÎÒÖÕÓÚÌá¸ßÓÂÆø£¬À´µ½ÁËÀÏÊ¦µÄ°ì¹«ÊÒ.¡°ÀÏÊ¦~~ÎÒ......¡±ÎÒµÍ×ÅÍ·£¬²»¸ÒÍû×ÅÀÏÊ¦ÄÇÑÏËàµÄÑÛÉñ£¬ÉúÅÂÀÏÊ¦ÇÃÎÒÊÖÐÄ.ÒòÎªÎÒÖªµÀÄÇÖÖ×ÌÎ¶£¬ºÜÍ´ºÜÍ´......&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1833045.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xCF;&#xD7;&#xB8;&#xF8;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875931.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÓÄÄ¬µÄÊýÑ§ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+¿ÉÊÇ¼¸ÌìÏÂÀ´£¬ÎÒ·¢¾õÎâÀÏÊ¦ËäÈ»ÑÏÀ÷£¬¿ÉÉÏËûµÄ¿Î·Ç³£ÇáËÉ¡£ÄãÌýÎâÀÏÊ¦ÔÚ½²Ó¦ÓÃÌâµÄÊ±ºò£¬Ëû¾ÍÓÃºì¾üºÍµÐÈË´ò±ÈÓ÷£¬ºì¾üÏÈÃþÇåµÐÈËµÄµØÐÎ£¬ÕÒ³öÍ»ÆÆ¿Ú£¬ÄÇ¾Í¿ÉÒÔÒ»¾Ù°ÑµÐÈËÄÃÏÂ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875931.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD3;&#xC4;&#xC4;&#xAC;&#xB5;&#xC4;&#xCA;&#xFD;&#xD1;&#xA7;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875950.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄÀÏÊ¦¡ª¡ªÔøÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-28&#13;
+</span> </p>
+<p class="pCon">&#13;
+Ò»ÈÕÎªÊ¦£¬ÖÕÉíÎª¸¸¡£ÎÒÃÇÑ§ÉúÒ»ÌìÔÚÑ§Ð£µÄÊ±¼ä´ó¸ÅÕ¼È«ÌìµÄ3/2¡£ÔÚÑ§Ð££¬ÀÏÊ¦ÈÃÎÞÖªµÄÎÒ³äÂúÖªÊ¶£¬ÈÃÎÒ¶®µÃÈËÉúÇ°½øµÄµÀÂ·£¬......ÔÚÑ§Ð££¬ÀÏÊ¦Ï×³öÁË¹Ø°®£¬Ï×³öÁË±¦¹óµÄÊ±¼ä£¬Ï×³öÁË¾«Éñ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875950.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xAA;&#xA1;&#xAA;&#xD4;&#xF8;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875949.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒµÄ¡°ºÃ½ÌÁ·¡±</a>
+</i> <span class="sDate">&#13;
+2014-10-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÄÇÒ»Ìì£¬ÎÒÃÇ¸Õ¿ªÊ¼·Ö°à£¬ÄãºÍÕÅÀÏÊ¦ÕâÒ»´ó°àÔÝÊ±ÔÚÒ»ÆðÑµÁ·£¬ÔÚÕâÒ»°àÀï£¬ºÃ½ÌÁ·ÌôÑ¡Ö÷Á¦Óë¾«Ó¢£¬ÎÒÒ²±»¹âÈÙµÄÑ¡ÁË¹ýÈ¥£¬´Ó´ËÎÒÃÇ±ä³ÉÁËÇ×ÃÜÎÞ¼äµÄºÃÅóÓÑ£¬²¢ÇÒ×é³ÉÁË¶þ°à£¬¶øÕâÑùÒ²ÐÎ³ÉÁËÈý°à¾ºÕùµÄ³¡Ãæ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875949.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xB5;&#xC4;&#xA1;&#xB0;&#xBA;&#xC3;&#xBD;&#xCC;&#xC1;&#xB7;&#xA1;&#xB1;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/187/1875930.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿×îÏ²»¶µÄÀÏÊ¦¡ª¡ªÓïÎÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+×îÄÑÍüµÄ¾ÍÊÇÄã×îÏ²»¶´©µÄÆìÅÛ¡ª¡ª¸÷ÖÖÑÕÉ«µÄÆìÅÛÊ±³£»»£¬»¹²»Íü´îÅäÉÏºÃ¿´µÄ¶ú»·£¬ÅÌÔÚºóÉÔµÄÍ··¢ÉÏÒ»¶¨²å×ÅÒ»¸ùÐ¡ô¢×Ó£¬¹ÅÉ«¹ÅÏã£¬»ëÉíÉÏÏÂ¶¼É¢×ÅÉÏÊÀ¼Í40¡¢50Äê´úÉÏº£Ì²Å®×ÓµÄÔÏÎ¶¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/187/1875930.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD7;&#xEE;&#xCF;&#xB2;&#xBB;&#xB6;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xA1;&#xAA;&#xA1;&#xAA;&#xD3;&#xEF;&#xCE;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1832945.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿ÀÏÊ¦£¬Ð»Ð»Äú!</a>
+</i> <span class="sDate">&#13;
+2014-10-17&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÄúÈÃÎÒ¸ºÔðÔç¶Á£¬Õâ²»½ö´ø¶¯ÁË´ó¼Ò£¬Ò²¶ÍÁ¶ÁËÎÒ×Ô¼º;ÄúÈÃÎÒÓÐ»ú»á³ÉÎªÐ£ÖµÈÕÉú£¬Ê¹ÎÒÓÐÁËÐÅÐÄ£¬ÄÜ¹»×öµÃ¸üºÃ;Äú¹ÄÀøÎÒ²Î¼Ó×÷ÎÄ¾ºÈü£¬ÈÃÎÒ·¢ÏÖ£¬ÎÒ²¢Ã»ÓÐÊä¸ø±ðÈË¡­¡­&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1832945.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xD0;&#xBB;&#xD0;&#xBB;&#xC4;&#xFA;!">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1832950.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-09&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÀÏÊ¦ÄúÊÇÒ»Î»ÖªÊ¶µÄÊ¹Õß£¬ÎÒÃÇÔÚÖªÊ¶µÄº£ÑóÖÐÒ»ÌìÌì³É³¤£¬Ò»ÌìÌìÎüÔÊ×ÅÄúµÄÖªÊ¶¡£ÀÏÊ¦Äú´òÎÒÃÇ£¬ÂîÎÒÃÇ£¬ÎÒÃÇÖªµÀÄúÊÇÎªÁËÎÒÃÇºÃ£¬ÎÒÃÇÒ»¶¨ºÃºÃÑ§Ï°£¬Ò»¶¨²»¹¼¸ºÄú¶ÔÎÒÃÇµÄÆÚÍû¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1832950.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/183/1833304.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷Äú£¬ÎÒµÄÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-10-08&#13;
+</span> </p>
+<p class="pCon">&#13;
+¿´!ÇÅ±ß»¹ÓÐÎÒÃÇÕÒ´ºÌìµÄ×ã¼£¡°ÎÒÕÒµ½´ºÌìÁË£¬´ºÌì¾ÍÔÚÄÇÊ÷Ö¦ÉÏ£¬´ºÌì¾ÍÔÚÄÇ»¨·ìÀï£¬Ò»´ÎÓÖÒ»´Î¶ú±ßÏëÆðÊ©ÀÏÊ¦ÄúÄÇ¶¯ÌýµÄÉùÒô£¬Ò»´ÎÓÖÒ»´Î¡£Ê©ÀÏÊ¦×ì½Ç¹Ò×ÅÒ»Ë¿Î¢Ð¦¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/183/1833304.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC4;&#xFA;&#xA3;&#xAC;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816892.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒÓëÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+ËäÈ»£¬ÀÏÊ¦Ö»½ÌÁËÎÒÃÇÈýÄê£¬µ«ÔÚÕâÈýÄêÀ´¶¼ÊÇÀÏÊ¦½ÌÎÒÃÇ×öÈËµÄµÀÀí£¬°Ñ·á¸»µÄÖªÊ¶´«µÝ¸øÎÒÃÇ¡£Ëý¸øÓèÁËÎÒÃÇºÃ¶à¿éÃæ°ü£¬ºÃ¼¸¹É¿ÕÆø¡£ÀÏÊ¦Ò²ÔÔÅàÁËÎÒ²»ÉÙ!´ÓÎÒÊÇÒ»ÃûÆ½·²µÄÐ¡Ñ§Éú±ä³ÉÁËÑ§Ð£ÈËÈË½ÔÖªµÄ´óºìÈË&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816892.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD3;&#xEB;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816851.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÀÏÊ¦°¡ÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-29&#13;
+</span> </p>
+<p class="pCon">&#13;
+¾´°®µÄÀÏÊ¦£¬ÄúµÄ½Ì»åÈç´º·ç£¬ËÆÈðÓê£¬ÓÀÃúÎÒÐÄ¡£ÎÒò¯³ÏµØ×£¸£Äú:°²¿µ£¬ÈçÒâ!Äú¸øÁËÎÒ²Ó²ÓÈç½ðµÄÉú»îÕæÚÐ£¬¾­¹ýËêÔÂµÄÄ¥Ï´£¬ÃÖ¾Ã¶øÓúÃ÷!¿ÌÔÚÄ¾°åÉÏµÄÃû×ÖÎ´±Ø²»Ðà£¬¿ÌÔÚÊ¯Í·ÉÏµÄÃû×ÖÒàÎ´±ØÓÀ´¹Ç§¹Å¡­¡­&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816851.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xC0;&#xCF;&#xCA;&#xA6;&#xB0;&#xA1;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/176/1767512.html" target="_blank">¡¾¸Ð¶÷½Ú×÷ÎÄ¡¿¸Ð¶÷ÀÏÊ¦£¬ÈÃ°®Á÷ÌÊ</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+¼ÇµÃÓÐÒ»Î»ÀÏÊ¦ÔøËµ¹ý£º¡°ÎÒ²»ÐèÒªÌ«¶àÈÙÓþºÍÔÞÃÀÎÒÖ»Ï²»¶¡®ÀÏÊ¦¡¯ÕâÁ½¸ö×Ö¡°ÕâÐ©ÖÊÆÓµÄµÄÓïÑÔÎÞÒÉÊÇËùÓÐÀÏÊ¦µÄÐÄÉù£¬ÎÒ¸ÐÐ»ÀÏÊ¦ÃÇ¶ÔÎÒµÄ×»×»½Ìµ¼£¬È»¶øÔÙ¶àÔÙÃÀµÄÓïÑÔ£¬Ò²±È²»ÉÏÓÃÐÐ¶¯À´¸Ð¶÷ÀÏÊ¦¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/176/1767512.html" target="_blank" title="&#xA1;&#xBE;&#xB8;&#xD0;&#xB6;&#xF7;&#xBD;&#xDA;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xB8;&#xD0;&#xB6;&#xF7;&#xC0;&#xCF;&#xCA;&#xA6;&#xA3;&#xAC;&#xC8;&#xC3;&#xB0;&#xAE;&#xC1;&#xF7;&#xCC;&#xCA;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816893.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÐÂÀÏÊ¦À´ÁË</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+ÎÒµÄÄ¿¹â²»Í£µÄ´òÁ¿×ÅÕâÎ»Å®ÀÏÊ¦£ºËý³¤µÃÊÝ¸ßÊÝ¸ßµÄ£¬Áô×ÅÒ»Í·ÎÚºÚµÄ¾í·¢£¬Å¨Å¨µÄÃ¼Ã«ÏÂÓÐÒ»Ë«Ã÷ÁÁµÄÑÛ¾¦£¬¾¼¾¼ÓÐÉñ£¬ÎÒ¾õµÃÕâÎ»Å®ÀÏÊ¦²¢²»ÔõÃ´À÷º¦£¬ÎÒÏëÒÔºó¿ÉÒÔÔÚ½ÌÊÒÀïËÁÎÞ¼Éµ¬µÄºú×÷·ÇÎªÁË¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816893.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xD0;&#xC2;&#xC0;&#xCF;&#xCA;&#xA6;&#xC0;&#xB4;&#xC1;&#xCB;">[²é¿´È«ÎÄ]</a></p>
+</li>
+<li class="">
+<p class="pTit clearfix"> <i class="iTit">
+<a href="http://edu.pcbaby.com.cn/181/1816871.html" target="_blank">¡¾ÎÒµÄÀÏÊ¦×÷ÎÄ¡¿ÎÒÐÀÉÍÀÏÊ¦</a>
+</i> <span class="sDate">&#13;
+2014-09-27&#13;
+</span> </p>
+<p class="pCon">&#13;
+Ð¡Ê±ºî£¬ÎÒÒÔÎªÄãºÜÉñÆø£¬ËµÉÏÒ»¾ä»°Ò²¾ªÌì¶¯µØ;³¤´óºó£¬²ÅÖªµÀÄÇ¿éºÚ°åÐ´ÏÂµÄÊÇÕæÀí£¬²ÁÈ¥µÄÊÇ¹¦Àû¡£Ð¡Ê±ºî£¬ÎÒÒÔÎªÄãºÜÉñÃØ£¬ÈÃËùÓÐµÄÄÑÌâ¶¼±ä³ÉÁËÀÖÈ¤;³¤´óºó£¬²ÅÖªµÀÄÇÖ§·Û±Ê»­³öµÄÊÇ²Êºç£¬È÷ÏÂµÄÊÇÀáµÎ¡£&#13;
+...... <a class="more" href="http://edu.pcbaby.com.cn/181/1816871.html" target="_blank" title="&#xA1;&#xBE;&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;&#xA1;&#xBF;&#xCE;&#xD2;&#xD0;&#xC0;&#xC9;&#xCD;&#xC0;&#xCF;&#xCA;&#xA6;">[²é¿´È«ÎÄ]</a></p>
+</li>
+</ul>
+<div class="pcbaby_page">
+<span>1</span><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_1.html">2</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_2.html">3</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_3.html">4</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_4.html">5</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_5.html">6</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_6.html">7</a><a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_7.html">8</a>...<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_23.html">24</a><a class="next" href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/index_1.html">ÏÂÒ»Ò³</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dwrap-r">
+<div class="boxA pb14">
+<div class="th clearfix">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¹ØÓÚÀÏÊ¦µÄ×÷ÎÄ</span>
+</div>
+<div class="tb">
+<p>ÏëÐ´ºÃ¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÂð£¿Ì«Æ½ÑóÇ××ÓÍø×÷ÎÄ´óÈ«Ìá¹©ÁË´óÁ¿¹ØÓÚÀÏÊ¦µÄ×÷ÎÄµÄ¶ÎÂä£¬¹ØÓÚÀÏÊ¦µÄ×÷ÎÄµÄºÃ´ÊºÃ¾äµÈ¡£ÓÐÁËÕâÐ©ËØ²Ä£¬Ð´ºÃ¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÔÙÒ²²»ÓÃ·¢³îÁË¡£<a class="more" href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank">[ÏêÇé]</a></p>
+</div>
+</div>
+<script class=" defer" src="http://www.pcbaby.com.cn/ssi/art/zjzy/1310/intf2722.js" type="text/javascript"/>
+<div class="tuiguang">
+<script src="http://edu.pcbaby.com.cn/resource/scb/1209/intf2042.js"/>
+</div>
+<div class="boxB pb14">
+<div class="th">
+<i class="thl"/>
+<i class="thr"/>
+<ul class="control clearfix" id="slide02_control">
+<li>Ð´ÈË×÷ÎÄ</li>
+<li>Ìå²Ã×÷ÎÄ</li>
+</ul>
+</div>
+<div class="tb">
+<div class="tab" id="slide02">
+<ul>
+<li class="clearfix">
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/oxzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC5;&#xBC;&#xCF;&#xF1;&#xD7;&#xF7;&#xCE;&#xC4;">Å¼Ïñ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wozw/" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xCE;&#xD2;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">ÎÒ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/bbzw/" target="_blank" title="&#xD0;&#xB4;&#xB8;&#xB8;&#xC7;&#xD7;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">¸¸Ç×</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/mmzw/" target="_blank" title="&#xD0;&#xB4;&#xC4;&#xB8;&#xC7;&#xD7;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">Ä¸Ç×</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC0;&#xCF;&#xCA;&#xA6;&#xD7;&#xF7;&#xCE;&#xC4;">ÀÏÊ¦</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/pyzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC5;&#xF3;&#xD3;&#xD1;&#xD7;&#xF7;&#xCE;&#xC4;">ÅóÓÑ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/jczw/" target="_blank" title="&#xD0;&#xB4;&#xBE;&#xAF;&#xB2;&#xEC;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">¾¯²ì</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/yeyezw/" target="_blank" title="&#xB9;&#xD8;&#xD3;&#xDA;&#xD2;&#xAF;&#xD2;&#xAF;&#xB5;&#xC4;&#xD7;&#xF7;&#xCE;&#xC4;">Ò¯Ò¯</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/nnzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC4;&#xCC;&#xC4;&#xCC;&#xD7;&#xF7;&#xCE;&#xC4;">ÄÌÄÌ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/ggzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xB8;&#xE7;&#xB8;&#xE7;&#xD7;&#xF7;&#xCE;&#xC4;">¸ç¸ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/jjzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xBD;&#xE3;&#xBD;&#xE3;&#xD7;&#xF7;&#xCE;&#xC4;">½ã½ã</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/ddzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xB5;&#xDC;&#xB5;&#xDC;&#xD7;&#xF7;&#xCE;&#xC4;">µÜµÜ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/meimeizw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xC3;&#xC3;&#xC3;&#xC3;&#xD7;&#xF7;&#xCE;&#xC4;">ÃÃÃÃ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wgzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xE2;&#xB9;&#xAB;&#xD7;&#xF7;&#xCE;&#xC4;">Íâ¹«</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/wpzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xE2;&#xC6;&#xC5;&#xD7;&#xF7;&#xCE;&#xC4;">ÍâÆÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/sszw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCA;&#xE5;&#xCA;&#xE5;&#xD7;&#xF7;&#xCE;&#xC4;">ÊåÊå</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/tzzw/" target="_blank" title="&#xCE;&#xD2;&#xB5;&#xC4;&#xCD;&#xAC;&#xD7;&#xC0;&#xD7;&#xF7;&#xCE;&#xC4;">Í¬×À</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/qjgzw/" target="_blank" title="&#xC7;&#xE5;&#xBD;&#xE0;&#xB9;&#xA4;&#xD7;&#xF7;&#xCE;&#xC4;">Çå½à¹¤</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/yxzw/" target="_blank" title="&#xD3;&#xA2;&#xD0;&#xDB;&#xCA;&#xC2;&#xBC;&#xA3;&#xD7;&#xF7;&#xCE;&#xC4;">Ó¢ÐÛ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/xrzw/lfzw/" target="_blank" title="&#xD1;&#xA7;&#xC0;&#xD7;&#xB7;&#xE6;&#xD7;&#xF7;&#xCE;&#xC4;">À×·æ</a>
+</li>
+<li class="clearfix">
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/jxw/" target="_blank" title="&#xBC;&#xC7;&#xD0;&#xF0;&#xCE;&#xC4;">¼ÇÐðÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/smw/" target="_blank" title="&#xCB;&#xB5;&#xC3;&#xF7;&#xCE;&#xC4;">ËµÃ÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/ylw/" target="_blank" title="&#xD2;&#xE9;&#xC2;&#xDB;&#xCE;&#xC4;">ÒéÂÛÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/dhg/" target="_blank" title="&#xB6;&#xC1;&#xBA;&#xF3;&#xB8;&#xD0;">¶Áºó¸Ð</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sw/" target="_blank" title="&#xC9;&#xA2;&#xCE;&#xC4;">É¢ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sg/" target="_blank" title="&#xCA;&#xAB;&#xB8;&#xE8;">Ê«¸è</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/xs/" target="_blank" title="&#xD0;&#xA1;&#xCB;&#xB5;">Ð¡Ëµ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/rj/" target="_blank" title="&#xC8;&#xD5;&#xBC;&#xC7;">ÈÕ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/zj/" target="_blank" title="&#xD6;&#xDC;&#xBC;&#xC7;">ÖÜ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/gxx/" target="_blank" title="&#xB8;&#xD0;&#xD0;&#xBB;&#xD0;&#xC5;">¸ÐÐ»ÐÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yj/" target="_blank" title="&#xD3;&#xCE;&#xBC;&#xC7;">ÓÎ¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yyzw/" target="_blank" title="&#xD3;&#xA2;&#xD3;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">Ó¢Óï×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/xxzw/" target="_blank" title="&#xCF;&#xEB;&#xCF;&#xF3;&#xD7;&#xF7;&#xCE;&#xC4;">ÏëÏó×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/ktzw/" target="_blank" title="&#xBF;&#xB4;&#xCD;&#xBC;&#xD7;&#xF7;&#xCE;&#xC4;">¿´Í¼×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/resource/zt/zqjscb/" target="_blank" title="&#xD6;&#xD0;&#xC7;&#xEF;&#xBD;&#xDA;&#xCA;&#xD6;&#xB3;&#xAD;&#xB1;&#xA8;">ÖÐÇï½Ú</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/yyw/" target="_blank" title="&#xD3;&#xA6;&#xD3;&#xC3;&#xCE;&#xC4;">Ó¦ÓÃÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/khzw/" target="_blank" title="&#xBF;&#xC6;&#xBB;&#xC3;&#xD7;&#xF7;&#xCE;&#xC4;">¿Æ»Ã×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sqzw/" target="_blank" title="&#xCA;&#xE3;&#xC7;&#xE9;&#xD7;&#xF7;&#xCE;&#xC4;">ÊãÇé×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/thzw/" target="_blank" title="&#xCD;&#xAF;&#xBB;&#xB0;&#xD7;&#xF7;&#xCE;&#xC4;">Í¯»°×÷ÎÄ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/sx/" target="_blank" title="&#xCA;&#xE9;&#xD0;&#xC5;">ÊéÐÅ</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/dsbj/" target="_blank" title="&#xB6;&#xC1;&#xCA;&#xE9;&#xB1;&#xCA;&#xBC;&#xC7;">¶ÁÊé±Ê¼Ç</a>
+<a href="http://edu.pcbaby.com.cn/zuowen/tczw/zwzw/" target="_blank" title="&#xD7;&#xB4;&#xCE;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">×´Îï×÷ÎÄ</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="boxC pb14">
+<div class="th clearfix"> <i class="thl"/> <i class="thr"/> <span class="thc">&#13;
+¹ØÓÚÀÏÊ¦µÄ×÷ÎÄÅÅÐÐ°ñ&#13;
+</span> </div>
+<div class="tb">
+<ul>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216731.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÀÏÊ¦ÊÇÐÁÇÚ</a>
+</i> <span>&#13;
+458&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216727.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ¾´ÅåµÄÀÏ</a>
+</i> <span>&#13;
+250&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1211213.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿¶àÎ¶¡°ÒûÁÏ</a>
+</i> <span>&#13;
+90&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/169/1695165.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÈÃÀÏÊ¦¹ýÒ»</a>
+</i> <span>&#13;
+1936&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1215516.html" target="_blank">¡¾·îÏ×µÄ×÷ÎÄ¡¿ÖÂ¸øÎÞË½·î</a>
+</i> <span>&#13;
+147&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/174/1747553.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿½ÌÊ¦½Ú£¬Ïò</a>
+</i> <span>&#13;
+1576&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/128/1289036.html" target="_blank">¡¾¹ØÓÚ¸Ð¶÷µÄ×÷ÎÄ¡¿¸Ð¶÷ÀÏ</a>
+</i> <span>&#13;
+605&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216725.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ°®ÎÒµÄÀÏ</a>
+</i> <span>&#13;
+131&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216729.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿ÎÒ×î¿É¾´µÄ</a>
+</i> <span>&#13;
+159&#13;
+</span> </li>
+<li> <i>
+<a href="http://edu.pcbaby.com.cn/121/1216726.html" target="_blank">¡¾½ÌÊ¦½Ú×÷ÎÄ¡¿Ò»¸öÕâÑùµÄ</a>
+</i> <span>&#13;
+105&#13;
+</span> </li>
+</ul>
+</div>
+</div>
+<div class="boxD pb14">
+<div class="th clearfix">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¸ü¶à×÷ÎÄÄÚÈÝ</span>
+</div>
+<div class="tb">
+<ul id="bDlist">
+<li><a href="http://edu.pcbaby.com.cn/zuowen/jrzw/" target="_blank" title="&#xBD;&#xDA;&#xC8;&#xD5;&#xD7;&#xF7;&#xCE;&#xC4;">½ÚÈÕ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xjzw/" target="_blank" title="&#xD0;&#xB4;&#xBE;&#xB0;&#xD7;&#xF7;&#xCE;&#xC4;">Ð´¾°×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/lzzw/" target="_blank" title="&#xC0;&#xF8;&#xD6;&#xBE;&#xD7;&#xF7;&#xCE;&#xC4;">ÀøÖ¾×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/htzw/" target="_blank" title="&#xBB;&#xB0;&#xCC;&#xE2;&#xD7;&#xF7;&#xCE;&#xC4;">»°Ìâ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/xszw/" target="_blank" title="&#xD0;&#xB4;&#xCA;&#xC2;&#xD7;&#xF7;&#xCE;&#xC4;">Ð´ÊÂ×÷ÎÄ</a></li>
+<li><a href="http://edu.pcbaby.com.cn/zuowen/zwzw/" target="_blank" title="&#xD6;&#xB2;&#xCE;&#xEF;&#xD7;&#xF7;&#xCE;&#xC4;">Ö²Îï×÷ÎÄ</a></li>
+</ul>
+</div>
+</div>
+<div class="boxE pb14">
+<div class="th">
+<i class="thl"/>
+<i class="thr"/>
+<span class="thc">¾«²ÊÍÆ¼ö</span>
+</div>
+<div class="tb">
+<ul class="clearfix">
+<li>
+<a href="http://edu.pcbaby.com.cn/book/zt/zzdq/" target="_blank" title="&#xD5;&#xDB;&#xD6;&#xBD;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1131775_116255265.jpg" width="96"/></i>
+</a><p class="pTit">ÕÛÖ½´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/zuowen/" target="_blank" title="&#xD7;&#xF7;&#xCE;&#xC4;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_1269606474977_2561_b.jpg" width="96"/></i>
+</a><p class="pTit">×÷ÎÄ´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/game/" target="_blank" title="&#xC7;&#xD7;&#xD7;&#xD3;&#xD3;&#xCE;&#xCF;&#xB7;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1131775_qzyx.jpg" width="96"/></i>
+</a><p class="pTit">Ç××ÓÓÎÏ·</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/erge/" target="_blank" title="&#xB6;&#xF9;&#xB8;&#xE8;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_dlm-200.jpg" width="96"/></i>
+</a><p class="pTit">¶ù¸è´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/dengmi/" target="_blank" title="&#xB5;&#xC6;&#xC3;&#xD5;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_306.jpg" width="96"/></i>
+</a><p class="pTit">µÆÃÕ´óÈ«</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zjyd/hblz/" target="_blank" title="&#xBB;&#xE6;&#xB1;&#xBE;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_7232165_020304111149_2.jpg" width="96"/></i>
+</a><p class="pTit">»æ±¾Á¬ÔØ</p>
+
+</li>
+<li>
+<a href="http://edu.pcbaby.com.cn/resource/zt/rkl/" target="_blank" title="&#xC8;&#xC6;&#xBF;&#xDA;&#xC1;&#xEE;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_7021475.jpg" width="96"/></i>
+</a><p class="pTit">ÈÆ¿ÚÁî</p>
+
+</li>
+<li>
+<a href="http://special.pcbaby.com.cn/zhuowen/ertongshi/" target="_blank" title="&#xB6;&#xF9;&#xCD;&#xAF;&#xCA;&#xAB;&#xB8;&#xE8;&#xB4;&#xF3;&#xC8;&#xAB;">
+<i class="iPic"><img alt="" height="72" src="http://img0.pcbaby.com.cn/pcbaby/1209/03/1132283_20110509090411329.jpg" width="96"/></i>
+</a><p class="pTit">¶ùÍ¯Ê«¸è´óÈ«</p>
+
+</li>
+</ul>
+</div>
+</div>
+<div class="boxF pb14">
+<div class="th"><i class="thl"/><i class="thr"/><span class="thc">ÁªÏµ±à¼­</span></div>
+<div class="tb">
+<p>ÁªÏµ±à¼­£ºÎâ¼Ñ×Ó<br/>&#13;
+ÁªÏµÓÊÏä£ºwujiazi@pcbaby.com.cn<br/>&#13;
+ÁªÏµµç»°£º020-38178288-4198</p>
+</div>
+</div>
+</div>
+<div class="clear"/>
+</div>
+</div>
+</div>
+<script src="http://js.3conline.com/min/temp/v2/core-pc_v1,dpl-tab_v2.js"/>
+<script>&#13;
+new pc.tab({   &#13;
+target: pc.getElems('#slide01 li'),&#13;
+control: pc.getElems('#slide01_control li'),&#13;
+effect: 'fade',&#13;
+autoPlay:true&#13;
+});&#13;
+new pc.tab({   &#13;
+target: pc.getElems('#slide02 li'),&#13;
+control: pc.getElems('#slide02_control li')&#13;
+});  &#13;
+function lihover(obj){&#13;
+var obj=document.getElementById(obj).getElementsByTagName("li");&#13;
+if(obj){  &#13;
+for(var i =obj.length-1;i&gt;=0;i--){&#13;
+obj[i].onmouseover=function(){&#13;
+this.className="current";&#13;
+}&#13;
+obj[i].onmouseout=function(){&#13;
+this.className="";  &#13;
+}&#13;
+}}&#13;
+}&#13;
+lihover("bDlist");&#13;
+lihover("sTitlist");&#13;
+</script>
+<script class=" defer" src="http://www.pcbaby.com.cn/global/footer/index.html"/>
+<script>_submitIvyID();</script>
+</body>
+</html>
