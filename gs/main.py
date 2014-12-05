@@ -36,7 +36,7 @@ if __name__ == '__main__':
     gser.set_proxies(proxies)
     for query_key in query_keys:
         print chardet.detect(query_key)
-        print "\n\n****************Google Keyword: {0}********************".format(query_key)
+        print "\n\n****************Google Keyword: " + query_key.decode(chardet.detect(query_key)['encoding']) + "********************"
         try:
             gser.get_results(query_key,max_value)
         except KeyboardInterrupt:

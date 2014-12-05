@@ -15,6 +15,7 @@ import random
 import chardet
 import sys
 import chardet
+import codecs
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -110,9 +111,10 @@ class GoogleSearch(object):
         """get a page of results"""
         self.reset_init()
         predecoding = chardet.detect(query)['encoding']
-        #self.query = self.browser.convert_encoding(query)
         self.query = self.browser.convert_encoding(query)
+        print chardet.detect(self.query)
         self.query_unicode = self.query.decode(predecoding)
+        print self.query_unicode
         self._MAX_VALUE = max_value
         while self.eor is not True:
             page = self._get_results_page()
@@ -163,17 +165,13 @@ class GoogleSearch(object):
         """extract the url of one search-page"""
         #get the link-urls of a page
         preurls = soup.xpath("//h3[@class='r']/a")
-        # for preurl in preurls:
-            # print etree.tostring(preurl)
         seedurls = list()
         for url in preurls:
             if 'http://' in etree.tostring(url) or 'https://' in etree.tostring(url):
                 seedurls.append(re.search('.*(https?://.*?(?!google)\w+.*?)&', etree.tostring(url)).group(1))
-        #seedurls = [ re.search(u'[/\?]url(\?q)?=(http://\w+\..*)&', seedurl).group(1) 
-        #             for seedurl in seedurls ]
-        #print seedurls
         ret_res = []
         for seedurl in seedurls:
+            print chardet.detect(seedurl)
             eres = self._filter_result(seedurl)
             if eres:
                 ret_res.append(eres)
@@ -182,12 +180,12 @@ class GoogleSearch(object):
     def _filter_result(self, seedurl):
         """open the urls returned by _extract_results() and return the content"""
         filter_meta = dict()
-        fs_encode = sys.getfilesystemencoding()
+        page_text = ''
         try:
+            # 返回encode字符串
             page_text = self.browser.get_page(seedurl, proxies=self.proxies)
-            #print type(page_text)
-            #print chardet.detect(page_text)
-            dom = soupparser.fromstring(page_text)
+            print 'page_text:' + chardet.detect(page_text)['encoding']
+            #dom = soupparser.fromstring(page_text)
         except BrowserError, e:
             raise SearchError, "Failed getting %s: %s" %(e.url, e.error)
             return None
@@ -195,18 +193,12 @@ class GoogleSearch(object):
             print page_text
             return None
         else:
-            title_list = dom.xpath('//title/text()')
-            if len(title_list) == 0:
-                page_title = 'NoTitle'
-            else:
-                page_title = title_list[0].strip('\n')
-                page_title = page_title.encode(fs_encode)
-            relist = re.findall(self.query, etree.tostring(dom, encoding='UTF-8'))
-            if len(relist) >= 0:
-                filter_meta['title'] = page_title
+            relist = re.findall(self.query_unicode.encode(chardet.detect(page_text)['encoding']), page_text)
+            if len(relist) >= 1:
+                #filter_meta['title'] = page_title
                 filter_meta['url'] = seedurl
-                filter_meta['query_word'] = self.query_unicode.encode(fs_encode)
-                filter_meta['text'] = etree.tostring(dom, encoding= fs_encode)
+                filter_meta['query_word'] = self.query_unicode
+                filter_meta['text'] = page_text
                 filter_meta['match_counts'] = len(relist)
             #return filter_meta
                 self.write_content(filter_meta)
@@ -215,18 +207,16 @@ class GoogleSearch(object):
         if out_file is not None:
             dest_file = out_file
         else:
-            dest_file = 'output\\' + \
+            dest_file = u'output\\' + \
                         result['query_word'] + \
-                        '_' + \
-                        str(result['match_counts']) + \
-                        '_' + \
-                        re.sub('[|<>\.\\\*\?\:\ \r\n/]','' , result['title']) + \
-                        '.txt'
+                        '_' + str(result['match_counts']) + \
+                        '_' + result['url'].split('/')[2] + \
+                        u'.txt'
+            #print chardet.detect(dest_file)
                         
         with open(dest_file, 'a') as f:
-            f.write('Match Times: %s \n' % result['match_counts'])
-            f.write('Url: %s \n' % result['url'])
-            f.write('Title: %s \n\n\n' % result['title'])
+            #f.write('Match Times: %s \n' % result['match_counts'])
+            #f.write('Url: %s \n\n\n' % result['url'])
             f.write(result['text'])
 
 class BrowserError(Exception):
@@ -255,7 +245,8 @@ class Browser(object):
             else:
 				response = requests.get(url, headers=self.headers,
 						verify=False, timeout=timeout)
-            return self.convert_encoding(response.text)
+            #return self.convert_encoding(response.text)
+            return response.content
         except requests.exceptions.Timeout, e:
             return "[Timeout] : open url timeout \n%s\n " %(url)
         except BrowserError as e:

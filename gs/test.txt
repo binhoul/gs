@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>【转载】hadoop之failed task任务和killed task任务 - siwei1988 - 博客园</title>
+<link type="text/css" rel="stylesheet" href="/bundles/blog-common.css?v=iELPXtTf0D2e_69XMLT-Ow37SYth0s_SMzcJCTLIy5s1"/>
+<link id="MainCss" type="text/css" rel="stylesheet" href="/skins/clover/bundle-clover.css?v=N7EKG7saGQFV5T4Pu8anE1yBPawhaT8dIvbvbw0jpM41"/>
+<link title="RSS" type="application/rss+xml" rel="alternate" href="http://www.cnblogs.com/siwei1988/rss"/>
+<link title="RSD" type="application/rsd+xml" rel="EditURI" href="http://www.cnblogs.com/siwei1988/rsd.xml"/>
+<link type="application/wlwmanifest+xml" rel="wlwmanifest" href="http://www.cnblogs.com/siwei1988/wlwmanifest.xml"/>
+<script src="http://common.cnblogs.com/script/jquery.js" type="text/javascript"></script>  
+<script type="text/javascript">var currentBlogApp = 'siwei1988', cb_enable_mathjax=false;</script>
+<script src="/bundles/blog-common.js?v=_F6vMpUraZDFoT85Xf9mf4IazxZUUUCHJBFoubR7iR01" type="text/javascript"></script>
+</head>
+<body>
+<a name="top"></a>
+
+<!--done-->
+<TABLE cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+<TR>
+	<TD width=299 background="/skins/clover/images/banner1.jpg"></TD>
+	<TD background="/skins/clover/images/banner.jpg">
+<!--done-->
+<div class="header">
+	<div class="headerText">
+		<a id="Header1_HeaderTitle" class="headermaintitle" href="http://www.cnblogs.com/siwei1988/">siwei1988</a><br>
+		
+	</div>
+</div>
+</TD>
+	<TD width=296 background="/skins/clover/images/banner2.jpg"></TD>
+</TR>
+</TABLE>
+<div id="mylinks"><a id="MyLinks1_HomeLink" class="menu" href="http://www.cnblogs.com/">博客园</a>&nbsp; &nbsp;
+<a id="MyLinks1_MyHomeLink" class="menu" href="http://www.cnblogs.com/siwei1988/">首页</a>&nbsp; &nbsp;
+<a href="http://q.cnblogs.com/" class="menu" target="_blank">博问</a>&nbsp; &nbsp;
+<a href="http://home.cnblogs.com/ing/" class="menu" target="_blank">闪存</a>&nbsp; &nbsp;
+<a id="MyLinks1_NewPostLink" class="menu" rel="nofollow" href="http://i.cnblogs.com/EditPosts.aspx?opt=1">新随笔</a>&nbsp; &nbsp;
+<a id="MyLinks1_Syndication" class="menu" href="http://www.cnblogs.com/siwei1988/rss">订阅</a>
+<a id="MyLinks1_XMLLink" href="http://www.cnblogs.com/siwei1988/rss"><img src="http://www.cnblogs.com/images/xml.gif" alt="订阅" /></a>&nbsp; &nbsp;
+<a id="MyLinks1_Admin" class="menu" rel="nofollow" href="http://i.cnblogs.com/">管理</a>
+<!-- <a id="MyLinks1_ContactLink" accesskey="9" class="menu" rel="nofollow" href="http://space.cnblogs.com/msg/send/siwei1988">联系</a>&nbsp;&nbsp;&nbsp; -->
+</div>
+<div id="mytopmenu">
+	
+		<DIV id="mystats">
+			
+<!--done-->
+<div class="blogStats">
+posts - 35,&nbsp;
+comments - 1,&nbsp;
+trackbacks - 0
+
+</div></DIV>
+	
+</div>
+<div id="centercontent">
+	
+
+<!--done-->
+<div class = "post">
+	<div class = "postTitle">
+		<a id="cb_post_title_url" class="postTitle2" href="http://www.cnblogs.com/siwei1988/archive/2012/07/25/2607930.html">【转载】hadoop之failed task任务和killed task任务</a>
+	</div>
+	<div id="cnblogs_post_body"><p>failed task可理解为自杀，也就是task本身出了问题而自杀；killed task可理解为是他杀，也就是jobtracker认为这个任务的执行是多余的，所以把任务直接杀掉。起初用hadoop的时候经常在一个complete的job中看到几个failed 或者是 killed task，还经常好奇为什么有的时候task的失败不会影响到整个job的失败，而有的时候就会使整个job的失败，到底failed和killed task对整个job的影响是什么？</p>
+<h2><strong><span>failed task</span></strong></h2>
+<p>failed task出现的原因可分为以下几种情况：<br />1 child task失败，比如map/reduce任务中抛出了异常，child JVM会将这个error汇报给tasktracker，tasktracker再回将这个error汇报给jobtracker<br />2 child JVM失败，比如启动child task的JVM本身出现了bug，导致进程直接死掉，此时tasktracker会知道child JVM已经退出，并汇报给jobtracker此次task attempt失败<br />3 任务超时，如果某个任务很长时间都没有更新状态，则认为任务超时。有的任务虽然执行时间非常长，但它不停的在更新自己的状态，所以系统也不会认为这是个超时任务<br />4 tasktracker由于软件或硬件的原因直接挂掉了。对于这种情况，tasktracker会停止向jobtracker发送心跳，jobtracker会认为这是个dead node并把该节点加入黑名单，从此不再给这个节点分配任务，直到问题被修复后tasktracker重新汇报心跳。我遇到最囧的情况就是当各节点hosts不一致的时候，会出现tasktracker向jobtasker发送心跳，但jobtracker不能正确向tasktracker，形成了半死不活的节点～。<br />hadoop本身的一个设计理念就是在普通的pc硬件上构建高可靠性的系统，任何failed task都不会引起整个job的失败，因为所有失败的任务都会被重新执行（reschedule execution），只有当重新执行的次数超过4次，才会把这任务标记为失败，导致整个job的失败。</p>
+<h2><strong><span>killed task</span></strong></h2>
+<p>在介绍killed task之前，先介绍一下speculative execution。举个简单的例子，如果某个job有2000个map task，已经完成了1999个，只剩下一个task由于硬件比较慢而成为拖尾任务，为了减少拖尾任务对整个job运行时间的影响，jobtracker会重新启动一个一模一样的duplicate task和原有的task并行的执行，这样有一个task执行成功，整个map过程就会结束。speculative execution只有个处理拖尾任务的优化策略，并不能提高系统的可靠性。<br />介绍完speculative execution后我们来看看killed task的情况。killed task可能在两种情况下发生，一个是speculative execution中两个并行duplicate task中如果有一个执行成功，另一个将被kill掉；第二种情况是如果某个tasktracker挂了，那么正在该节点上面跑的任务都将被标记为killed</p>
+<p>转自 &nbsp;<a href="http://hi.baidu.com/krazymm/blog/item/c21db2183d0db88687d6b683.html">http://hi.baidu.com/krazymm/blog/item/c21db2183d0db88687d6b683.html</a></p></div><div id="MySignature"></div>
+<div class="clear"></div>
+<div id="blog_post_info_block">
+<div id="BlogPostCategory"></div>
+<div id="EntryTag"></div>
+<div id="blog_post_info">
+</div>
+<div class="clear"></div>
+<div id="post_next_prev"></div>
+</div>
+
+
+	<div class = "postDesc">posted on <span id="post-date">2012-07-25 11:19</span> <a href='http://www.cnblogs.com/siwei1988/'>siwei1988</a> 阅读(<span id="post_view_count">...</span>) 评论(<span id="post_comment_count">...</span>)  <a href ="http://i.cnblogs.com/EditPosts.aspx?postid=2607930" rel="nofollow">编辑</a> <a href="#" onclick="AddToWz(2607930);return false;">收藏</a></div>
+</div>
+<script type="text/javascript">var allowComments=true,isLogined=false,cb_blogId=116229,cb_entryId=2607930,cb_blogApp=currentBlogApp,cb_blogUserGuid='096ffe7c-e190-e111-aa3f-842b2b196315',cb_entryCreatedDate='2012/7/25 11:19:00';loadViewCount(cb_entryId);</script>
+
+<a name="!comments"></a><div id="blog-comments-placeholder"></div><script type="text/javascript">var commentManager = new blogCommentManager();commentManager.renderComments(0);</script>
+<div id="comment_form" class="commentform">
+<a name="commentform"></a>
+<div id="divCommentShow"></div>
+<div id="comment_nav"><span id="span_refresh_tips"></span><a href="javascript:void(0);" id="lnk_RefreshComments" onclick="return RefreshCommentList();">刷新评论</a><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a></div>
+<div id="comment_form_container"></div>
+<div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+<div id="site_nav_under"><a href="http://www.cnblogs.com/" target="_blank" title="开发者的网上家园">博客园首页</a><a href="http://q.cnblogs.com/" target="_blank" title="程序员问答社区">博问</a><a href="http://news.cnblogs.com/" target="_blank" title="IT新闻">新闻</a><a href="http://home.cnblogs.com/ing/" target="_blank">闪存</a><a href="http://job.cnblogs.com/" target="_blank">程序员招聘</a><a href="http://kb.cnblogs.com/" target="_blank">知识库</a></div>
+<div id="opt_under_post"></div>
+<script type="text/javascript">
+    var enableGoogleAd = canShowAdsense(); var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+    fixPostBodyFormat();
+</script>
+<div id="ad_under_post_holder">
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        if (enableGoogleAd) {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        }
+    })();
+</script>
+<script type='text/javascript'>
+    try {
+        if (enableGoogleAd) {
+            googletag.cmd.push(function () {
+                googletag.defineSlot('/1090369/cnblogs_blogpost_C1_sitehome', [300, 250], 'div-gpt-ad-1346480159711-0').addService(googletag.pubads());
+                googletag.defineSlot('/1090369/cnblogs_blogpost_C2', [468, 60], 'div-gpt-ad-1410860226396-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        };
+    } catch (e) { }
+</script>
+<div id="google_ad_c1" class="c_ad_block">
+    <div id='div-gpt-ad-1346480159711-0' style='width:300px; height:250px;'>
+    <script type='text/javascript'>
+        try {
+            if (enableGoogleAd) {
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1346480159711-0'); });            
+            } else {
+                $('#div-gpt-ad-1346480159711-0').hide();
+            }
+    } catch (e) { }
+    </script>
+    </div>
+</div>
+</div>
+<div id="under_post_news"></div>
+<div id="google_ad_c2" class="c_ad_block">
+<div id='div-gpt-ad-1410860226396-0' style='width:468px; height:60px;'>
+<script type='text/javascript'>
+try {
+    if (enableGoogleAd) {
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1410860226396-0'); });
+    } else {
+        $('#div-gpt-ad-1346480159711-0').hide();
+    }
+} catch (e) { }
+</script>
+</div>
+</div>
+<div id="under_post_kb"></div>
+<div id="HistoryToday" class="c_ad_block"></div>
+<script type="text/javascript">
+$(function () {
+    loadNewsAndKb();
+    loadBlogSignature();
+    LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+    GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate);
+    loadOptUnderPost();
+    GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+    setTimeout(function () { incrementViewCount(cb_entryId); }, 200);
+});
+</script>
+</div>
+
+</div>
+<div id="leftcontent">
+	
+		<DIV id="leftcontentcontainer" >
+			
+<!--done-->
+<div class="newsItem">
+	<div id="blog-news"></div><script type="text/javascript">loadBlogNews();</script>
+</div>
+<br>			
+			<div id="blog-calendar" style="display:none"></div><script type="text/javascript">loadBlogDefaultCalendar();</script>
+			<div id="blog-sidecolumn"></div><script type="text/javascript">loadBlogSideColumn();</script></DIV>
+	
+</div>
+
+
+<!--done-->
+<div class="footer">
+	
+	Copyright &copy;2014 siwei1988 Powered By<a href="/">博客园</a> 模板提供：<a href="http://blog.hjenglish.com">沪江博客</a>
+</div>
+</body>
+</html>
